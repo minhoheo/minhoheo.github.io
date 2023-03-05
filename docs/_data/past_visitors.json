@@ -1,0 +1,129 @@
+[
+  {
+    "web": "http://youngwoon.github.io/",
+    "picture": "/assets/people/joshua_tree/youngwoon.jpg",
+    "name": "Youngwoon Lee",
+    "title": "PhD student at USC",
+    "email": "lee504 [at] usc [dot] edu",
+    "research": "Robot Learning",
+    "current": "next: Postdoc @ UC Berkeley with Prof. Pieter Abbeel; will become Assistant professor @ Yonsei University"
+  },
+    {
+    "web": "http://shaohua0116.github.io/",
+    "picture": "/assets/people/shao-hua.jpg",
+    "name": "Shao-Hua Sun",
+    "title": "PhD student at USC",
+    "email": "shaohuas [at] usc [dot] edu",
+    "research": "Meta learning",
+    "current": "next: Assistant professor @ National Taiwan University"
+  },
+
+  {
+    "web": "https://dweeptrivedi.github.io/",
+    "picture": "/assets/people/dweep.jpg",
+    "name": "Dweep Trivedi",
+    "title": "MS student at USC",
+    "email": "dtrivedi [at] usc [dot] edu",
+    "research": "Computer vision",
+    "current": "next: PhD student @ UT Austin"
+  },
+
+  {
+    "web": "https://shagunuppal.github.io/",
+    "picture": "/assets/people/shagun.jpg",
+    "name": "Shagun Uppal",
+    "title": "Visitor from IIIT Delhi",
+    "email": "shagun16088 [at] iiitd [dot] ac [dot] in",
+    "current": "next: MS student @ CMU"
+  },
+  {
+    "web": "https://sarthak268.github.io/",
+    "picture": "/assets/people/sarthak.jpg",
+    "name": "Sarthak Bhagat",
+    "title": "Visitor from IIIT Delhi",
+    "email": "sarthak16189 [at] iiitd [dot] ac [dot] in",
+    "current": "next: MS student @ CMU"
+  },
+  {
+    "web": "https://junjungoal.github.io/",
+    "picture": "/assets/people/jun.jpg",
+    "name": "Jun Yamada",
+    "title": "Visitor from University College London",
+    "email": "junyamada107 [at] gmail [dot] com",
+    "current": "next: PhD student @ Oxford University with Prof. Ingmar Posner"
+  },
+  {
+    "web": "https://edwardshu.com",
+    "picture": "/assets/people/joshua_tree/ed.jpg",
+    "name": "Edward S. Hu",
+    "title": "Undergraduate student at USC",
+    "email": "hues [at] usc [dot] edu",
+    "current": "next: PhD student @ U. of Pennsylvania with Prof. Dinesh Jayaraman"
+  },
+  {
+    "web": "https://www.andrewszot.com",
+    "picture": "/assets/people/joshua_tree/andrew.jpg",
+    "name": "Andrew Szot",
+    "title": "Undergraduate student at USC",
+    "email": "szot [at] usc [dot] edu",
+    "current": "next: PhD student @ Georgia Tech with Prof. Zsolt Kira and Prof. Dhruv Batra"
+  },
+  {
+    "web": "https://yjy0625.github.io",
+    "picture": "/assets/people/joshua_tree/jingyun.jpg",
+    "name": "Jingyun Yang",
+    "title": "Undergraduate student at USC",
+    "email": "jingyuny [at] usc [dot] edu",
+    "current": "now: PhD student @ Stanford University with Prof. Jeannette Bohg",
+    "current_": "MS student @ CMU with Prof. Katerina Fragkiadaki"
+  },
+  {
+    "web": "https://srirams32.github.io/",
+    "picture": "/assets/people/sri.jpg",
+    "name": "Sriram Somasundaram",
+    "title": "Undergraduate student at USC",
+    "current": "next: MS student @ Stanford, now: Software engineer @ C3.ai"
+  },
+  {
+    "web": "https://hyeonwoonoh.github.io/",
+    "picture": "/assets/people/hyeonwoo.jpg",
+    "name": "Hyeonwoo Noh",
+    "title": "Visitor from Postech",
+    "current": "next: Research scientist @ OpenAI"
+  },
+  {
+    "web": "https://andrewliao11.github.io/",
+    "picture": "/assets/people/andrew_liao.png",
+    "name": "Yuan-Hong (Andrew) Liao",
+    "title": "Visitor from National Tsing Hua University",
+    "current": "next: PhD student @ U. of Toronto with Prof. Sanja Fidler"
+  },
+  {
+    "web": "https://jiayuanm.com/",
+    "picture": "/assets/people/jiayuan.jpg",
+    "name": "Jiayuan Mao",
+    "title": "Visitor from Tsinghua University",
+    "current": "now: PhD student @ MIT with Prof. Joshua Tenenbaum and Prof. Leslie Kaelbling"
+  },
+  {
+    "web": "https://dhh1995.github.io/",
+    "picture": "/assets/people/honghua.jpg",
+    "name": "Honghua Dong",
+    "title": "Visitor from Tsinghua University",
+    "current": "now: PhD student @ U. of Toronto with Prof. Jimmy Ba"
+  },
+  {
+    "web": "https://carpedm20.github.io",
+    "picture": "/assets/people/taehoon.png",
+    "name": "Taehoon Kim",
+    "title": "Visitor from Devsisters",
+    "current": "next: Research engineer @ OpenAI"
+  },        
+  {
+    "web": "https://wook.kr",
+    "picture": "/assets/people/jongwook2.png",
+    "name": "Jongwook Choi",
+    "title": "Visitor from Seoul National University",
+    "current": "next: PhD student @ U. of Michigan, Ann Arbor with Prof. Honglak Lee"
+  }
+]

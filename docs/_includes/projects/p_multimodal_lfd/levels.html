@@ -1,0 +1,43 @@
+<div id='tasks' class="container-fluid py-5 bg-type-1" align="center">
+  <h1>Tasks</h1>
+
+  <div class="container-fluid mx-0 task-container" >
+    <div class='container'>
+      {% for task in include.data %}
+      {% assign remainder = forloop.index0 | modulo: 4  %}
+
+      {% if remainder == 0 %}
+        {% if forloop.index0 != 0 %}
+        </div>
+        {% endif %}
+      <div class="row">
+      {% endif %}
+
+      <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-xs-3 task-section">
+          <div class='task-section-figure'>
+              <!-- <img class="w-100" src="{{ task.gif_loc }}" /> -->
+            <video class="w-100" autoplay loop muted playsinline>
+              <source src="{{ task.mp4_loc  }}" type="video/mp4">
+            </video>
+          </div>
+          <div class='task-section-overlay'>
+            <div class='task-section-figure task-section-overlay-figure'>
+              <img class="w-100" src="{{ task.img_loc }}" />
+            </div>
+            <div class='w-100 task-section-all-text'>
+            <p>
+              <p class='task-section-text'>{{ task.name }}</p>
+              <p class='task-section-desc'>
+                {{ task.desc }}
+              </p>
+            </p>
+            </div>
+          </div>
+        </div>
+
+
+      {% endfor %}
+    </div>
+    </div>
+  </div>
+</div>

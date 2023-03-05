@@ -1,0 +1,54 @@
+<div id='relevant'>
+<br> 
+<br>
+<h3>Relevant Research Areas</h3>
+<div class='container'>
+  <br>
+  <ul>
+    <li><b>Reinforcement Learning for Physical Reasoning</b>: Long-horizon Physics puzzles with diverse interactions.</li>
+    <li><b>Generalization to Unseen Actions</b>: Large and diverse action space to test generalization.</li>
+    <li><b>Multi-task Learning</b>: Diverse task distribution suitable for meta learning.</li>
+    <li><b>Predictive Modeling and Model-based RL</b>: Consistent environment and tool dynamics for learning models.</li>
+    <li><b>Understanding Tool functionality and usage</b>: Discrete (selection) + Continuous (placement) action space for tools</li>
+    <!-- <li><b>Tasks</b>: 12 complex tasks with stochastic variations and an easy <a href="https://github.com/gitlimlab/CREATE#defining-tasks">interface</a> to create many more tasks. Suitable for meta reinforcement learning.</li> -->
+  </ul>
+  <br>
+</div>
+</div>
+
+<hr>
+<br>
+
+<h3 id='installation'>Installation</h3>
+<div class='container'>
+  <p>
+    See the <a href='https://github.com/clvrai/create'>GitHub </a> for
+    complete instructions. First run the following in the command line to
+    install (with at least Python 3.6):
+  </p>
+  <pre>
+  <code>
+  git clone https://github.com/clvrai/create.git
+  cd create
+  pip install -r requirements.txt
+  </code></pre>
+
+
+  <p>
+  Next, import the environment and use it. Again, see the <a href='https://github.com/clvrai/create'>GitHub</a> for the full list of level names.
+  </p>
+
+  <pre>
+  <code>
+  import create_game
+
+  env = gym.make('CreateLevelPush-v0')
+
+  env.reset()
+
+  done = False
+  while not done: 
+    obs, reward, done, info = env.step(env.action_space.sample())
+    env.render('human')
+  </code></pre>
+</div>

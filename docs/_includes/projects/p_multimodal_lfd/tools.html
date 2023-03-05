@@ -1,0 +1,47 @@
+<div class="container-fluid bg-type-2 py-5 tool-container"   id="desc-1">
+  <div class='container py-5' id="video" style="display:none">
+    <!--<h1>Environment Demo</h1>-->
+    <h1>2. Study Game Instruction Video</h1>
+    <p class='phone-invisible' style='text-align: center; font-size: 110%'>
+      <br>
+      Please watch the video below to understand how to play the game. After watching, you'll be able to 
+      continue with playing the game.
+    </p>
+    <div class='row justify-content-md-center phone-invisible'>
+      <video height="540" width="960" controls id="create-demo-vid">
+        <source src="/assets/projects/p_multimodal_lfd/create_demo_vid.webm" type="video/webm">
+        Your browser does not support this video, please try a different browser.
+      </video>
+    </div>
+    <hr>
+    <br>
+  </div>
+  <div class="container" id="tools" style="display:none">
+      <h1>3. Tools</h1>
+      <p>
+        The tool types you can use are shown below. Please carefully look through 
+        each tool type to understand when to use each one. 
+      </p>
+
+      <table class='table' style="margin-top: 1rem" cellspacing="10">
+        {% tablerow tool in include.data cols:2 %}
+          <div class='container tool-section'>
+            <div class='row'>
+              <div class='tool-icon-container'>
+                <img class="tool-icon" src="{{ tool.gif_loc }}">
+              </div>
+              <div class='col-md-8 col-sm-12 tool-text' style='height: 100%'>
+                <b>{{ tool.name }}</b>:
+                <p>
+                  {{ tool.desc }}
+                </p>
+              </div>
+            </div>
+          </div>
+        {% endtablerow %}
+      </table>
+  <div class="container-fluid" style='text-align: center'>
+    <button id="tool-confirm" class="btn btn-primary" style="width: auto !important">Click here to move on after looking through the tools</button>
+  </div>
+  </div>
+</div>

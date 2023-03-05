@@ -1,0 +1,411 @@
+/**
+ * Site header
+ */
+
+.lab-name {
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 1.2em;
+  color:white;
+  padding-top:10px;
+  padding-left:90px;
+  font-family:"Roboto", sans-serif;
+  letter-spacing:0.8px;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.lab-name-highlight {
+  color: #FFCC00;
+}
+
+
+.site-header {
+  background-color: #990000;
+  border-bottom: 1px solid $grey-color-light;
+  min-height: $spacing-unit * 1.865;
+
+  // Positioning context for the mobile navigation icon
+  position: relative;
+
+  a {
+    color: white !important;
+  }
+}
+
+.site-title {
+  @include relative-font-size(1.625);
+  font-weight: 300;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+  &,
+  &:visited {
+    color: $grey-color-dark;
+  }
+}
+
+.site-nav {
+  float: right;
+  line-height: 25px !important;
+
+  .nav-trigger {
+      display: none;
+  }
+
+  .menu-icon {
+    display: none;
+  }
+
+  .top-page-link {
+    color: $text-color;
+    line-height: $base-line-height;
+    font-size: 1.1em;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+
+  @include media-query($on-palm) {
+    position: absolute;
+    top: 9px;
+    right: $spacing-unit / 2;
+    background-color: $background-color;
+    border: 1px solid $grey-color-light;
+    border-radius: 5px;
+    text-align: right;
+
+    label[for="nav-trigger"] {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 36px;
+      z-index: 2;
+      cursor: pointer;
+    }
+
+    .menu-icon {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+
+      > svg {
+        fill: $grey-color-dark;
+      }
+    }
+
+    input ~ .trigger {
+      clear: both;
+      display: none;
+    }
+
+    input:checked ~ .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    .top-page-link {
+      display: block;
+      padding: 5px 10px;
+      color: black !important;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 20px;
+    }
+  }
+}
+
+
+
+/**
+ * Site footer
+ */
+.site-footer {
+  border-top: 1px solid $grey-color-light;
+  padding: $spacing-unit 0;
+}
+
+.footer-heading {
+  @include relative-font-size(1.125);
+  margin-bottom: $spacing-unit / 2;
+}
+
+.contact-list,
+.social-media-list {
+  list-style: none;
+  margin-left: 0;
+}
+
+.footer-col-wrapper {
+  text-align: center;
+  @include relative-font-size(0.9375);
+  color: $grey-color;
+  margin-left: -$spacing-unit / 2;
+  @extend %clearfix;
+}
+
+.footer-col {
+  float: left;
+  margin-bottom: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+}
+
+.footer-col-1 {
+  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+  width:         calc(35% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+  width:         calc(20% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+  width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+@include media-query($on-laptop) {
+  .footer-col-1,
+  .footer-col-2 {
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
+  }
+
+  .footer-col-3 {
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+}
+
+@include media-query($on-palm) {
+  .footer-col {
+    float: none;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+}
+
+.member-picture {
+  text-align: center;
+}
+
+.member-list {
+  font-size: 14px
+}
+
+.member-list-item {
+  a:visited {
+    color: #2a7ae2;
+  }
+}
+
+.speaker-img {
+  width: 400px;
+}
+
+.speaker-container {
+  margin-bottom: 38px;
+}
+
+.speaker-bio {
+  text-align: justify;
+}
+
+.speaker-abstract {
+  text-align: justify;
+}
+
+.speaker-name {
+  font-size: 200%;
+}
+
+.speaker-talk-name {
+  font-size: 170%;
+}
+
+.speaker-talk-date {
+  color: #aaa;
+}
+
+
+/**
+ * Page content
+ */
+.page-content {
+  padding: $spacing-unit 0;
+  flex: 1;
+}
+
+.page-heading {
+  @include relative-font-size(2);
+}
+
+.post-list-heading {
+  @include relative-font-size(1.75);
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    margin-bottom: $spacing-unit;
+  }
+}
+
+.post-meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
+.post-link {
+  display: block;
+  @include relative-font-size(1.5);
+}
+
+.big-member {
+  text-align: center;
+}
+
+.member {
+  color: #555;
+  font-size: 14px;
+  text-align: center;
+  padding-bottom: 25px;
+  width: 200px;
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top;
+
+  @include media-query($on-palm) {
+    width: 100px;
+  }
+}
+
+.member-img {
+  height: 150px;
+  border-radius: 75px;
+  border: 0px solid #FFF;
+  @include media-query($on-palm) {
+    height: 75px;
+  }
+}
+
+.paper-image-container {
+  @include media-query($on-palm) {
+    text-align: center;
+  }
+}
+
+.paper-image {
+  width: 180px;
+  height: 140px;
+  border-style: solid;
+  border-width: 0px;
+  border-color: #aaa;
+}
+
+.environment-image {
+  width: 180px;
+  height: 180px;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: #f0f0f0;
+}
+
+.paper-description-container {
+  @include media-query($on-palm) {
+    text-align: center;
+  }
+}
+
+.pub-center {
+  margin-bottom: 20px;
+}
+
+.title-line {
+  border-bottom: 3px solid black;
+  padding-bottom: 5px;
+}
+
+.lab-logo {
+  height: 80px;
+}
+
+
+.banner-text {
+  z-index: 1;
+  position: absolute;
+  font-size: 12pt;
+  background: rgba(224, 223, 223, 0.53);
+  padding: 5px 8px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  text-align: left;
+}
+
+/**
+ * Posts
+ */
+.post-header {
+  margin-bottom: $spacing-unit;
+}
+
+.post-title {
+  @include relative-font-size(2.625);
+  letter-spacing: -1px;
+  line-height: 1;
+
+  @include media-query($on-laptop) {
+    @include relative-font-size(2.25);
+  }
+}
+
+.post-content {
+  margin-bottom: $spacing-unit;
+
+  h2 {
+    @include relative-font-size(2);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.75);
+    }
+  }
+
+  h3 {
+    @include relative-font-size(1.625);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.375);
+    }
+  }
+
+  h4 {
+    @include relative-font-size(1.25);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.125);
+    }
+  }
+}
+
+/**
+ * General
+ */
+
+h2 {
+  font-weight: bold;
+}

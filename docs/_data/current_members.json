@@ -1,0 +1,227 @@
+[
+  {
+    "_comment":{
+    "web": "https://clvrai.com/web_lim/",
+    "picture": "/assets/people/joseph2.png",
+    "name": 'Joseph Lim (임재환)',
+    "title": "Principal Investigator",
+    "email": "limjj [at] usc [dot] edu"
+    }
+  },
+
+  {
+    "web": "https://shivindass.github.io/",
+    "picture": "/assets/people/shivin.jpg",
+    "name": "Shivin Dass",
+    "title": "MS student @ USC",
+    "email": "sdass [at] usc [dot] edu"
+  },
+
+  {
+    "_comment": {
+    "web": "https://anisha2102.github.io/",
+    "picture": "/assets/people/anisha.jpeg",
+    "name": "Anisha Gunjal",
+    "title": "Visitor @ USC",
+    "email": "anishagunjal7 [at] gmail [dot] com"
+    }
+  },
+
+  {
+    "web": "https://minoring.github.io/",
+    "picture": "/assets/people/minho.jpg",
+    "name": "Minho Heo",
+    "title": "MS student @ KAIST",
+    "email": "minho.heo [at] kaist [dot] ac [dot] kr"
+  },
+
+  {
+    "web": "http://www-scf.usc.edu/~ayushj/",
+    "picture": "/assets/people/joshua_tree/ayush.jpg",
+    "name": "Ayush Jain",
+    "title": "PhD student @ USC",
+    "email": "ayushj [at] usc [dot] edu",
+    "research": "Intrinsic reward"
+  },
+
+    {
+	"web": "http://yegonkim.github.io/",
+	"picture": "/assets/people/yegon.jpg",
+	"name": "Yegon Kim",
+	"title": "Intern @ KAIST (from KAIST)",
+	"email": "",
+	"research": ""
+    },
+
+        {
+	"picture": "/assets/people/sunghyun.jpg",
+	"name": "Sunghyun Koo",
+	"title": "Intern @ KAIST (from SNU)",
+	"email": "",
+	"research": ""
+    },
+
+
+  {
+    "picture": "/assets/people/doohyun.jpg",
+    "name": "Doohyun Lee",
+    "title": "MS student @ KAIST",
+    "email": "dhleekr7 [at] gmail [dot] com",
+    "research": "Robot Learning"
+  },
+
+    {
+	"web": "https://gimme1dollar.github.io/",
+    "picture": "/assets/people/juyong.jpg",
+    "name": "Juyong Lee",
+    "title": "MS student @ KAIST",
+    "email": "agi.is [at] kaist [dot] ac [dot] kr",
+    "research": "AGI"
+  },    
+
+    {
+	    "_comment": {
+    "web": "http://youngwoon.github.io/",
+    "picture": "/assets/people/joshua_tree/youngwoon.jpg",
+    "name": "Youngwoon Lee",
+    "title": "PhD student @ USC",
+    "email": "lee504 [at] usc [dot] edu",
+		"research": "Robot Learning"
+	    }
+  },
+
+  {
+    "web": "https://clvrai.com/",
+    "picture": "/assets/people/xinhu.jpg",
+    "name": "Xinhu Li",
+    "title": "MS student @ USC",
+    "email": "xinhuli [at] usc [dot] edu",
+    "research": "Robot Learning"
+  },
+
+  {
+    "web": "https://www.ryanlindeborg.com/",
+    "picture": "/assets/people/ryan.png",
+    "name": "Ryan Lindeborg",
+    "title": "MS student @ USC",
+    "email": "lindebor [at] usc [dot] edu",
+    "research": "Robot Learning"
+  },
+
+  {
+    "web": "https://www.linkedin.com/in/ziyi-liu-318616186/",
+    "picture": "/assets/people/ziyi.jpeg",
+    "name": "Ziyi Liu",
+    "title": "Visitor student @ USC",
+    "email": "ziyiliu29 [at] gmail [dot] com",
+    "research": ""
+  },
+
+  {
+    "_comment": {
+      "picture": "/assets/people/joshua.png",
+      "name": "Joshua S. Lim",
+      "title": "A long-term intern",
+      "email": "no e-mail access",
+      "research": "?"
+    }
+  },
+
+    {
+	"web": "https://rureadyo.github.io/",
+    "picture": "/assets/people/sungjae.jpg",
+    "name": "Sungjae Park",
+    "title": "Intern @ KAIST (from SNU)",
+    "email": "teri305 [at] snu [dot] ac [dot] kr",
+    "research": ""
+  },
+
+  {
+    "web": "https://kpertsch.github.io",
+    "picture": "/assets/people/joshua_tree/karl.jpg",
+    "name": "Karl Pertsch",
+    "title": "PhD student @ USC",
+    "email": "pertsch [at] usc [dot] edu",
+    "research": "Predictive model"
+  },
+
+  {
+    "web": "https://lucys0.github.io",
+    "picture": "/assets/people/lucy.jpg",
+    "name": "Lucy Shi",
+    "title": "Undergraduate student @ USC",
+    "email": "lucys [at] usc [dot] edu",
+    "research": ""
+  },
+
+  {
+    "web": "https://jullianyapeter.com",
+    "picture": "/assets/people/jullian.jpg",
+    "name": "Jullian Yapeter",
+    "title": "MS student @ USC",
+    "email": "yapeter [at] usc [dot] edu",
+    "research": ""
+  },
+
+  {
+    "picture": "/assets/people/junseo.jpg",
+    "name": "Junseo Youn",
+    "title": "Intern @ KAIST (from POSTECH)",
+    "email": " [at] kaist [dot] ac [dot] kr",
+    "research": ""
+  },
+
+  {
+    "web": "https://gracehzhang.github.io/",
+    "picture": "/assets/people/grace.jpg",
+    "name": "Grace Zhang",
+    "title": "PhD student @ USC",
+    "email": "gracez [at] usc [dot] edu",
+    "research": ""
+  },
+
+  {
+    "web": "https://jesbu1.github.io/",
+    "picture": "/assets/people/jesse.jpg",
+    "name": "Jesse Zhang",
+    "title": "PhD student @ USC",
+    "email": "jessez [at] usc [dot] edu",
+    "research": ""
+  },
+
+  {
+    "web": "https://jiahui-3205.github.io/",
+    "picture": "/assets/people/jiahui.jpg",
+    "name": "Jiahui Zhang",
+    "title": "MS student @ USC",
+    "email": "jzhang96 [at] usc [dot] edu",
+    "research": ""
+  },
+
+  {
+    "web": "https://thoughtp0lice.github.io/",
+    "picture": "/assets/people/han.jpg",
+    "name": "Han Zhong",
+    "title": "Undergraduate student @ USC",
+    "email": "linghanz [at] usc [dot] edu",
+    "research": ""
+  },
+
+  {
+    "picture": "",
+    "name": "",
+    "research": ""
+  },
+
+  {
+    "picture": "",
+    "name": "",
+    "research": ""
+  },
+
+  {
+    "picture": "",
+    "name": "",
+    "research": ""
+  }
+]

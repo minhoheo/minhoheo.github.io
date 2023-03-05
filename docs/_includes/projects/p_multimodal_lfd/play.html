@@ -1,0 +1,138 @@
+<div class='bg-type-2'>
+  <div class='container py-5' id="demo" style="display:none">
+    <!--<h1>Environment Demo</h1>-->
+    <h1>4. Play the game!</h1>
+    <h3 style='text-align: center; color: black' id='task_name_header'>Current Task: </h3>
+    <br>
+    <p class='phone-invisible' style='text-align: center; font-size: 110%' id="test-level-instructions">
+      This is your chance to play around with the tools and see how the environment works. Feel free to add/remove tools to see what they do.
+      Once you're done, solve the task and move on to the Push task. All other tasks will require 5 solved attempts to continue.
+      <br>
+    </p>
+    <br>
+    <p class='phone-invisible' style='text-align: center; color: #4285F4; font-size: 110%'>
+    Drag and drop tools onto the screen and Play <i class="fa fa-play"></i>,
+    Retry <i class ="fa fa-undo-alt"></i> or Next <span class="material-icons">skip_next</span>
+    </p>
+
+
+    <div class='phone-visible'>
+        <p style='text-align: center; color: #4285F4'>Demo is available only for desktop browser.</p>
+    </div>
+
+    <div class='container my-3 phone-invisible'>
+      <div class='row'>
+        <div class='col'></div>
+        <div class='col'>
+
+        </div>
+        <div class='col'></div>
+      </div>
+    </div>
+
+    <div id='error-window' class='row justify-content-md-center phone-invisible' style='display: none'>
+      <p style='text-align: center; color: #e74c3c; font-size: 1.5em;'>Problem with demo backend. Please try again later.</p>
+    </div>
+
+    <div id='main-demo-window' class='row justify-content-md-center phone-invisible'>
+
+      <div class='col-2 task-col'>
+        <div class="container px-0">
+          <h3 style="text-align:center">Tasks</h3>
+        </div>
+        <div class="btn-group-vertical btn-group-toggle" data-toggle="buttons" role="group">
+          {% for demo_level in include.data %}
+            {% if forloop.index0 == 0 %}
+            <label class="btn btn-outline-primary active" id="{{ demo_level.name }}_label" disabled>
+              <input type="radio" name="task_option" id="{{ demo_level.name }}" value="{{ demo_level.name }}" autocomplete="off" checked disabled> 
+              {{ demo_level.name }}
+            </label>
+            {% else %} 
+            <label class="btn btn-outline-primary" id="{{ demo_level.name }}_label" disabled>
+              <input type="radio" name="task_option" id="{{ demo_level.name }}" value="{{ demo_level.name }}" autocomplete="off" disabled> 
+              {{ demo_level.name }}
+            </label>
+            {% endif %}
+            
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="col-5 play-center">
+        <div type="container">
+          <div id='disp-container' class="card border-info mb-5 play-container">
+            <div class="card-body" style='padding: 0px'>
+              <img ondrop='drop(event)' ondragover='allow_drop(event)' id='play-display' src='' width='100%'/>
+              <video id='play-display-vid' src='' type='video/mp4'></video>
+              <img id='loading-gif' src='/assets/projects/p_multimodal_lfd/loading.gif' />
+            </div>
+          </div>
+        </div>
+        <div type="container" align="center">
+          <div class="row play-btn-container">
+
+            <div class='col-4 btn-container'>
+              <button id='play-btn' type="button" class="btn btn-info play-btn">
+                <i id='status-symbol' class="fas fa-play"></i>
+              </button>
+              
+            </div>
+            <div class='col-4 btn-container'>
+              <button id='play-again-btn' type="button" class="btn btn-info play-btn">
+                <i id='status-symbol' class="fas fa-undo-alt"></i>
+              </button>
+            </div>
+            <div class='col-4 btn-container'>
+              <!-- <button id='reset-btn' type="button" class="btn btn-info play-btn" style='width: 7rem'>
+              <i id='status-symbol' class="fas fa-file"></i> -->
+              <button id='reset-btn' type="button" class="btn btn-info play-btn">
+                  <!-- <i id='status-symbol' class="fas fa-clone"></i> -->
+                  <!-- <i id='status-symbol' class="fas fa-random"></i> -->
+                  <!-- <i id='status-symbol' class="fas fa-angle-double-right"></i> -->
+                <i id='status-symbol' class="demo-icon material-icons material-title-teaser">skip_next</i>
+              </button>
+            </div>
+          </div>
+        </div>
+        <p id='play-error-msg'>
+          Error!
+        </p>
+      </div>
+
+      <div class='col-5 play-center'>
+        <div class="container px-0">
+          <h3 style="text-align:center">Tools</h3>
+        </div>
+
+        <div class="row justify-content-md-center tool-box">
+
+          {% for j in (1..4) %}
+          <div class="col-3">
+            {% for i in (1..5) %}
+            <div class="card">
+              <div class="card-body text-success">
+                <img draggable='true' class='tool-img' src='' />
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+          {% endfor %}
+
+          
+
+        </div>
+      </div>
+
+      
+
+    </div>
+    <br>
+    <p class='phone-invisible' style='text-align: center; font-size: 90%;'>
+    <span style='color: #4285F4'>Objective</span>: Make <span style='color: #F45B69'>&#x2B24;</span> reach <span style='color: #7CFD2E; font-size: 110%'>&#x2605;</span>
+    or <span style='color: #7CFD2E'>&#x2B24;</span> &nbsp;|
+    &nbsp;<span style='color: #4285F4'>No overlap</span> between tools  &nbsp;|
+    &nbsp;<span style='color: #4285F4'>Task is solvable</span> with given orientation of tools  &nbsp;|
+    &nbsp;<span style='color: #4285F4'>Remove tool</span>: drag it out of game window
+    </p>
+  </div>
+</div>

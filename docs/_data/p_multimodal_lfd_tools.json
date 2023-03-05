@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Ramp",
+    "gif_loc": "../../../assets/projects/p_multimodal_lfd/tool-gifs/option_video_19_Ramp.gif",
+    "desc": "A basic angled platform with low bounce."
+  },
+  {
+    "name": "Trampoline",
+    "gif_loc": "../../../assets/projects/p_multimodal_lfd/tool-gifs/option_video_303_Trampoline.gif",
+    "desc": "Bouncy platforms."
+  },
+  {
+    "name": "Lever",
+    "gif_loc": "../../../assets/projects/p_multimodal_lfd/tool-gifs/option_video_1416_Hinge.gif",
+    "desc": "Lever anchored to a hinge, which can rotate freely."
+  },
+  {
+    "name": "See Saw",
+    "gif_loc": "../../../assets/projects/p_multimodal_lfd/tool-gifs/seesaws.gif",
+    "desc": "See saws (with or without weight) with angle-limited rotation."
+  },
+  {
+    "name": "Cannon",
+    "gif_loc": "../../../assets/projects/p_multimodal_lfd/tool-gifs/option_video_1688_Cannon.gif",
+    "desc": "Launches the ball in the direction of the cannon, adding speed. "
+  },
+  {
+    "name": "Fan",
+    "gif_loc": "../../../assets/projects/p_multimodal_lfd/tool-gifs/option_video_1927_Fan.gif",
+    "desc": "Gently pushes the ball in the direction of the fan. Less powerful than the cannon."
+  },
+  {
+    "name": "Funnel",
+    "gif_loc": "../../../assets/projects/p_multimodal_lfd/tool-gifs/option_video_2243_Funnel.gif",
+    "desc": "Transports an object from the wide end of the funnel to the narrow end. "
+  },
+  {
+    "name": "Bucket",
+    "gif_loc": "../../../assets/projects/p_multimodal_lfd/tool-gifs/option_video_2359_Bucket.gif",
+    "desc": "Catches an object from the open face and reflects off of other sides."
+  },
+  {
+    "name": "Polygon",
+    "gif_loc": "../../../assets/projects/p_multimodal_lfd/tool-gifs/polygons.gif",
+    "desc": "Polygon-shaped tools: triangle, square, pentagon, hexagon."
+  },
+  {
+    "name": "Bouncy Polygon",
+    "gif_loc": "../../../assets/projects/p_multimodal_lfd/tool-gifs/bouncy_polygons.gif",
+    "desc": "Bouncy versions of triangle, square, pentagon, hexagon."
+  },
+  {
+    "name": "Belt",
+    "gif_loc": "../../../assets/projects/p_multimodal_lfd/tool-gifs/belts.gif",
+    "desc": "Conveyer belt to transport left or right at constant speed."
+  },
+  {
+    "name": "Ball",
+    "gif_loc": "../../../assets/projects/p_multimodal_lfd/tool-gifs/balls.gif",
+    "desc": "Low-bounce and high-bounce variations of round tools."
+  }
+  
+]

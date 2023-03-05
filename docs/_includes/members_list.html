@@ -1,0 +1,22 @@
+<div class="member-list">
+  <ul>
+    {% for member in include.data %}
+    <li class='member-list-item'>
+      {% if member.web %}
+      <a target="_blank" href="{{ member.web }}">
+      {% endif %}
+        <b>{{ member.name }}</b>
+      {% if member.web %}
+      </a>
+      {% endif %}
+      -
+
+      <!---->
+      {{ member.title }}
+      <!---->
+      {% if member.current %} ({{ member.current }}) {% endif %}
+
+    </li>
+    {% endfor %}
+  </ul>
+</div>

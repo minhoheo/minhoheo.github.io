@@ -1,0 +1,26 @@
+<div class='speaker-list'>
+  <div class='container'>
+    {% for speaker in include.data %}
+    <div id="#{{ speaker.id }}" class='row speaker-container'>
+      <div class='col-lg-3'>
+        <img class='speaker-img' src="{{ speaker.img }}" />
+      </div>
+      <div class='col-lg-9'>
+        <div>
+          <div class="speaker-name">
+            <a target="_blank" href='{{ speaker.web }}'><b>{{ speaker.name }}</b></a>
+          </div>
+          <div class="speaker-talk-name">
+            <b>{{ speaker.talk_name }}</b>
+          </div>
+          <div class="speaker-talk-date">
+            {{ speaker.talk_date }}
+          </div>
+        </div>
+        <p class="speaker-abstract">{{ speaker.abstract }}</p>
+        <p class="speaker-bio">{{ speaker.bio }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

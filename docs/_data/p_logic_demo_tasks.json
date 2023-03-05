@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Push"
+  },
+  {
+    "name": "Navigate"
+  },
+  {
+    "name": "Obstacle"
+  },
+  {
+    "name": "Basket"
+  },
+  {
+    "name": "Belt"
+  },
+  {
+    "name": "Buckets"
+  },
+  {
+    "name": "Collide"
+  },
+  {
+    "name": "Ladder"
+  },
+  {
+    "name": "Moving"
+  },
+  {
+    "name": "Cannon"
+  },
+  {
+    "name": "Seesaw"
+  },
+  {
+    "name": "Funnel"
+  }
+]

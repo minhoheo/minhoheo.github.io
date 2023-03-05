@@ -1,0 +1,30 @@
+<div class="container-fluid bg-type-2 py-5 tool-container"   id="desc-1">
+    <div class="container">
+        <h1>Tools</h1>
+        <p>
+          The tool types available for the agent are illustrated below. The
+          parameters of each tool such as size, angle, bounce or force are all
+          configurable. Different tools have different properties that can be
+          configured. 
+        </p>
+
+        <table class='table' style="margin-top: 1rem" cellspacing="10">
+          {% tablerow tool in include.data cols:2 %}
+            <div class='container tool-section'>
+              <div class='row'>
+                <div class='tool-icon-container'>
+                  <img class="tool-icon" src="{{ tool.gif_loc }}">
+                </div>
+                <div class='col-md-8 col-sm-12 tool-text' style='height: 100%'>
+                  <b>{{ tool.name }}</b>:
+                  <p>
+                    {{ tool.desc }}
+                  </p>
+                </div>
+              </div>
+            </div>
+          {% endtablerow %}
+        </table>
+            
+    </div>
+</div>

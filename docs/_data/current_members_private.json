@@ -1,0 +1,194 @@
+[
+  {
+    "web": "https://edwardshu.com",
+    "picture": "/assets/people/joshua_tree/ed.jpg",
+    "name": "Edward S. Hu",
+    "title": "Undergraduate student",
+    "email": "hues [at] usc [dot] edu",
+    "research": "Meta learning"
+  },
+
+  {
+    "web": "http://www-scf.usc.edu/~ayushj/",
+    "picture": "/assets/people/joshua_tree/ayush.jpg",
+    "name": "Ayush Jain",
+    "title": "PhD student",
+    "email": "ayushj [at] usc [dot] edu",
+    "research": "Intrinsic reward"
+  },
+
+  {
+    "_comment": {
+    "web": "https://www.linkedin.com/in/hitarthk/",
+    "picture": "/assets/people/hitarth.jpg",
+    "name": "Hitarth Kanakia",
+    "title": "MS student",
+    "email": "kanakia [at] usc [dot] edu",
+    "research": ""
+    }
+  },
+
+  {
+    "picture": "/assets/people/charles.jpg",
+    "name": "Charles Lee",
+    "title": "Undergraduate student",
+    "email": "lee440 [at] usc [dot] edu",
+    "research": "N/A"
+  },
+
+  {
+    "web": "http://youngwoon.github.io/",
+    "picture": "/assets/people/joshua_tree/youngwoon.jpg",
+    "name": "Youngwoon Lee",
+    "title": "PhD student",
+    "email": "lee504 [at] usc [dot] edu",
+    "research": "Robot Learning"
+  },
+
+    {
+	"_comment": {
+	    "picture": "/assets/people/joshua.png",
+	    "name": "Joshua S. Lim",
+	    "title": "A long-term intern",
+	    "email": "no e-mail access",
+	    "research": "?"
+	}
+  },
+
+  {
+    "web": "https://kpertsch.github.io",
+    "picture": "/assets/people/joshua_tree/karl.jpg",
+    "name": "Karl Pertsch",
+    "title": "PhD student",
+    "email": "pertsch [at] usc [dot] edu",
+    "research": "Predictive model"
+  },
+
+  {
+    "web": "https://ziangqin-stu.github.io/",
+    "picture": "/assets/people/ziang.png",
+    "name": "Ziang Qin",
+    "title": "Undergraduate student",
+    "email": "ziangqin [at] usc [dot] edu",
+    "research": "N/A"
+  },
+
+  {
+    "web": "http://shaohua0116.github.io/",
+    "picture": "/assets/people/shao-hua.jpg",
+    "name": "Shao-Hua Sun",
+    "title": "PhD student",
+    "email": "shaohuas [at] usc [dot] edu",
+    "research": "Meta learning"
+  },
+
+  {
+    "web": "https://www.andrewszot.com",
+    "picture": "/assets/people/joshua_tree/andrew.jpg",
+    "name": "Andrew Szot",
+    "title": "Undergraduate student",
+    "email": "szot [at] usc [dot] edu",
+    "research": "Causal reasoning, Planning"
+  },
+
+  {
+    "_comment": {
+    "web": "https://www.linkedin.com/in/smit-thakkar14/",
+	  "picture": "/assets/people/smit.jpg",
+	  "name": "Smit Thakkar",
+	  "title": "MS student",
+	  "email": "srthakka [at] usc [dot] edu",
+	  "research": ""
+	}
+  },
+
+  {
+	  "picture": "/assets/people/dweep.jpg",
+	  "name": "Dweep Trivedi",
+	  "title": "MS student",
+	  "email": "dtrivedi [at] usc [dot] edu",
+	  "research": "Computer vision"
+  },
+
+  {
+    "_comment": {
+    "web": "https://jorgeviz.me",
+    "picture": "/assets/people/jorge.jpg",
+    "name": "Jorge Vizcayno",
+    "title": "MS student",
+    "email": "vizcayno [at] usc [dot] edu",
+    "research": "Computer vision"
+	}
+  },    
+    
+  {
+    "_comment": {
+    "web": "https://junjungoal.tech",
+    "picture": "/assets/people/jun.jpg",
+    "name": "Jun Yamada",
+    "title": "Visiting student",
+    "email": "junyamada107 [at] gmail [dot] com",
+    "research": "Reinforcement Learning"
+	}
+  },
+
+  {
+    "picture": "/assets/people/alex.jpg",
+    "name": "Alex Yin",
+    "title": "Undergraduate student",
+    "email": "alexyin [at] usc [dot] edu",
+    "research": "N/A"
+  },
+
+  {
+    "web": "http://junjungoal.tech/",
+    "picture": "/assets/people/jun.jpg",
+    "name": "Jun Yamada",
+    "title": "Visiting student",
+    "email": "junyamada107 [at] gmail [dot] com",
+    "research": "N/A"
+  },
+
+  {
+    "web": "https://jyj0625.github.io",
+    "picture": "/assets/people/joshua_tree/jingyun.jpg",
+    "name": "Jingyun Yang",
+    "title": "Undergraduate student",
+    "email": "jingyuny [at] usc [dot] edu",
+    "research": "Computer vision"
+  },
+
+  {
+    "picture": "/assets/people/han.jpg",
+    "name": "Han Zhong",
+    "title": "Undergraduate student",
+    "email": "linghanz [at] usc [dot] edu",
+    "research": "N/A"
+  },
+
+  {
+    "picture": "",
+    "name": "",
+    "title": "",
+	  "email": "",
+    "research": ""
+  },
+
+  {
+    "picture": "",
+    "name": "",
+    "title": "",
+	  "email": "",
+    "research": ""
+  },
+
+  {
+    "picture": "",
+    "name": "",
+    "title": "",
+	  "email": "",
+    "research": ""
+  }
+
+
+]

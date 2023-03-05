@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Push Task",
+    "gif_loc": "/assets/projects/p_logic/level-gifs/push.gif",
+    "mp4_loc": "/assets/projects/p_logic/level-mp4s/push_mp4.mp4",
+    "img_loc": "/assets/projects/p_logic/level-imgs/CreateLevelPush-v0.png",
+    "desc": "Simply push the ball towards the goal."
+  },
+  {
+    "name": "Navigate Task ",
+    "gif_loc": "/assets/projects/p_logic/level-gifs/navigate.gif",
+    "mp4_loc": "/assets/projects/p_logic/level-mp4s/navigate_mp4.mp4",
+    "img_loc": "/assets/projects/p_logic/level-imgs/CreateLevelNavigate-v0.png",
+    "desc": "Navigate around the turns to reach the goal."
+  },
+  {
+    "name": "Belt Task",
+    "gif_loc": "/assets/projects/p_logic/level-gifs/belt.gif",
+    "mp4_loc": "/assets/projects/p_logic/level-mp4s/belt_mp4.mp4",
+    "img_loc": "/assets/projects/p_logic/level-imgs/CreateLevelBelt-v0.png",
+    "desc": "Long horizon task with lots of belts, twists and turns."
+  },
+  {
+    "name": "Buckets Task",
+    "gif_loc": "/assets/projects/p_logic/level-gifs/buckets.gif",
+    "mp4_loc": "/assets/projects/p_logic/level-mp4s/buckets_mp4.mp4",
+    "img_loc": "/assets/projects/p_logic/level-imgs/CreateLevelBuckets-v0.png",
+    "desc": "Make sure the ball doesn't land on the buckets around the entrance to the goal."
+  },
+  {
+    "name": "Obstacle Task",
+    "gif_loc": "/assets/projects/p_logic/level-gifs/obstacle.gif",
+    "mp4_loc": "/assets/projects/p_logic/level-mp4s/obstacle_mp4.mp4",
+    "img_loc": "/assets/projects/p_logic/level-imgs/CreateLevelObstacle-v0.png",
+    "desc": "Successfully stop the falling obstacles while navigating the ball to the goal."
+  },
+  {
+    "name": "Cannon Task",
+    "gif_loc": "/assets/projects/p_logic/level-gifs/cannon.gif",
+    "mp4_loc": "/assets/projects/p_logic/level-mp4s/cannon_mp4.mp4",
+    "img_loc": "/assets/projects/p_logic/level-imgs/CreateLevelCannon-v0.png",
+    "desc": "Utilize the intermediate cannon to jump around the barrier."
+  },
+  {
+    "name": "Seesaw Task",
+    "gif_loc": "/assets/projects/p_logic/level-gifs/seesaw.gif",
+    "mp4_loc": "/assets/projects/p_logic/level-mp4s/seesaw_mp4.mp4",
+    "img_loc": "/assets/projects/p_logic/level-imgs/CreateLevelSeesaw-v0.png",
+    "desc": "A heavy ball turns a seesaw into an obstacle to go around."
+  },
+  {
+    "name": "Collide Task",
+    "gif_loc": "/assets/projects/p_logic/level-gifs/collide.gif",
+    "mp4_loc": "/assets/projects/p_logic/level-mp4s/collide_mp4.mp4",
+    "img_loc": "/assets/projects/p_logic/level-imgs/CreateLevelCollide-v0.png",
+    "desc": "Your goal is moving but there is a barrier in between."
+  },
+  {
+    "name": "Moving Task",
+    "gif_loc": "/assets/projects/p_logic/level-gifs/moving.gif",
+    "mp4_loc": "/assets/projects/p_logic/level-mp4s/moving_mp4.mp4",
+    "img_loc": "/assets/projects/p_logic/level-imgs/CreateLevelMoving-v0.png",
+    "desc": "Make sure the timing is perfect by hitting a moving goal. "
+  },
+  {
+    "name": "Ladder Task",
+    "gif_loc": "/assets/projects/p_logic/level-gifs/ladder.gif",
+    "mp4_loc": "/assets/projects/p_logic/level-mp4s/ladder_mp4.mp4",
+    "img_loc": "/assets/projects/p_logic/level-imgs/CreateLevelLadder-v0.png",
+    "desc": "Use the given ladder to get enough height to reach the goal."
+  },
+  {
+    "name": "Basket Task",
+    "gif_loc": "/assets/projects/p_logic/level-gifs/basket.gif",
+    "mp4_loc": "/assets/projects/p_logic/level-mp4s/basket_mp4.mp4",
+    "img_loc": "/assets/projects/p_logic/level-imgs/CreateLevelBasket-v0.png",
+    "desc": "Score a basket using the given ladders and bonus subgoals."
+  },
+  {
+    "name": "Funnel Task",
+    "gif_loc": "/assets/projects/p_logic/level-gifs/funnel.gif",
+    "mp4_loc": "/assets/projects/p_logic/level-mp4s/funnel_mp4.mp4",
+    "img_loc": "/assets/projects/p_logic/level-imgs/CreateLevelFunnel-v0.png",
+    "desc": "Use the correct funnel to reach the goal."
+  }
+]

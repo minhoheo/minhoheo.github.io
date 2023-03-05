@@ -1,0 +1,23 @@
+<div class="member-picture">
+  {% for member in include.data %}
+  {% if member.name %}
+    <div class='member'>
+      {% if member.web %}
+      <a target="_blank" href="{{ member.web }}">
+      {% endif %}
+      {% if member.picture %}
+        <img src="{{ member.picture }}" class='member-img' />
+      {% endif %}
+      <div>
+        <b>{{member.name}}</b>
+      </div>
+      {% if member.web %}
+      </a>
+      {% endif %}
+      <div>
+        {{ member.title }}
+      </div>
+    </div>
+  {% endif %}
+  {% endfor %}
+</div>

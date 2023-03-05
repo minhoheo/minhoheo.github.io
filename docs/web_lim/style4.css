@@ -1,0 +1,124 @@
+/* 95B3D7 */
+/* B9CDE5 */
+body { font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; background: #eee; padding: 0; margin: 0; }
+/*body { font-family:arial; background: #fff; padding: 0; margin: 0; }*/
+
+@media all and (min-width: 1000px) {
+    #content { width:900px; border-style: solid; border-color: #eee; margin: 0 auto; font-size: 15px; background: #eee; padding: 0 10px 0 10px; }
+    #header h1 { margin: 5 0 10 0; }
+    #header {
+	width:900px; margin: 0 auto 20 auto; margin-top: 10px; background-color: #fff;
+	border-radius: 0px; border-style: solid; border-width: 1px; overflow: auto;
+	border-color: 0;
+	}
+
+    #name { float: left; padding-left: 30px; padding-top:10px; }
+    #profile_pic { padding-left: 0px; padding-top:0px; height: 230px; }
+    #short_bio { float: left; font-size: 15px; padding-left:15px; padding-right: 30px; padding-top: 75px; width: 610px;}
+
+    .section {
+	width:850px; margin: 20 auto 20 auto; background-color: #fff;  padding: 25px; padding-bottom: 20px;
+	border-radius: 0px; border-color: 0; border-style: solid; border-width: 1px;
+	}
+    #footer { display: none; width:770px; margin: 30 auto 50 auto; padding: 10px; background-color: #fff;}
+}
+
+@media all and (max-width: 999px) {
+    #content { border-style: solid; border-color: #eee; margin: 0 auto; font-size: 15px; background: #eee; padding: 0 10px 0 10px; }
+    #header h1 { margin: 5 0 10 0; }
+    #header { margin: 0 auto 20 auto; margin-top: 10px; background-color: #fff; border-radius: 0px; border-style: solid; border-width: 1px; overflow: auto; }
+
+    #name { padding-left: 30px; padding-top:10px; padding-right: 30px; }
+    #profile_pic { padding-top:11px; height: 230px; }
+    #short_bio { font-size: 15px; padding-left: 35px; padding-right: 35px; padding-top: 0px; padding-bottom: 30px; }
+
+    .section { margin: 20 auto 20 auto; background-color: #fff;  padding: 25px; padding-bottom: 20px; border-radius: 0px; border-color: #000; border-style: solid; border-width: 1px; }
+    #footer { display: none; margin: 30 auto 50 auto; padding: 10px; background-color: #fff;}
+}
+
+#group_website {
+	margin: 35 15 15 15; font-size: 19px; background-color: #f8f8f8;
+	border-radius:0px; border-style: solid; border-color: #d22; border-width:1px; padding: 15px;
+}
+
+#usc_news {
+	margin: 30 15 15 15; font-size: 17px; background-color: #eee;
+	border-radius:0px; border-style: solid; border-color: #d22; border-width:2px; padding: 10px;
+	}
+.detail { margin: 5 10 0 10; font-size: 15px; }
+
+#footer p { margin: 0 auto; text-align: center; }
+
+h2 {
+	margin: 0px; margin-bottom: 15px;
+	color: 0;
+	}
+
+.member {
+    color: #000;
+    font-size: 14px;
+    text-align: center;
+    padding-bottom: 20px;
+    width: 203px;
+    display: inline-block;
+    margin: 3px;
+    vertical-align: top;
+}
+.member img{
+    height:150px;
+    border-radius: 50px;
+    border: 3px solid #FFF;
+    box-shadow: 0 0 7px 0px #AAA;
+}
+
+div#header a:link { color: #44f; text-decoration:none; }
+div#header a:visited { color: #44f; text-decoration:none; }
+div#header a:hover { color: black; text-decoration:none; }
+
+div#main a:link { color: #44f; text-decoration:none; }
+div#main a:visited { color: #44f; text-decoration:none; }
+div#main a:hover { color: black; text-decoration:underline; }
+div#main ul li { margin: 0px 0 15px; }
+div#main ul ul li { margin: 5px 0 5px; font-family:serif; }
+
+div#footer a:link { color: #44f; text-decoration:none; }
+div#footer a:visited { color: #44f; text-decoration:none; }
+div#footer a:hover { color: black; text-decoration:underline; }
+
+div.paper {
+	clear: both;
+	margin: 0; margin-bottom: 10px;
+	 height: 100px;
+	padding: 10 0 10 10px;
+	border: 1px dotted #666666; font-size: 14px;}
+div.paper img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	// width: 120px;
+	max-width: 200px;
+	 height: 100px;
+	//border-style: solid; border-width: 1px; border-color: #aaa;
+	}
+p.img_wrap {
+	float:right;
+	width: 210px;
+	margin: 0;
+	margin-left: 10px;
+	padding: 0;
+	//border-style: solid; border-width: 1px; border-color: #aaa;
+	border-style: none none none dotted; border-width: 1px; border-color: #aaa;
+	}
+div.paper div {
+	padding: 0;
+	}
+.paper_title { font-size: 15px; margin: 0 0 5 0; }
+.authors { font-size: 14px; margin: 0 0 5 0; }
+
+.year {
+	//text-align: center;
+	font-size: 23px;
+	font-weight: bold;
+	//color: #d22;
+	margin: 50 0 17 0;
+	}
