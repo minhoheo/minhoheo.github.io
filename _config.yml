@@ -13,14 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# title: CLVR
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username:  clvrai
-domain: minoring.github.io
-url:  https://minoring.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /clvr-website-test/      # place folder name if the site is served in a subfolder
-
+title: CLVR
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  clvrai
 
 # Build settings
 markdown: kramdown
