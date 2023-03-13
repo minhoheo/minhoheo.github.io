@@ -5,7 +5,7 @@
 /*
 Title bar color
 */
-$title-bar-color: white; 
+$title-bar-color: white;
 $title-bar-font-color: black;
 
 /* Main website color */
@@ -110,7 +110,7 @@ For the top navigation bar.
 
   .top-page-link {
     color: $title-bar-font-color;
-    font-size: 1.1em;
+    font-size: 1.3em;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -242,7 +242,7 @@ $col-count: 5;
   }
 
 
-  
+
 }
 
 
@@ -485,7 +485,7 @@ hr {
 }
 .task-section:hover .task-section-overlay {
   visibility: visible;
-  
+
 }
 
 .task-container {
@@ -539,15 +539,15 @@ $btn-flash-dark: #2980b9;
   100% { background-color: $btn-flash-dark; -moz-box-shadow: 0 0 3px $btn-flash-dark; }
 }
 
-@-o-keyframes glowing { 
+@-o-keyframes glowing {
   0% { background-color: $btn-flash-dark; box-shadow: 0 0 3px $btn-flash-dark; }
-  50% { background-color: $theme-color; box-shadow: 0 0 40px $theme-color; } 
+  50% { background-color: $theme-color; box-shadow: 0 0 40px $theme-color; }
   100% { background-color: $btn-flash-dark; box-shadow: 0 0 3px $btn-flash-dark; }
 }
 
-@keyframes glowing { 
+@keyframes glowing {
   0% { background-color: $btn-flash-dark; box-shadow: 0 0 3px $btn-flash-dark; }
-  50% { background-color: $theme-color; box-shadow: 0 0 40px $theme-color; } 
+  50% { background-color: $theme-color; box-shadow: 0 0 40px $theme-color; }
   100% { background-color: $btn-flash-dark; box-shadow: 0 0 3px $btn-flash-dark; }
 }
 
@@ -600,7 +600,7 @@ h5 {
 }
 
 .card {
-  border: 0px; 
+  border: 0px;
 }
 
 .phone-visible{
@@ -703,5 +703,3 @@ h5 {
 .trash-tool {
   filter: grayscale(1) !important;
 }
-
-

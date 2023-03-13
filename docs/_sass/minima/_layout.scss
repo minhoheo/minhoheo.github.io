@@ -23,7 +23,8 @@
 
 
 .site-header {
-  background-color: #990000;
+//   background-color: #990000;
+  background-color: #1F4899;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
@@ -63,7 +64,7 @@
   .top-page-link {
     color: $text-color;
     line-height: $base-line-height;
-    font-size: 1.1em;
+    font-size: 1.3em;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {

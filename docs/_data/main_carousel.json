@@ -1,5 +1,14 @@
 [
   {
+    "url": "/assets/home/00.gif",
+  },
+  {
+    "url": "/assets/home/01.gif",
+  },
+  {
+    "url": "/assets/home/02.gif",
+  },
+  {
     "url": "/assets/home/03.gif",
   },
   {
@@ -22,12 +31,6 @@
   },
   {
     "url": "/assets/home/10.gif",
-  },
-  {
-    "url": "/assets/home/01.gif",
-  },
-  {
-    "url": "/assets/home/02.gif",
   },
 ]
 

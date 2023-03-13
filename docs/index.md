@@ -10,7 +10,9 @@ order: 0
   <div class='row'>
     <div class='col-lg-1'></div>
     <div class='col-lg-10'>
+      <br>
       <h1><div class='lab-name-h1'>Cognitive Learning for Vision and Robotics Lab</div></h1>
+      <br>
 
 
       <div class='lab-description'>
@@ -20,22 +22,12 @@ order: 0
       <br>
 
       <p>
-      Our research spans topics, including cognitive model, computer vision, robot learning, symbolic representation, reasoning, and any other interesting topics, as below:
+      Our research spans topics, including cognitive model, visual perception, robot learning, symbolic representation, reasoning, and any other interesting topics, as below:
       </p>
-
       </div>
+
 
       {% include image_carousel.html name='Example' data=site.data.main_carousel %}
-
-      <h2>Recent Talks</h2>
-      <!-- Talk video -->
-      <h4>CoRL 2022</h4>
-      <center>
-      <div class="youtube-container">
-        <iframe class="youtube" src="https://www.youtube.com/embed/NUHt0kp8NjE?start=7120" title="Joseph CoRL2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen width="100%" height="100%" style="position: absolute; left: 0; top: 0;"></iframe>
-      </div>
-      </center>
-      <br>
 
       <h2>News</h2>
       <ul>
@@ -128,6 +120,18 @@ order: 0
           <b>[Paper]</b> Paper on multi-modal imitation learning accepted to <b>NIPS 2017</b>!
         </li>
       </ul>
+      <br>
+      <br>
+
+      <h2>Recent Talks</h2>
+      <!-- Talk video -->
+      <h4>CoRL 2022</h4>
+      <center>
+      <div class="youtube-container">
+        <iframe class="youtube" src="https://www.youtube.com/embed/NUHt0kp8NjE?start=7120" title="Joseph CoRL2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen width="100%" height="100%" style="position: absolute; left: 0; top: 0;"></iframe>
+      </div>
+      </center>
+      <br>
     </div>
     <div class='col-lg-1'></div>
   </div>

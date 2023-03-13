@@ -203,7 +203,15 @@ pre {
   }
 }
 
+#home-wrapper {
+    max-width: -webkit-calc(1500px - (#{$spacing-unit} * 2));
+    max-width:         calc(1500px - (#{$spacing-unit} * 2));
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(1500px - (#{$spacing-unit}));
+        max-width:         calc(1500px - (#{$spacing-unit}));
+    }
 
+}
 
 /**
  * Clearfix
@@ -264,4 +272,3 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
-
