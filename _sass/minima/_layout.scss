@@ -64,7 +64,7 @@
   .top-page-link {
     color: $text-color;
     line-height: $base-line-height;
-    font-size: 1.3em;
+    font-size: 1.1em;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -406,7 +406,3 @@
 /**
  * General
  */
-
-h2 {
-  font-weight: bold;
-}

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Environments
+permalink: /environments/
 order: 3
 ---
 
