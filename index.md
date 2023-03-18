@@ -75,22 +75,22 @@ order: 0
           <b>[Paper]</b> Our paper on multimodal meta-learning is accepted to <b>NeurIPS 2019</b>!
         </li>
         <li>
-          <b>[Talk]</b> <a href='https://people.eecs.berkeley.edu/~pathak/' target='_blank'>Deepak Pathak</a> from UC Berkeley gave a talk as part of the <a href='/speakers/'>CLVR Speaker Series</a>.
+          <b>[Talk]</b> <a href='https://people.eecs.berkeley.edu/~pathak/' target='_blank'>Deepak Pathak</a> from UC Berkeley gave a talk as part of the CLVR Speaker Series.
         </li>
         <li>
           <b>[Paper]</b> Paper on complex skill composition accepted to <b>ICLR 2019</b>!
         </li>
         <li>
-          <b>[Talk]</b> <a href='https://ai.stanford.edu/~kuanfang/' target='_blank'>Kuan Fang</a> from the Stanford Vision Lab gave a talk as part of the <a href='/speakers/'>CLVR Speaker Series</a>.
+          <b>[Talk]</b> <a href='https://ai.stanford.edu/~kuanfang/' target='_blank'>Kuan Fang</a> from the Stanford Vision Lab gave a talk as part of the CLVR Speaker Series.
         </li>
         <li>
-          <b>[Talk]</b> <a href='https://www.tshu.io/' target='_blank'>Tianmin Shu</a> from UCLA gave a talk as part of the <a href='/speakers/'>CLVR Speaker Series</a>.
+          <b>[Talk]</b> <a href='https://www.tshu.io/' target='_blank'>Tianmin Shu</a> from UCLA gave a talk as part of the CLVR Speaker Series.
         </li>
         <li>
-          <b>[Talk]</b> <a href='https://web.stanford.edu/~yukez/' target='_blank'>Yuke Zhu</a> from the Stanford Vision Lab gave a talk as part of the <a href='/speakers/'>CLVR Speaker Series</a>.
+          <b>[Talk]</b> <a href='https://web.stanford.edu/~yukez/' target='_blank'>Yuke Zhu</a> from the Stanford Vision Lab gave a talk as part of the CLVR Speaker Series.
         </li>
         <li>
-          <b>[Talk]</b> <a href='http://andrewowens.com/' target='_blank'>Andrew Owens</a> from UC Berkeley gave a talk as part of the <a href='/speakers/'>CLVR Speaker Series</a>.
+          <b>[Talk]</b> <a href='http://andrewowens.com/' target='_blank'>Andrew Owens</a> from UC Berkeley gave a talk as part of the CLVR Speaker Series.
         </li>
         <li>
           <b>[Paper]</b> Paper on novel-view synthesis accepted to <b>ECCV 2018</b>!
@@ -99,22 +99,22 @@ order: 0
           <b>[Paper]</b> Paper on neural program synthesis accepted to <b>ICML 2018</b>!
         </li>
         <li>
-          <b>[Talk]</b> <a href='https://jiajunwu.com/' target='_blank'>Jiajun Wu</a> from MIT gave a talk as part of the <a href='/speakers/'>CLVR Speaker Series</a>.
+          <b>[Talk]</b> <a href='https://jiajunwu.com/' target='_blank'>Jiajun Wu</a> from MIT gave a talk as part of the CLVR Speaker Series.
         </li>
         <li>
           <b>[Paper]</b> Paper on object affordance reasoning accepted to <b>CVPR 2018</b>!
         </li>
         <li>
-          <b>[Talk]</b> <a href='http://carlvondrick.com/' target='_blank'>Carl Vondrick</a> from Google gave a talk as part of the <a href='/speakers/'>CLVR Speaker Series</a>.
+          <b>[Talk]</b> <a href='http://carlvondrick.com/' target='_blank'>Carl Vondrick</a> from Google gave a talk as part of the CLVR Speaker Series.
         </li>
         <li>
           <b>[Paper]</b> Paper on agents that disentangle environment and task accepted to <b>ICLR 2018</b>!
         </li>
         <li>
-          <b>[Talk]</b> <a href='https://jimmylba.github.io/' target='_blank'>Jimmy Ba</a> from UToronto gave a talk as part of the <a href='/speakers/'>CLVR Speaker Series</a>.
+          <b>[Talk]</b> <a href='https://jimmylba.github.io/' target='_blank'>Jimmy Ba</a> from UToronto gave a talk as part of the CLVR Speaker Series.
         </li>
         <li>
-          <b>[Talk]</b> <a href='https://people.eecs.berkeley.edu/~isola/' target='_blank'>Phillip Isola</a> from OpenAI gave a talk as part of the <a href='/speakers/'>CLVR Speaker Series</a>.
+          <b>[Talk]</b> <a href='https://people.eecs.berkeley.edu/~isola/' target='_blank'>Phillip Isola</a> from OpenAI gave a talk as part of the CLVR Speaker Series.
         </li>
         <li>
           <b>[Paper]</b> Paper on multi-modal imitation learning accepted to <b>NIPS 2017</b>!

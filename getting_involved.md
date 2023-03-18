@@ -87,7 +87,7 @@ order: 4
         <h3 style="text-align: left;">Interview Process</h3>
         <ul>
             <li>
-                Initial email screening
+                Initial email screening.
             </li>
             <li>
                 Paper review presentation. The level of expectation depends on your background, but we expect you to have a good discussion skill and deep thinking ability.
@@ -96,7 +96,7 @@ order: 4
                 Implementation of a machine learning algorithm. (Optional)
             </li>
             <li>
-                High-level research interest discussion. We aims to find your best fit and to build a research plan for your academic goal
+                High-level research interest discussion. We aims to find your best fit and to build a research plan for your academic goal.
             </li>
         </ul>
 

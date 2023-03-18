@@ -27,31 +27,6 @@
     "research": "Computer vision",
     "current": "next: PhD student @ UT Austin"
   },
-
-  {
-    "web": "https://shagunuppal.github.io/",
-    "picture": "/assets/people/shagun.jpg",
-    "name": "Shagun Uppal",
-    "title": "Visitor from IIIT Delhi",
-    "email": "shagun16088 [at] iiitd [dot] ac [dot] in",
-    "current": "next: MS student @ CMU"
-  },
-  {
-    "web": "https://sarthak268.github.io/",
-    "picture": "/assets/people/sarthak.jpg",
-    "name": "Sarthak Bhagat",
-    "title": "Visitor from IIIT Delhi",
-    "email": "sarthak16189 [at] iiitd [dot] ac [dot] in",
-    "current": "next: MS student @ CMU"
-  },
-  {
-    "web": "https://junjungoal.github.io/",
-    "picture": "/assets/people/jun.jpg",
-    "name": "Jun Yamada",
-    "title": "Visitor from University College London",
-    "email": "junyamada107 [at] gmail [dot] com",
-    "current": "next: PhD student @ Oxford University with Prof. Ingmar Posner"
-  },
   {
     "web": "https://edwardshu.com",
     "picture": "/assets/people/joshua_tree/ed.jpg",
@@ -83,6 +58,30 @@
     "name": "Sriram Somasundaram",
     "title": "Undergraduate student at USC",
     "current": "next: MS student @ Stanford, now: Software engineer @ C3.ai"
+  },
+  {
+    "web": "https://shagunuppal.github.io/",
+    "picture": "/assets/people/shagun.jpg",
+    "name": "Shagun Uppal",
+    "title": "Visitor from IIIT Delhi",
+    "email": "shagun16088 [at] iiitd [dot] ac [dot] in",
+    "current": "next: MS student @ CMU"
+  },
+  {
+    "web": "https://sarthak268.github.io/",
+    "picture": "/assets/people/sarthak.jpg",
+    "name": "Sarthak Bhagat",
+    "title": "Visitor from IIIT Delhi",
+    "email": "sarthak16189 [at] iiitd [dot] ac [dot] in",
+    "current": "next: MS student @ CMU"
+  },
+  {
+    "web": "https://junjungoal.github.io/",
+    "picture": "/assets/people/jun.jpg",
+    "name": "Jun Yamada",
+    "title": "Visitor from University College London",
+    "email": "junyamada107 [at] gmail [dot] com",
+    "current": "next: PhD student @ Oxford University with Prof. Ingmar Posner"
   },
   {
     "web": "https://hyeonwoonoh.github.io/",
@@ -118,7 +117,7 @@
     "name": "Taehoon Kim",
     "title": "Visitor from Devsisters",
     "current": "next: Research engineer @ OpenAI"
-  },        
+  },
   {
     "web": "https://wook.kr",
     "picture": "/assets/people/jongwook2.png",
