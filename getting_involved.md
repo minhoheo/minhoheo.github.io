@@ -10,26 +10,26 @@ order: 4
     <div class='col-lg-1'></div>
         <div class='col-lg-10'>
         <p>
-        Our lab's core values are passion and dedication towards research on agents that can learn. Our style of research is collaborative and thorough as we aim to produce high-quality interesting works we can be collectively proud of.
+        Our lab's core values are passion and dedication toward research on agents that can learn. Our style of research is collaborative and thorough, as we aim to produce high-quality, interesting works we can be collectively proud of.
         <!-- We target to be the best and support each other.
         We believe in fostering a collaborative environment where everyone's ideas are valued and where each team member is encouraged to contribute to the overall success of the project.
         We place a strong emphasis on excellence, and we strive to produce high-quality work that pushes the boundaries of what is possible. -->
         </p>
         <br>
         <p>
-        We are welcoming self-motivated prospective students to contact for joining our lab!
+        We are welcoming self-motivated prospective students to contact us to join our lab!
         </p>
 
         <br>
 
         <h3 style="text-align: left;">Contact</h3>
         <p>
-        We are actively looking for students at all levels, including undergrad, intern, MS, and PhD students.
-        If interested, feel free to email Joseph with your CV and brief description of your research interest.
-        For official application, please apply to the Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology via the application website and specifically mention Professor Joseph Lim in your application.
-        Students can apply at:
+        We are actively looking for students at all levels, including undergrad, intern, MS, and Ph.D. students.
+        If interested, feel free to <a href="mailto:joe.lim@kaist.ac.kr">email Joseph</a> with your CV and a brief description of your research interest.
+        For official application, please apply to the Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology via the <a href="https://apply.kaist.ac.kr/GradApply/GradApply/Login">application website</a> and specifically mention Professor Joseph Lim in your application.
+        <!-- Students can apply at:
         <a href="https://forms.gle/BgWoZqFEFfdLccvZ9">UG</a> &amp;
-        <a href="https://forms.gle/tMvUJjD4Qmv6VTLz7">MS</a>.
+        <a href="https://forms.gle/tMvUJjD4Qmv6VTLz7">MS</a>. -->
         </p>
 
         <br>
@@ -38,48 +38,69 @@ order: 4
         <b>High-level values</b>
         <ul>
             <li>
-                Having a strong vision to become a world-leading researcher
+                Having a strong vision to become a world-leading researcher.
             </li>
             <li>
-                Showing sincerity and dedication to producing high-quality work
+                Showing sincerity and dedication to producing high-quality work.
             </li>
             <li>
-                Demonstrating a deep understanding on personal interests and curiosity for diverse topics
+                Demonstrating a deep understanding of personal interests and curiosity for diverse topics.
             </li>
             <li>
-                Committing to growing alongside other members with a sense of responsibility towards the community
+                Committing to growing alongside other members with a sense of responsibility towards the community.
             </li>
         </ul>
         <b>Low-level skills</b>
         <ul>
             <li>
-            Mathematcial backgrounds, including optimization, linear algebra, matrix calculus, and statsitics
+            Mathematical backgrounds, including optimization, linear algebra, matrix calculus, and statistics.
             </li>
             <li>
-            Programming experiences, such as implementation of deep learning algorithm (python/pytorch),
+            Programming experiences, such as the implementation of deep learning algorithms (python/PyTorch).
             </li>
             <li>
-            Proficiency in communication, presentation, and discussion skill (our lab members are international!)
+            Proficiency in communication, presentation, and discussion skill (our lab members are international!).
             </li>
             <li>
-            Strong brainstorm skill to bring interesting ideas and discuss with other peers
+            Strong brainstorming skill to bring interesting ideas and discuss with other peers.
             </li>
             <li>
-            Ability of criticizing reserach papers to develop better algorithms
+            Ability to criticize research papers for developing better algorithms.
             </li>
         </ul>
 
-        <br>
+        <!-- <br>
         <h3 style="text-align: left;">Lab Culture</h3>
         <ul>
             <li>
-            Open to start discussion with peers
+            Open to start discussion with peers.
             </li>
             <li>
-            Weekly group meeting for project brainstorming / reading session
+            Weekly group meeting for project brainstorming / reading session.
             </li>
             <li>
-            Invited guest talk from prominent/rising researchers
+            Invited guest talk from prominent/rising researchers.
+            </li>
+        </ul> -->
+
+        <br>
+
+        <h3 style="text-align: left;">Tips</h3>
+        <ul>
+            <li>
+                Think deeply about why you want to and have to research. Find your own interests and fields you love to devote yourself to.
+            </li>
+            <li>
+                Consider what the biggest bottleneck in the field you are interested in is. To find the problem, search the space by reading papers and discussing with others.
+            </li>
+            <li>
+                Embrace skill sets in order to solve that problem. It can be math, programming, communication, or anything.
+            </li>
+            <li>
+                If you are very good at something (even for League of Legends, for example), find any connection with the desired quality and grow that strong point (communication skill as a team, for example) up to the world-best level.
+            </li>
+            <li>
+                Apply to our group without worrying about it starting too late or your background.
             </li>
         </ul>
 
@@ -90,13 +111,13 @@ order: 4
                 Initial email screening.
             </li>
             <li>
-                Paper review presentation. The level of expectation depends on your background, but we expect you to have a good discussion skill and deep thinking ability.
+                Paper review presentation. The level of expectation depends on your background, but we expect you to have good discussion skills and profound thinking ability.
             </li>
             <li>
-                Implementation of a machine learning algorithm. (Optional)
+                Implementation of a machine learning algorithm (Optional).
             </li>
             <li>
-                High-level research interest discussion. We aims to find your best fit and to build a research plan for your academic goal.
+                High-level research interest discussion. We aim to find your best fit and build a research plan for your academic goal.
             </li>
         </ul>
 

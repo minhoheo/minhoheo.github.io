@@ -6,7 +6,8 @@
     "publication": "Preprint 2022",
     "web": "https://clvrai.github.io/pato",
     "pdf": "https://drive.google.com/file/d/1pqgBTju0p7-mUUGl1IYoh4gQ1q_qbL7m/view?usp=sharing",
-    "year": "2022"
+    "year": "2022",
+    "topic": "Robot Learning"
   },
   {
     "paper_image" :  "/assets/research/star.gif" ,
@@ -16,7 +17,8 @@
     "web": "https://kpertsch.github.io/star",
     "pdf": "https://openreview.net/forum?id=AdFROt9BoqE",
     "code": "https://github.com/kpertsch/star",
-    "year": "2022"
+    "year": "2022",
+    "topic": "Robot Learning"
   },
   {
     "paper_image" :  "/assets/research/skimo_arxiv2022.gif" ,
@@ -26,7 +28,8 @@
     "web": "https://clvrai.com/skimo",
     "pdf": "https://arxiv.org/abs/2207.07560",
     "code": "https://github.com/clvrai/skimo",
-    "year": "2022"
+    "year": "2022",
+    "topic": "Robot Learning"
   },
   {
     "paper_image" :  "/assets/research/simpl_teaser.png" ,
@@ -36,7 +39,8 @@
     "web": "https://namsan96.github.io/SiMPL/",
     "pdf": "https://openreview.net/pdf?id=jeLW-Fh9bV",
     "code": "https://github.com/namsan96/SiMPL",
-    "year": "2022"
+    "year": "2022",
+    "topic": "Robot Learning"
   },
   {
     "paper_image" :  "/assets/research/tarp.gif" ,
@@ -46,7 +50,8 @@
     "web": "https://clvrai.github.io/tarp",
     "pdf": "https://openreview.net/pdf?id=OzyXtIZAzFv",
     "code": "https://github.com/clvrai/tarp",
-    "year": "2022"
+    "year": "2022",
+    "topic": "Robot Learning"
   },
   {
     "paper_image" :  "/assets/research/Agile_teaser_gif.gif" ,
@@ -56,7 +61,8 @@
     "web": "https://sites.google.com/view/varyingaction",
     "pdf": "https://openreview.net/pdf?id=MljXVdp4A3N",
     "code": "https://github.com/clvrai/agile",
-    "year": "2022"
+    "year": "2022",
+    "topic": "Cognitive Model"
   },
   {
     "paper_image" :  "/assets/research/leaps.png" ,
@@ -66,7 +72,8 @@
     "web": "https://clvrai.com/leaps",
     "pdf": "https://arxiv.org/abs/2108.13643",
     "code": "https://github.com/clvrai/leaps",
-    "year": "2021"
+    "year": "2021",
+    "topic": "Symbolic Representation"
   },
   {
     "paper_image" :  "/assets/research/goal_proximity_neurips2021_aspect.gif" ,
@@ -76,7 +83,8 @@
     "web": "https://clvrai.com/gpil",
     "pdf": "https://openreview.net/forum?id=lp9foO8AFoD",
     "code": "https://github.com/clvrai/goal_prox_il",
-    "year": "2021"
+    "year": "2021",
+    "topic": "Cognitive Model"
   },
   {
     "paper_image" :  "/assets/research/skild_teaser_final.gif" ,
@@ -86,7 +94,8 @@
     "web": "https://clvrai.com/skild",
     "pdf": "https://arxiv.org/abs/2107.10253",
     "code": "https://github.com/clvrai/skild",
-    "year": "2021"
+    "year": "2021",
+    "topic": "Robot Learning"
   },
   {
     "paper_image" :  "/assets/research/tstar_corl2021_aspect.png" ,
@@ -96,7 +105,8 @@
     "pdf": "https://openreview.net/pdf?id=K5-J-Espnaq",
     "web": "https://clvrai.com/skill-chaining",
     "_code": "https://github.com/clvrai/skill-chaining",
-    "year": "2021"
+    "year": "2021",
+    "topic": "Robot Learning"
   },
   {
     "paper_image" :  "/assets/research/mopa_corl2021_2_aspect.gif" ,
@@ -106,7 +116,8 @@
     "pdf": "https://openreview.net/pdf?id=NZnz3cExrDW",
     "web": "https://clvrai.com/mopa-pd",
     "code": "https://github.com/clvrai/mopa-pd",
-    "year": "2021"
+    "year": "2021",
+    "topic": "Robot Learning"
   },
   {
     "paper_image": "/assets/research/idapt_rss2021.gif",
@@ -116,15 +127,8 @@
     "web": "https://clvrai.com/idapt",
     "pdf": "http://www.roboticsproceedings.org/rss17/p006.pdf",
     "code": "https://github.com/clvrai/idapt",
-    "year": "2021"
-  },
-  {
-    "paper_image": "/assets/research/lg_icml.png",
-    "title": "Message Passing Adaptive Resonance Theory for Online Active Semi-supervised Learning",
-    "authors": "Taehyeong Kim, Injune Hwang, Hyundo Lee, Hyunseo Kim, Won-Seok Choi, Joseph J. Lim, Byoung-Tak Zhang",
-    "publication": "ICML 2021",
-    "pdf": "https://proceedings.mlr.press/v139/kim21e",
-    "year": "2021"
+    "year": "2021",
+    "topic": "Robot Learning"
   },
   {
     "paper_image": "/assets/research/lee_furniture.gif",
@@ -134,7 +138,8 @@
     "web": "https://clvrai.com/furniture/",
     "pdf": "/assets/research/lee_icra21.pdf",
     "code": "https://github.com/clvrai/furniture",
-    "year": "2021"
+    "year": "2021",
+    "topic": "Robot Learning"
   },
   {
      "paper_image" : "/assets/research/spirl_corl2020.gif",
@@ -145,7 +150,8 @@
      "pdf": "https://corlconf.github.io/corl2020/paper_44/",
      "code": "https://github.com/clvrai/spirl",
      "talk": "https://www.youtube.com/watch?v=kZOcqFRj5NE&t=5119",
-     "year" : "2020"
+     "year" : "2020",
+    "topic": "Robot Learning"
   },
   {
      "paper_image" : "/assets/research/mopa_corl2020.gif",
@@ -155,7 +161,8 @@
      "web": "https://clvrai.com/mopa-rl/",
      "pdf": "https://corlconf.github.io/corl2020/paper_130/",
      "code": "https://github.com/clvrai/mopa-rl",
-     "year" : "2020"
+     "year" : "2020",
+     "topic": "Robot Learning"
    },
    {
     "paper_image": "/assets/research/create_teaser_gif.gif",
@@ -167,7 +174,8 @@
     "code": "https://github.com/clvrai/new-actions-rl",
     "talk": "https://icml.cc/virtual/2020/poster/5768",
     "environment": "https://clvrai.com/create",
-    "year": "2020"
+    "year": "2020",
+    "topic": "Cognitive Model"
   },
   {
     "paper_image": "/assets/research/keyin-real.gif",
@@ -176,7 +184,8 @@
     "publication": "L4DC 2020",
     "web": "https://sites.google.com/view/keyin",
     "pdf": "http://proceedings.mlr.press/v120/pertsch20a.html",
-    "year": "2020"
+    "year": "2020",
+    "topic": "Reasoning and Planning"
   },
    {
     "paper_image": "/assets/research/pga.png",
@@ -186,6 +195,7 @@
     "web": "https://shaohua0116.github.io/ProgramGuidedAgent/",
     "pdf": "https://openreview.net/pdf?id=BkxUvnEYDH",
     "year": "2020",
+    "topic": "Symbolic Representation"
   },
    {
     "paper_image": "/assets/research/subdiv_iclr2020.gif",
@@ -196,8 +206,9 @@
     "pdf": "https://openreview.net/pdf?id=ryxB2lBtvH",
     "code": "https://github.com/clvrai/coordination",
     "year": "2020",
+    "topic": "Robot Learning"
   },
- 
+
   {
     "paper_image": "/assets/research/silo_colr2019_envs.gif",
     "title": "To Follow or not to Follow: Selective Imitation Learning from Observations",
@@ -207,6 +218,7 @@
     "pdf": "http://proceedings.mlr.press/v100/lee20a.html",
     "spotlight": "https://youtu.be/b7StSnt85S4?t=12591",
     "year": "2019",
+    "topic": "Robot Learning"
   },
   {
     "paper_image": "/assets/research/mumomaml.png",
@@ -218,6 +230,7 @@
     "code": "https://github.com/shaohua0116/MMAML-Classification",
     "spotlight": "https://slideslive.com/38921753/track-3-session-4",
     "year": "2019",
+    "topic": "Cognitive Model",
   },
   {
     "paper_image": "/assets/research/lee_iclr19.gif",
@@ -227,7 +240,8 @@
     "pdf": "https://openreview.net/forum?id=rygrBhC5tQ",
     "web": "https://youngwoon.github.io/transition/",
     "code": "https://github.com/youngwoon/transition",
-    "year": "2019"
+    "year": "2019",
+    "topic": "Robot Learning"
   },
   {
     "paper_image": "/assets/research/sim2real.png",
@@ -236,6 +250,7 @@
     "publication": "ISER 2018, Buenos Aires, Argentina (IJRR 2019)",
     "pdf": "https://journals.sagepub.com/doi/full/10.1177/0278364920944474",
     "year": "2019",
+    "topic": "Robot Learning"
   },
   {
     "paper_image": "/assets/research/sun_eccv18.png",
@@ -245,7 +260,8 @@
     "pdf": "http://openaccess.thecvf.com/content_ECCV_2018/papers/Shao-Hua_Sun_Multi-view_to_Novel_ECCV_2018_paper.pdf",
     "year": "2018",
     "web": "https://shaohua0116.github.io/Multiview2Novelview/",
-    "code": "https://github.com/shaohua0116/Multiview2Novelview"
+    "code": "https://github.com/shaohua0116/Multiview2Novelview",
+    "topic": "Computer Vision"
   },
   {
     "paper_image": "/assets/research/sun_icml18.png",
@@ -255,7 +271,8 @@
     "pdf": "http://proceedings.mlr.press/v80/sun18a/sun18a.pdf",
     "year": "2018",
     "web": "https://shaohua0116.github.io/demo2program/",
-    "code": "https://github.com/shaohua0116/demo2program"
+    "code": "https://github.com/shaohua0116/demo2program",
+    "topic": "Symbolic Representation"
   },
   {
     "paper_image": "/assets/research/demo2vec_teaser.png",
@@ -265,7 +282,8 @@
     "pdf": "http://openaccess.thecvf.com/content_cvpr_2018/papers/Fang_Demo2Vec_Reasoning_Object_CVPR_2018_paper.pdf",
     "year": "2018",
     "web": "https://sites.google.com/view/demo2vec/",
-    "data": "https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fkuanfang%2Fopra&sa=D&sntz=1&usg=AFQjCNEUMowqBuDxQqipOmDPc5HFktI7Lw"
+    "data": "https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fkuanfang%2Fopra&sa=D&sntz=1&usg=AFQjCNEUMowqBuDxQqipOmDPc5HFktI7Lw",
+    "topic": "Computer Vision"
   },
   {
     "paper_image": "/assets/research/aot.png",
@@ -273,7 +291,8 @@
     "authors": "Donglai Wei, Joseph J. Lim, Andrew Zisserman, William Freeman",
     "publication": "CVPR 2018, Salt Lake City, Utah.",
     "pdf": "https://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Learning_and_Using_CVPR_2018_paper.pdf",
-    "year": "2018"
+    "year": "2018",
+    "topic": "Reasoning and Planning"
   },
   {
     "paper_image": "/assets/research/universalagent.png",
@@ -281,7 +300,8 @@
     "authors": "Jiayuan Mao, Honghua Dong, Joseph J. Lim",
     "publication": "ICLR 2018, Vancouver, Canada",
     "pdf": "https://openreview.net/pdf?id=B1mvVm-C-",
-    "year": "2018"
+    "year": "2018",
+    "topic": "Reasoning and Planning"
   },
   {
   "paper_image": "/assets/research/intentionGAN.png",
@@ -289,25 +309,28 @@
   "authors": "Karol Hausman, Yevgen Chebotar, Stefan Schaal, Gaurav Sukhatme, Joseph J. Lim",
   "publication": "NIPS 2017, Long Beach, California",
   "pdf": "https://proceedings.neurips.cc/paper/2017/hash/632cee946db83e7a52ce5e8d6f0fed35-Abstract.html",
-  "year": "2017"
+  "year": "2017",
+  "topic": "Robot Learning"
   },
 
   {
   "paper_image": "/assets/research/vlrr.png",
-  "title": "Unsupervised Visual-Linguistic Reference Resolution in Instructional Videos", 
+  "title": "Unsupervised Visual-Linguistic Reference Resolution in Instructional Videos",
   "authors": "De-An Huang, Joseph J. Lim, Li Fei-Fei, Juan Carlos Niebles",
   "publication": "CVPR 2017, Honolulu, Hawaii",
   "pdf": "https://arxiv.org/abs/1703.02521",
-  "year": "2017"
+  "year": "2017",
+  "topic": "Computer Vision"
   },
 
   {
   "paper_image": "/assets/research/zlf_cvpr17.png",
-  "title": "Knowledge Acquisition for Visual Question Answering via Iterative Querying", 
+  "title": "Knowledge Acquisition for Visual Question Answering via Iterative Querying",
   "authors": "Yuke Zhu, Joseph J. Lim, Li Fei-Fei",
   "publication": "CVPR 2017, Honolulu, Hawaii",
   "pdf": "https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Knowledge_Acquisition_for_CVPR_2017_paper.pdf",
-  "year": "2017"
+  "year": "2017",
+  "topic": "Cognitive Model"
   },
 
   {
@@ -317,16 +340,18 @@
   "publication": "ICRA 2017, Singapore",
   "pdf": "https://ieeexplore.ieee.org/document/7989381",
   "arxiv": "https://arxiv.org/abs/1609.05143",
-  "year": "2017"
+  "year": "2017",
+  "topic": "Robot Learning"
   },
 
   {
   "paper_image": "/assets/research/olsl_sigasia2016.png",
-  "title": "High-Fidelity Facial and Speech Animation for VR HMDs", 
+  "title": "High-Fidelity Facial and Speech Animation for VR HMDs",
   "authors": "Kyle Olszewski, Joseph J. Lim, Shunsuke Saito, Hao Li",
   "publication": "SIGGRAPH Asia 2016, Macau, China",
   "pdf": "https://dl.acm.org/doi/10.1145/2980179.2980252",
-  "year": "2016"
+  "year": "2016",
+  "topic": "Computer Vision"
   },
 
   {
@@ -336,7 +361,8 @@
   "publication": "ECCV 2016, Amsterdam, Netherlands",
   "pdf": "https://link.springer.com/chapter/10.1007/978-3-319-46466-4_22",
   "arxiv": "https://arxiv.org/abs/1604.08685",
-  "year": "2016"
+  "year": "2016",
+  "topic": "Computer Vision"
   },
 
   {
@@ -345,7 +371,8 @@
   "authors": "Jiajun Wu, Joseph J. Lim, Hongyi Zhang, Joshua B. Tenenbaum, William T. Freeman",
   "publication": "BMVC 2016, York, UK",
   "pdf": "http://phys101.csail.mit.edu/papers/phys101_bmvc.pdf",
-  "year": "2016"
+  "year": "2016",
+  "topic": "Reasoning and Planning"
   },
 
   {
@@ -354,7 +381,8 @@
   "authors": "Jiajun Wu*, Ilker Yildirim*, Joseph J. Lim, William T. Freeman, Joshua B. Tenenbaum. (* - indicates equal contribution)",
   "publication": "NIPS 2015, Montreal, Canada",
   "pdf": "https://papers.nips.cc/paper/2015/hash/d09bf41544a3365a46c9077ebb5e35c3-Abstract.html",
-  "year": "Before 2016"
+  "year": "Before 2016",
+  "topic": "Reasoning and Planning"
   },
 
   {
@@ -363,16 +391,18 @@
   "authors": "Phillip Isola*, Joseph J. Lim*, Edward H. Adelson. (* - indicates equal contribution)",
   "publication": "CVPR 2015, Boston, Massachusetts",
   "pdf": "https://www.cv-foundation.org/openaccess/content_cvpr_2015/ext/1B_030_ext.pdf",
-  "year": "Before 2016"
+  "year": "Before 2016",
+  "topic": "Computer Vision"
   },
 
   {
   "paper_image": "/assets/research/lkt_eccv14.png",
-  "title": "FPM: Fine pose Parts-based Model with 3D CAD models", 
+  "title": "FPM: Fine pose Parts-based Model with 3D CAD models",
   "authors": "Joseph J. Lim, Aditya Khosla, Antonio Torralba.",
   "publication": "ECCV 2014, Zurich, Switzerland",
   "pdf": "https://link.springer.com/chapter/10.1007/978-3-319-10599-4_31",
-  "year": "Before 2016"
+  "year": "Before 2016",
+  "topic": "Computer Vision"
   },
 
   {
@@ -381,25 +411,28 @@
   "authors": "Aditya Khosla*, Byoungkwon An*, Joseph J. Lim*, Antonio Torralba. (* - indicates equal contribution)",
   "publication": "ECCV 2014, Zurich, Switzerland",
   "pdf": "https://ieeexplore.ieee.org/document/6909869",
-  "year": "Before 2016"
+  "year": "Before 2016",
+  "topic": "Computer Vision"
   },
 
   {
   "paper_image": "/assets/research/lpt_iccv2013.png",
-  "title": "Parsing IKEA Objects: Fine Pose Estimation", 
+  "title": "Parsing IKEA Objects: Fine Pose Estimation",
   "authors": "Joseph J. Lim, Hamed Pirsiavash, Antonio Torralba.",
   "publication": "ICCV 2013, Sydney, Australia",
   "pdf": "https://ieeexplore.ieee.org/document/6751483",
-  "year": "Before 2016"
+  "year": "Before 2016",
+  "topic": "Computer Vision"
   },
 
   {
   "paper_image": "/assets/research/lzd_cvpr13.png",
-  "title": "Sketch Tokens: A Learned Mid-level Representation for Contour and Object Detection", 
+  "title": "Sketch Tokens: A Learned Mid-level Representation for Contour and Object Detection",
   "authors": "Joseph J. Lim, C. Lawrence Zitnick, and Piotr Dollar.",
   "publication": "CVPR 2013, Portland, Oregon",
   "pdf": "https://openaccess.thecvf.com/content_cvpr_2013/html/Lim_Sketch_Tokens_A_2013_CVPR_paper.html",
-  "year": "Before 2016"
+  "year": "Before 2016",
+  "topic": "Computer Vision"
   },
 
   {
@@ -408,7 +441,8 @@
     "authors": "Joseph J. Lim, Ruslan Salakhutdinov, and Antonio Torralba",
     "publication": "NIPS 2011, Granada, Spain",
     "pdf": "https://proceedings.neurips.cc/paper/2011/hash/e0eacd983971634327ae1819ea8b6214-Abstract.html",
-    "year": "Before 2016"
+    "year": "Before 2016",
+    "topic": "Computer Vision"
   },
 
   {
@@ -417,7 +451,8 @@
   "authors": "Pablo Arbelaez, Bong-Gyoon Han, Dieter Typke, Joseph J. Lim, Robert M. Glaeser, Jitendra Malik.",
   "publication": "Journal of Structural Biology 2011.  doi:10.1016/j.jsb.2011.05.017",
   "pdf": "https://www.sciencedirect.com/science/article/pii/S1047847711001651?via%3Dihub",
-  "year": "Before 2016"
+  "year": "Before 2016",
+  "topic": "Cognitive Model"
   },
 
   {
@@ -426,33 +461,46 @@
   "authors": "Myung Jin Choi, Joseph J. Lim, Antonio Torralba, and Alan S.  Willsky.",
   "publication": "CVPR 2010, San Francisco, California",
   "pdf": "https://ieeexplore.ieee.org/document/5540221",
-  "year": "Before 2016"
+  "year": "Before 2016",
+  "topic": "Cognitive Model"
   },
 
   {
   "paper_image": "/assets/research/lagm_iccv09.jpg",
-  "title": "Context by Region Ancestry", 
+  "title": "Context by Region Ancestry",
   "authors": "Joseph J. Lim, Pablo Arbelaez, Chunhui Gu, Jitendra Malik.",
   "publication": "ICCV 2009, Kyoto, Japan",
   "pdf": "https://ieeexplore.ieee.org/document/5459436",
-  "year": "Before 2016"
+  "year": "Before 2016",
+  "topic": "Cognitive Model"
   },
 
   {
   "paper_image": "/assets/research/glam_cvpr09.png",
-  "title": "Recognition using Regions", 
+  "title": "Recognition using Regions",
   "authors": "Chunhui Gu, Joseph J. Lim, Pablo Arbelaez, Jitendra Malik.",
   "publication": "CVPR 2009, Miami, Florida",
   "pdf": "https://ieeexplore.ieee.org/document/5206727",
-  "year": "Before 2016"
+  "year": "Before 2016",
+  "topic": "Computer Vision"
   },
 
   {
+    "paper_image": "/assets/research/lg_icml.png",
+    "title": "Message Passing Adaptive Resonance Theory for Online Active Semi-supervised Learning",
+    "authors": "Taehyeong Kim, Injune Hwang, Hyundo Lee, Hyunseo Kim, Won-Seok Choi, Joseph J. Lim, Byoung-Tak Zhang",
+    "publication": "ICML 2021",
+    "pdf": "https://proceedings.mlr.press/v139/kim21e",
+    "year": "2021",
+    "topic": "... and More!"
+  },
+  {
   "paper_image": "/assets/research/welling_lim07.png",
-  "title": "A Distributed Message Passing Algorithm for Sensor Localization", 
+  "title": "A Distributed Message Passing Algorithm for Sensor Localization",
   "authors": "Max Welling and Joseph J. Lim.",
   "publication": "ICANN 2007, Porto, Portugal.",
   "pdf": "https://link.springer.com/chapter/10.1007%2F978-3-540-74690-4_78",
-  "year": "Before 2016"
+  "year": "Before 2016",
+  "topic": "... and More!"
   }
 ]
