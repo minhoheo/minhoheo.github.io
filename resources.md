@@ -6,9 +6,7 @@ order: 3
 ---
 
 <h2> Recent Talks </h2>
-
 <!-- Talk video -->
-<h3>CoRL 2022</h3>
   <center>
   <div class="col-lg-1"></div>
   <div class="col-lg-10" style='height:480px'>
