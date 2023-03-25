@@ -100,7 +100,7 @@ order: 4
                 If you are very good at something (even for League of Legends, for example), find any connection with the desired quality and grow that strong point (communication skill as a team, for example) up to the world-best level.
             </li>
             <li>
-                Apply to our group without worrying about it starting too late or your background.
+                Apply to our group without worrying about starting late or your background.
             </li>
         </ul>
 
@@ -114,7 +114,7 @@ order: 4
                 Paper review presentation. The level of expectation depends on your background, but we expect you to have good discussion skills and profound thinking ability.
             </li>
             <li>
-                Implementation of a machine learning algorithm (Optional).
+                Implementation project. (Optional)
             </li>
             <li>
                 High-level research interest discussion. We aim to find your best fit and build a research plan for your academic goal.
