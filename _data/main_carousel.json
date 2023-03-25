@@ -8,41 +8,41 @@
     "project": "https://sites.google.com/view/varyingaction"
   },
   {
-    "url": "/assets/home/06.gif",
+    "url": "/assets/home/02.gif",
     "project": "https://sites.google.com/view/action-generalization/"
   },
   {
-    "url": "/assets/home/02.gif",
+    "url": "/assets/home/03.gif",
     "project": "https://sites.google.com/view/demo2vec/"
   },
   {
-    "url": "/assets/home/07.gif",
+    "url": "/assets/home/04.gif",
     "project": "https://shaohua0116.github.io/Multiview2Novelview/"
   },
   {
-    "url": "/assets/home/08.gif",
+    "url": "/assets/home/05.gif",
     "project": "https://kpertsch.github.io/star/"
   },
   {
-    "url": "/assets/home/03.gif",
+    "url": "/assets/home/06.gif",
     "project": "https://clvrai.github.io/furniture/"
   },
   {
-    "url": "/assets/home/04.gif",
+    "url": "/assets/home/07.gif",
     "project": "https://clvrai.github.io/leaps/"
   },
   {
-    "url": "/assets/home/09.gif",
+    "url": "/assets/home/08.gif",
     "project": "https://shaohua0116.github.io/ProgramGuidedAgent/"
+  },
+  {
+    "url": "/assets/home/09.gif",
+    "project": "https://sites.google.com/view/keyin"
   },
   {
     "url": "/assets/home/10.gif",
     "project": "https://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Learning_and_Using_CVPR_2018_paper.pdf"
-  },
-  {
-    "url": "/assets/home/05.gif",
-    "project": "http://phys101.csail.mit.edu/papers/phys101_bmvc.pdf"
-  },
+  }
 ]
 
 //   {

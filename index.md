@@ -11,7 +11,7 @@ order: 0
     <div class='col-lg-1'></div>
     <div class='col-lg-10'>
       <br>
-	<h1><div class='lab-name-h1'>Cognitive Learning for Vision and Robotics Lab</div></h1>
+	<h1><div class='lab-name-h1'> <b>Cognitive Learning for Vision and Robotics Lab </b></div></h1>
 
       {% include image_carousel.html name='Example' data=site.data.main_carousel %}
 
