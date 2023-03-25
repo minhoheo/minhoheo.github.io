@@ -22,8 +22,9 @@ order: 0
       The research topics include cognitive model, visual perception, robot learning, symbolic representation, reasoning, and any other interesting topics, as above!
       </p>
       <br>
+      </div>
 
-    </div>
+      <div class='note'> We note that the icons in the banner images are from <a href='https://www.flaticon.com/'>flaticon</a> </div>
     <div class='col-lg-1'></div>
   </div>
 </div>
