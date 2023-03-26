@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-order: 2
+order: 6
 ---
 <div align="right">
     <a id="publication-by-year" onclick="publicationBySelected(this.id);" style="font-weight: bold;"> by year </a>

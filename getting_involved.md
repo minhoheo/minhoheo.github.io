@@ -2,7 +2,7 @@
 layout: page
 title: Getting Involved
 permalink: /getting_involved/
-order: 4
+order: 9
 ---
 
 <div class='container'>

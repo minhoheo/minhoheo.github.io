@@ -1,0 +1,40 @@
+[
+  {
+    "url": "/assets/news/01.gif",
+  },
+  {
+    "url": "/assets/news/00.gif",
+  },
+  {
+    "url": "/assets/news/02.gif",
+  },
+]
+
+//   {
+//     "url": "/assets/home/home-spirl.gif",
+//     "title": "Skill Prior Reinforcement Learning (CoRL 2020)"
+//   },
+//   {
+//     "url": "/assets/home/home-furniture.png",
+//     "title": "IKEA Furniture Assembly Environment (ICRA 2021)"
+//   },
+//   {
+//     "url": "/assets/home/home-silo-no_text.gif",
+//     "title": "Selective Imitation Learning from Observations (CoRL 2019)"
+//   },
+//   {
+//     "url": "/assets/home/home-transition-2x2-reduced.gif",
+//     "title": "Composing Complex Skills by Learning Transition Polices (ICLR 2019)"
+//   },
+//   {
+//     "url": "/assets/home/home-demo2program.png",
+//     "title": "Neural Program Synthesis from Diverse Demonstration Videos (ICML 2018)"
+//   },
+//   {
+//     "url": "/assets/home/home-demo2vec.gif",
+//     "title": "Demo2Vec (CVPR 2018)"
+//   },
+//   {
+//     "url": "/assets/home/home-iGAN-wide.gif",
+//     "title": "Intention GAN (NIPS 2017)"
+//   }
