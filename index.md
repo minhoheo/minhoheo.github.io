@@ -17,14 +17,14 @@ order: 0
 
       <div class='lab-description'>
       <p>
-      We are Cognitive Learning for Vision and Robotics group (CLVR) at Korea Advanced Institute of Science and Technology (KAIST) led by Joseph J. Lim (임재환). 
+      We are Cognitive Learning for Vision and Robotics group (CLVR) at Korea Advanced Institute of Science and Technology (KAIST) led by Joseph J. Lim (임재환).
       Our goal is to develop intelligent systems that are capable of perceiving, reasoning, and interacting with the world.
       The research topics include cognitive model, visual perception, robot learning, symbolic representation, reasoning, and any other interesting topics, as above!
       </p>
       <br>
       </div>
 
-      <div class='note'> We note that the icons in the banner images are from <a href='https://www.flaticon.com/'>flaticon</a> </div>
+      <div class='note'> We note that the icon in the banner images are from <a href='https://www.flaticon.com/'>flaticon</a> </div>
     <div class='col-lg-1'></div>
   </div>
 </div>
