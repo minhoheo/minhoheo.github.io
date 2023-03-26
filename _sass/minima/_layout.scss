@@ -28,6 +28,9 @@
 
 .site-header {
 //   background-color: #990000;
+//   background-color: #1F4899;
+//   background-color: #A9B0B4;
+//   background-color: #1487C8;
   background-color: #1F4899;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
@@ -42,7 +45,8 @@
   }
 }
 
-.top-page-link:hover { background-color: #1487C8 !important; }
+.top-page-link:hover { background-color: #1487C8  !important;
+    margin-top: -20px;}
 
 .site-title {
   @include relative-font-size(1.625);
@@ -135,6 +139,7 @@
       }
       margin-left: 20px;
       text-decoration: none;
+      margin-top: 0px !important;
     }
   }
 }

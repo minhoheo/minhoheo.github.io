@@ -5,7 +5,7 @@ permalink: /resources/
 order: 7
 ---
 
-<h2> Recent Talks </h2>
+<h2> Recent Talk </h2>
 <!-- Talk video -->
   <center>
   <div class="col-lg-1"></div>

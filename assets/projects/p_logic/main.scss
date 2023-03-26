@@ -114,10 +114,11 @@ For the top navigation bar.
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 20px;
+      margin-right: 30px;
     }
     text-decoration: none;
     display: inline-block;
+
   }
 
   @include media-query($on-palm) {
