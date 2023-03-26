@@ -13,7 +13,7 @@ order: 2
       {% include news_carousel.html name='Example' data=site.data.news_carousel %}
     </div>
 
-    <h2 style='margin:auto;'> Annual Events </h2>
+    <h2 style='margin:auto;'> News </h2>
     <div class='col-lg-10'>
 	  <h4 style='text-align:left;'> 2022 </h4>
 	  <ul>
