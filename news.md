@@ -7,14 +7,22 @@ order: 2
 
 <div class='container'>
   <div class='row'>
-    <div class='col-lg-1'></div>
     <br>
+    <div class='col-lg-1'></div>
     <div class='col-lg-10'>
       {% include news_carousel.html name='Example' data=site.data.news_carousel %}
     </div>
+  </div>
 
-    <h2 style='margin:auto;'> News </h2>
+  <div class='row'>
+    <div class='col-lg-1'></div>
     <div class='col-lg-10'>
+    <h2 style='text-align:center;'> News </h2> 
+    </div>
+
+    <div class='col-lg-10'>
+	  <br>
+
 	  <h4 style='text-align:left;'> 2022 </h4>
 	  <ul>
 	    <li>
