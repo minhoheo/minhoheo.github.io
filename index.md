@@ -24,7 +24,7 @@ order: 0
       <br>
       </div>
 
-      <div class='note'> We note that the icon in the banner images are from <a href='https://www.flaticon.com/'>flaticon</a> </div>
+      <div class='note'> The icons in the banner images are from <a href='https://www.flaticon.com/'>flaticon</a> </div>
     <div class='col-lg-1'></div>
   </div>
 </div>
