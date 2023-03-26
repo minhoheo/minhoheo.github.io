@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | sort:"order" | map: "path" -%} {%- assign page_paths = site.header_pages
     | default: default_paths -%}
     <a class="site-title" rel="author" href="/">
-      <!-- img src='/assets/logo.png' class='lab-logo' -->
+      <img src='/assets/logo.png' class='lab-logo' style="height: 50px">
     </a>
     {%- if page_paths -%}
     <nav class="site-nav">
@@ -23,15 +23,29 @@
         my_page.title -%}
         <a class="top-page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>        {%- endif -%} {%- endfor -%}
       </div>
+
+      <!-- <div class="trigger"">
+        <ul style="text-align: center; height: 50px;">
+            <li style="display: inline-block; text-align: center; line-height: 60px;  height: 100%; margin-right: 10px;" class="navi-content">
+                <a class="top-page-link" href="/" style="text-align: center;">Home</a> {%- for path in page_paths -%}
+                {%- assign my_page = site.pages | where: "path", path | first -%} {%- if
+                my_page.title -%}
+            </li>
+            <li style="display: inline-block; text-align: center; line-height: 60px;  height: 100%; margin-left: 10px;" class="navi-content">
+                <a class="top-page-link" href="{{ my_page.url | relative_url }}" style="text-align: center;">{{ my_page.title | escape }}</a>        {%- endif -%} {%- endfor -%}
+            </li>
+        </ul>
+      </div> -->
+
     </nav>
     {%- endif -%}
-    <!-- div lass="lab-name">
+    <!-- <div lass="lab-name">
       <a rel="author" href="/">
         <span class="lab-name-highlight">C</span>ognitive<br>
         <span class="lab-name-highlight">L</span>earning for<br>
         <span class="lab-name-highlight">V</span>ision and<br>
         <span class="lab-name-highlight">R</span>obotics
       </a>
-    </divi -->
+    </div> -->
   </div>
 </header>
