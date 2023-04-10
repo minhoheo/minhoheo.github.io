@@ -17,11 +17,18 @@ order: 2
   <div class='row'>
     <div class='col-lg-1'></div>
     <div class='col-lg-10'>
-    <h2 style='text-align:center;'> News </h2> 
+    <h2 style='text-align:center;'> News </h2>
     </div>
 
     <div class='col-lg-10'>
 	  <br>
+
+	  <h4 style='text-align:left;'> 2023 </h4>
+      <ul>
+        <li>
+          <b>[PhD Defense]</b> Karl Pertsch successfully defended his PhD thesis!
+        </li>
+      </ul>
 
 	  <h4 style='text-align:left;'> 2022 </h4>
 	  <ul>
@@ -31,8 +38,14 @@ order: 2
 	    <li>
 	      <b>[Paper]</b> Three papers are accepted to <b>ICLR</b>!
 	    </li>
+        <li>
+          <b>[PhD Defense]</b> Youngwoon Lee successfully defended his PhD thesis!
+        </li>
+        <li>
+          <b>[PhD Defense]</b> Shao-Hua Sun successfully defended his PhD thesis!
+        </li>
 	  </ul>
-	  
+
 	  <br>
 	  <h4 style='text-align:left;'> 2021 </h4>
 	  <ul>
@@ -102,7 +115,7 @@ order: 2
 	      <b>[Talk]</b> <a href='http://andrewowens.com/' target='_blank'>Andrew Owens</a> from UC Berkeley gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	  </ul>
-	  
+
 	  <br>
 	  <h4 style='text-align: left;'> 2018 </h4>
 	  <ul>
