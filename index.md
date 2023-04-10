@@ -35,11 +35,8 @@ order: 0
       </p>
       <br>
       </div>
-    <details>
+    <!--details>
     <summary style="color:red;">Click here to see representative projects for research topics we are interseted in!</summary>
-  	<!--div class="column" style='width:25%;'>
-	<a><img src="test"></a>
-	</div-->
   <div class="row">
   	<div class="column" style='width:47%; margin:auto;'>
 	<a href="https://sites.google.com/view/varyingaction"><img src="/assets/home/CM.gif"></a>
@@ -54,15 +51,14 @@ order: 0
 	</div>
   	<div class="column" style='width:47%; margin:auto;'>
 	<a href="https://clvrai.github.io/skimo/"><img src="/assets/home/RL.gif"></a>
+    <details-->
 	</div>
   </div>
-    </details>
 
     </div>
   </div>
 
-
-  <br><br>
+  <br>
 
   <div class='row'>
     <div class='col-lg-1'></div>
