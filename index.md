@@ -102,7 +102,7 @@ order: 0
 	  </ul>
 
 	<details>
-	    <summary style="color:blue;">More news before 2022!</summary>
+	    <summary style="color:blue;">More news!</summary>
 
 	  <br>
 	  <h4 style='text-align:left;'> 2020 </h4>
