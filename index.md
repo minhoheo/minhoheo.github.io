@@ -51,11 +51,9 @@ order: 0
 	</div>
   	<div class="column" style='width:47%; margin:auto;'>
 	<a href="https://clvrai.github.io/skimo/"><img src="/assets/home/RL.gif"></a>
-    <details-->
 	</div>
+    <details-->
   </div>
-
-    </div>
   </div>
 
   <br>
