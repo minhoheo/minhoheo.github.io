@@ -16,7 +16,7 @@ order: 9
         Our lab's core values are passion and dedication toward research on agents that can learn. Our style of research is collaborative and thorough, as we aim to produce high-quality, interesting works we can be collectively proud of. Apply to our group without worrying about starting late or your background! Even though you visit our group as an intern, we encourage discussing and participating projects.
         We target to be the best and support each other.
         We believe in fostering a collaborative environment where everyone's ideas are valued and where each team member is encouraged to contribute to the overall success of the project.
-        We place a strong emphasis on excellence, and we strive to produce high-quality work that pushes the boundaries of what is possible. 
+        We place a strong emphasis on excellence, and we strive to produce high-quality work that pushes the boundaries of what is possible.
         </p-->
 
         <h3 style="text-align: left;">&#128232; Contact</h3>
@@ -32,38 +32,38 @@ order: 9
 
         <br>
 
-        <h3 style="text-align: left;">&#129338; Desired Qualities</h3>
+        <h3 style="text-align: left;">&#127759; Desired Qualities</h3>
         <b>High-level values</b>
-        <ul style='list-style-type: none;'>
+        <ul>
             <li>
-            &#127757; Having a strong vision to become a world-leading researcher.
+            Having a strong vision to become a world-leading researcher.
             </li>
             <li>
-            &#127822; Showing sincerity and dedication to producing high-quality work.
+            Showing sincerity and dedication to producing high-quality work.
             </li>
             <li>
-            &#127853; Demonstrating a deep understanding of personal interests and curiosity for diverse topics.
+            Demonstrating a deep understanding of personal interests and curiosity for diverse topics.
             </li>
             <li>
-            &#127944; Committing to growing alongside other members with a sense of responsibility towards the community.
+            Committing to growing alongside other members with a sense of responsibility towards the community.
             </li>
         </ul>
         <b>Low-level skills</b>
-        <ul style='list-style-type: none;'>
+        <ul>
             <li>
-            &#128175; Mathematical backgrounds, including optimization, linear algebra, matrix calculus, and statistics.
+            Mathematical backgrounds, including optimization, linear algebra, matrix calculus, and statistics.
             </li>
             <li>
-            &#128187; Programming experiences, such as the implementation of deep learning algorithms (python/PyTorch).
+            Programming experiences, such as the implementation of deep learning algorithms (python/PyTorch).
             </li>
             <li>
-            &#128234; Proficiency in communication, presentation, and discussion skill (our lab members are international!).
+            Proficiency in communication, presentation, and discussion skill (our lab members are international!).
             </li>
             <li>
-            &#128190; Ability to criticize research papers for developing better algorithms.
+            Ability to criticize research papers for developing better algorithms.
             </li>
             <li>
-            &#128587; Strong brainstorming skill to bring interesting ideas and discuss with other peers.
+            Strong brainstorming skill to bring interesting ideas and discuss with other peers.
             </li>
         </ul>
 
@@ -104,7 +104,7 @@ order: 9
         </ul>
 	</div-->
 
-        <h3 style="text-align: left;">&#128374; Interview Process</h3>
+        <h3 style="text-align: left;">&#128587; Interview Process</h3>
         <ul>
             <!--li>
                 Initial email screening.
