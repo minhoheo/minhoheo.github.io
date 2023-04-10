@@ -20,7 +20,7 @@ order: 0
     <br>
     <div class='col-lg-1'></div>
     <div class='col-lg-10'>
-      {% include news_carousel.html name='Example' data=site.data.news_carousel %}
+      {% include image_carousel.html name='Example' data=site.data.main_carousel %}
     </div>
   </div>
 
@@ -35,7 +35,7 @@ order: 0
       The research topics include cognitive model (including generalizable problem-solving and relation decision-making), symbolic manipulation, visual perception, and robot learning.
       </p>
 
-	<!-- <div class='note'> We note that the icon in the banner images are from <a href='https://www.flaticon.com/'>flaticon</a> </div> -->
+	<div class='note'> The icons in the banner images are from <a href='https://www.flaticon.com/'>flaticon</a> </div>
       <br>
       </div>
     <!--details>
