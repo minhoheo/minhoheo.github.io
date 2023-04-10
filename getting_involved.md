@@ -9,24 +9,22 @@ order: 9
   <div class='row'>
     <div class='col-lg-1'></div>
         <div class='col-lg-10'>
-        <p>
-        Our lab's core values are passion and dedication toward research on agents that can learn. Our style of research is collaborative and thorough, as we aim to produce high-quality, interesting works we can be collectively proud of.
-        <!-- We target to be the best and support each other.
-        We believe in fostering a collaborative environment where everyone's ideas are valued and where each team member is encouraged to contribute to the overall success of the project.
-        We place a strong emphasis on excellence, and we strive to produce high-quality work that pushes the boundaries of what is possible. -->
-        </p>
-        <br>
-        <p>
+        <!--p>
         We are welcoming self-motivated prospective students to contact us to join our lab!
-        </p>
+	</p>
+	<p>
+        Our lab's core values are passion and dedication toward research on agents that can learn. Our style of research is collaborative and thorough, as we aim to produce high-quality, interesting works we can be collectively proud of. Apply to our group without worrying about starting late or your background! Even though you visit our group as an intern, we encourage discussing and participating projects.
+        We target to be the best and support each other.
+        We believe in fostering a collaborative environment where everyone's ideas are valued and where each team member is encouraged to contribute to the overall success of the project.
+        We place a strong emphasis on excellence, and we strive to produce high-quality work that pushes the boundaries of what is possible. 
+        </p-->
 
-        <br>
-
-        <h3 style="text-align: left;">Contact</h3>
+        <h3 style="text-align: left;">&#128232; Contact</h3>
         <p>
         We are actively looking for students at all levels, including undergrad, intern, MS, and Ph.D. students.
         If interested, feel free to <a href="mailto:joe.lim@kaist.ac.kr">email Joseph</a> with your CV and a brief description of your research interest.
         For official application, please apply to the Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology via the <a href="https://apply.kaist.ac.kr/GradApply/GradApply/Login">application website</a> and specifically mention Professor Joseph Lim in your application.
+	Even though you visit our group as intern, we welcome and encourage you to discuss and participate projects we are currently working on!
         <!-- Students can apply at:
         <a href="https://forms.gle/BgWoZqFEFfdLccvZ9">UG</a> &amp;
         <a href="https://forms.gle/tMvUJjD4Qmv6VTLz7">MS</a>. -->
@@ -34,38 +32,38 @@ order: 9
 
         <br>
 
-        <h3 style="text-align: left;">Desired Qualities</h3>
+        <h3 style="text-align: left;">&#129338; Desired Qualities</h3>
         <b>High-level values</b>
-        <ul>
+        <ul style='list-style-type: none;'>
             <li>
-                Having a strong vision to become a world-leading researcher.
+            &#127757; Having a strong vision to become a world-leading researcher.
             </li>
             <li>
-                Showing sincerity and dedication to producing high-quality work.
+            &#127822; Showing sincerity and dedication to producing high-quality work.
             </li>
             <li>
-                Demonstrating a deep understanding of personal interests and curiosity for diverse topics.
+            &#127853; Demonstrating a deep understanding of personal interests and curiosity for diverse topics.
             </li>
             <li>
-                Committing to growing alongside other members with a sense of responsibility towards the community.
+            &#127944; Committing to growing alongside other members with a sense of responsibility towards the community.
             </li>
         </ul>
         <b>Low-level skills</b>
-        <ul>
+        <ul style='list-style-type: none;'>
             <li>
-            Mathematical backgrounds, including optimization, linear algebra, matrix calculus, and statistics.
+            &#128175; Mathematical backgrounds, including optimization, linear algebra, matrix calculus, and statistics.
             </li>
             <li>
-            Programming experiences, such as the implementation of deep learning algorithms (python/PyTorch).
+            &#128187; Programming experiences, such as the implementation of deep learning algorithms (python/PyTorch).
             </li>
             <li>
-            Proficiency in communication, presentation, and discussion skill (our lab members are international!).
+            &#128234; Proficiency in communication, presentation, and discussion skill (our lab members are international!).
             </li>
             <li>
-            Strong brainstorming skill to bring interesting ideas and discuss with other peers.
+            &#128190; Ability to criticize research papers for developing better algorithms.
             </li>
             <li>
-            Ability to criticize research papers for developing better algorithms.
+            &#128587; Strong brainstorming skill to bring interesting ideas and discuss with other peers.
             </li>
         </ul>
 
@@ -85,6 +83,7 @@ order: 9
 
         <br>
 
+	<!--/div>
         <h3 style="text-align: left;">Tips</h3>
         <ul>
             <li>
@@ -103,13 +102,13 @@ order: 9
                 Apply to our group without worrying about starting late or your background.
             </li>
         </ul>
+	</div-->
 
-        <br>
-        <h3 style="text-align: left;">Interview Process</h3>
+        <h3 style="text-align: left;">&#128374; Interview Process</h3>
         <ul>
-            <li>
+            <!--li>
                 Initial email screening.
-            </li>
+            </li-->
             <li>
                 Paper review presentation. The level of expectation depends on your background, but we expect you to have good discussion skills and profound thinking ability.
             </li>
@@ -121,12 +120,11 @@ order: 9
             </li>
         </ul>
 
+	<br>
 
-        <br>
-
-        <h3 style="text-align: left;">Location</h3>
+        <h3 style="text-align: left;">&#128506; Location</h3>
         <p>
-        Our lab is located at: 9th building, 85 Hoegi-ro, Cheongnyangri-dong, Dongdaemun-gu, Seoul.
+        If you are wiling to meet in-person, feel free to e-mail us and visit! Our lab is located at: 9th building, 85 Hoegi-ro, Cheongnyangri-dong, Dongdaemun-gu, Seoul.
         </p>
 
         <div class="map-container">
