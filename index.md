@@ -11,7 +11,7 @@ order: 0
     <div class='col-lg-1'></div>
     <div class='col-lg-10'>
       <br>
-	<h1><div class='lab-name-h1'> <b>Cognitive Learning for Vision and Robotics Lab </b></div></h1>
+	<h1 class="post-title"><div class='lab-name-h1'> <b>Cognitive Learning for Vision and Robotics Lab </b></div></h1>
     </div>
   </div>
 
@@ -19,7 +19,7 @@ order: 0
     <br>
     <div class='col-lg-1'></div>
     <div class='col-lg-10'>
-      {% include news_carousel.html name='Example' data=site.data.news_carousel %}
+      {% include image_carousel.html name='Example' data=site.data.main_carousel %}
     </div>
   </div>
 
@@ -33,6 +33,8 @@ order: 0
       Our goal is to develop intelligent systems that are capable of perceiving, reasoning, and interacting with the world.
       The research topics include cognitive model (including generalizable problem-solving and relation decision-making), symbolic manipulation, visual perception, and robot learning.
       </p>
+
+	<div class='note'> We note that the icon in the banner images are from <a href='https://www.flaticon.com/'>flaticon</a> </div>
       <br>
       </div>
     <!--details>
