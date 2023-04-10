@@ -35,7 +35,7 @@ order: 0
       The research topics include cognitive model (including generalizable problem-solving and relation decision-making), symbolic manipulation, visual perception, and robot learning.
       </p>
 
-	<div class='note'> We note that the icon in the banner images are from <a href='https://www.flaticon.com/'>flaticon</a> </div>
+	<!-- <div class='note'> We note that the icon in the banner images are from <a href='https://www.flaticon.com/'>flaticon</a> </div> -->
       <br>
       </div>
     <!--details>
