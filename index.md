@@ -20,7 +20,7 @@ order: 0
     <br>
     <div class='col-lg-1'></div>
     <div class='col-lg-10'>
-      {% include image_carousel.html name='Example' data=site.data.main_carousel %}
+      {% include news_carousel.html name='Example' data=site.data.news_carousel %}
     </div>
   </div>
 
