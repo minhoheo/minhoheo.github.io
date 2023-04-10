@@ -43,16 +43,16 @@
     "email": "ayushj [at] usc [dot] edu",
     "research": "Intrinsic reward"
   },
-
     {
-	"web": "http://yegonkim.github.io/",
-	"picture": "/assets/people/yegon.jpg",
-	"name": "Yegon Kim",
-	"title": "Intern @ KAIST (from KAIST)",
-	"email": "",
-	"research": ""
+    "_comment": {
+        "web": "http://yegonkim.github.io/",
+        "picture": "/assets/people/yegon.jpg",
+        "name": "Yegon Kim",
+        "title": "Intern @ KAIST (from KAIST)",
+        "email": "",
+        "research": ""
+    }
     },
-
         {
 	"picture": "/assets/people/sunghyun.jpg",
 	"name": "Sunghyun Koo",
@@ -77,7 +77,7 @@
     "title": "MS student @ KAIST",
     "email": "agi.is [at] kaist [dot] ac [dot] kr",
     "research": "AGI"
-  },    
+  },
 
     {
 	    "_comment": {
@@ -146,12 +146,14 @@
   },
 
   {
-    "web": "https://lucys0.github.io",
-    "picture": "/assets/people/lucy.jpg",
-    "name": "Lucy Shi",
-    "title": "Undergraduate student @ USC",
-    "email": "lucys [at] usc [dot] edu",
-    "research": ""
+    "_comment": {
+        "web": "https://lucys0.github.io",
+        "picture": "/assets/people/lucy.jpg",
+        "name": "Lucy Shi",
+        "title": "Undergraduate student @ USC",
+        "email": "lucys [at] usc [dot] edu",
+        "research": ""
+    }
   },
 
   {
@@ -199,12 +201,14 @@
   },
 
   {
-    "web": "https://thoughtp0lice.github.io/",
-    "picture": "/assets/people/han.jpg",
-    "name": "Han Zhong",
-    "title": "Undergraduate student @ USC",
-    "email": "linghanz [at] usc [dot] edu",
-    "research": ""
+    "_comment": {
+        "web": "https://thoughtp0lice.github.io/",
+        "picture": "/assets/people/han.jpg",
+        "name": "Han Zhong",
+        "title": "Undergraduate student @ USC",
+        "email": "linghanz [at] usc [dot] edu",
+        "research": ""
+    }
   },
 
   {

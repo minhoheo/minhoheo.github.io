@@ -20,7 +20,7 @@ order: 5
 
 <br />
 
-<h2>Current</h2>
+<h2>Students</h2>
 
 {% include members_pictures.html name='AllMembers' data=site.data.current_members %}
 
