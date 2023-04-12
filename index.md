@@ -52,8 +52,8 @@ order: 0
         <br><b>Computer Vision</b>
         </div>
         </div>
-        <div class="column" style='width:30%; margin:auto;'>
-        <a><img src="assets/research/Agile_teaser_gif.gif" height="200px"></a>
+        <div class="column" style='width:30%; margin:auto; text-align:center;'>
+        <a><img src="assets/research/Agile_teaser_gif.gif" height="200px" style="margin-left: auto; margin-right: auto;"></a>
             <div style='text-align: center;'>
         <br><b>Cognitive Model</b>
         </div>
