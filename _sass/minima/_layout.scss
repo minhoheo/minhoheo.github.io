@@ -47,8 +47,32 @@
   }
 }
 
-.top-page-link:hover { background-color: #1487C8  !important;
-    margin-top: -20px;}
+// .top-page-link:hover { background-color: #1487C8  !important;
+//     margin-top: -20px;}
+
+.underline {
+    height: 3px;
+    background-color: transparent;
+    width: 0%;
+    transition: width 0.2s, background-color 0.5s;
+    margin: 0 auto;
+    z-index: 150;
+}
+
+.active-link .underline {
+	background-color: white;
+	width: 100%;
+}
+
+.top-page-link:hover .underline {
+	background-color: white;
+	width: 100%;
+}
+
+.top-page-link:active .underline {
+	transition: none;
+	background-color: rgba(255,255,255,0.76);
+}
 
 .site-title {
   @include relative-font-size(1.625);
