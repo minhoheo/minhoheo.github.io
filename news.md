@@ -23,6 +23,13 @@ order: 2
     <div class='col-lg-10'>
 	  <br>
 
+	  <h4 style='text-align:left;'> 2023 </h4>
+      <ul>
+        <li>
+          <b>[PhD Defense]</b> Karl Pertsch successfully defended his PhD thesis!
+        </li>
+      </ul>
+
 	  <h4 style='text-align:left;'> 2022 </h4>
 	  <ul>
 	    <li>
@@ -31,8 +38,14 @@ order: 2
 	    <li>
 	      <b>[Paper]</b> Three papers are accepted to <b>ICLR</b>!
 	    </li>
+        <li>
+          <b>[PhD Defense]</b> Youngwoon Lee successfully defended his PhD thesis!
+        </li>
+        <li>
+          <b>[PhD Defense]</b> Shao-Hua Sun successfully defended his PhD thesis!
+        </li>
 	  </ul>
-	  
+
 	  <br>
 	  <h4 style='text-align:left;'> 2021 </h4>
 	  <ul>

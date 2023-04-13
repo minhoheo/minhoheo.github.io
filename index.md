@@ -29,7 +29,7 @@ order: 0
         <h4 style='text-align: left;'>
         Recent News (<a href='/news'>more</a>)
         </h4>
-        <b>[Talk]</b> Joseph Lim gives a talk at <b>CoRL</b>! (2022)
+        <b>[Talk]</b> Joseph J. Lim gives a talk at <b>CoRL</b>! (2022)
         <br>
             <b>[Paper]</b> Three papers are accepted to <b>ICLR</b>! (2022)
         </div>
@@ -37,7 +37,7 @@ order: 0
 
     <br><br><br>
         <h4 style='text-align: left;'>
-        Research Topics (<a href='/research'>more</a>)
+        Research Topics (<a href='/publications'>more</a>)
         </h4>
     <div class='row'>
         <div class="column" style='width:30%; margin:auto;'>
@@ -53,7 +53,7 @@ order: 0
         </div>
         </div>
         <div class="column" style='width:30%; margin:auto; text-align:center;'>
-        <a><img src="assets/research/Agile_teaser_gif.gif" height="200px" style="margin-left: auto; margin-right: auto;"></a>
+        <a><img src="assets/research/Agile_teaser_gif.gif" height="200px"></a>
             <div style='text-align: center;'>
         <br><b>Cognitive Model</b>
         </div>
@@ -76,7 +76,7 @@ order: 0
         <div class="column" style='width:30%; margin:auto;'>
         <a><img src="assets/home/home-furniture.gif" height="200px"></a>
             <div style='text-align: center;'>
-        <br><b>Benchmark</b>
+        <br><b>Environment Benchmark</b>
         </div>
         </div>
     </div>
