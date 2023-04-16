@@ -28,3 +28,8 @@ function publicationBySelected(group_by_id) {
     text_topic.style = "font-weight: bold;";
   }
 }
+
+$(".top-page-link").on("click", function () {
+  $(".active-link").removeClass("active-link");
+  $(this).addClass("active-link");
+});
