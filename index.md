@@ -29,9 +29,12 @@ order: 0
         <h4 style='text-align: left;'>
         Recent News
         </h4>
+        <b>[Talk]</b> Joseph J. Lim gives a talk at <b>CoRL</b>! (2022)
+	<br>
+        <b>[Paper]</b> Two papers are accepted to <b>CoRL</b>! (2022)
+        <br>
         <b>[Paper]</b> Three papers are accepted to <b>ICLR</b>! (2022)
         <br>
-        <b>[Talk]</b> Joseph J. Lim gives a talk at <b>CoRL</b>! (2022)
         </div>
     </div>
 
@@ -96,13 +99,13 @@ order: 0
 	  <h5 style='text-align:left;'> 2022 </h5>
 	  <ul>
 	    <li>
-	      <b>[Paper]</b> Three papers are accepted to <b>ICLR</b>!
-	    </li>
-	    <li>
 	      <b>[Talk]</b> Joseph J. Lim gives a talk at CoRL! (2022)
 	    </li>
 	    <li>
 	      <b>[Paper]</b> Two papers are accepted to <b>CoRL</b>!
+	    </li>
+	    <li>
+	      <b>[Paper]</b> Three papers are accepted to <b>ICLR</b>!
 	    </li>
         <li>
           <b>[PhD Defense]</b> Youngwoon Lee successfully defended his PhD thesis!
