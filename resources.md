@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: people
 title: Resources
 permalink: /resources/
 order: 7
 ---
 
 <h2> Recent Talk </h2>
+<br>
 <!-- Talk video -->
   <center>
   <div class="col-lg-1"></div>
@@ -15,7 +16,7 @@ order: 7
 	</div>
   </div>
   </center>
-<br>
+<br><br>
 
 <h2> Environments </h2>
 <h3 class='title-line'>Robotics</h3>
