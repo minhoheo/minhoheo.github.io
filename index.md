@@ -27,7 +27,7 @@ order: 0
 
         <br>
         <h4 style='text-align: left;'>
-        Recent News
+        <a href="#news" style='color: inherit;'>Recent News</a>
         </h4>
         <b>[Talk]</b> Joseph J. Lim gives <a style='color: inherit;' href='https://youtu.be/aljMiB3ciHE'>a talk at <b>CoRL</b></a>! (2022)
 	<br>
@@ -84,7 +84,7 @@ order: 0
         </div>
     </div>
 
-  <br id='news'><br><br>
+  <br id='news'><br><br><br>
   <div>
     <h4 style='text-align:left;'> News </h4>
 	  <br>
