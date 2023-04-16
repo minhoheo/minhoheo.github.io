@@ -25,4 +25,13 @@ order: 5
 {% include members_pictures.html name='AllMembers' data=site.data.current_members %}
 
 <h2>Alumni</h2>
+<h4 style='text-align:left;'> PhD students </h4>
+{% include members_list.html name='AllMembers' data=site.data.past_phd %}
+<br>
+
+<h4 style='text-align:left;'> MS/Undergraduate students </h4>
+{% include members_list.html name='AllMembers' data=site.data.past_ms_ud %}
+<br>
+
+<h4 style='text-align:left;'> Visiting scholars </h4>
 {% include members_list.html name='AllMembers' data=site.data.past_visitors %}
