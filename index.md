@@ -11,7 +11,7 @@ order: 0
 
   <div class='row'>
         <div class="column" style='width:39%; margin:auto;'>
-	 {% include news_carousel.html data=site.data.news_carousel %} 
+	 {% include news_carousel.html data=site.data.news_carousel %}
         </div>
 
         <div class="column" style='width:59%; margin:auto;'>
@@ -29,7 +29,7 @@ order: 0
         <h4 style='text-align: left;'>
         Recent News
         </h4>
-        <b>[Talk]</b> Joseph J. Lim gives a talk at <b>CoRL</b>! (2022)
+        <b>[Talk]</b> Joseph J. Lim gives <a style='color: inherit;' href='https://youtu.be/aljMiB3ciHE'>a talk at <b>CoRL</b></a>! (2022)
 	<br>
         <b>[Paper]</b> Two papers are accepted to <b>CoRL</b>! (2022)
         <br>
@@ -86,7 +86,7 @@ order: 0
 
   <br id='news'><br><br>
   <div>
-    <h4 style='text-align:left;'> News </h4> 
+    <h4 style='text-align:left;'> News </h4>
 	  <br>
 	  <h5 style='text-align:left;'> 2023 </h5>
       <ul>
@@ -99,7 +99,7 @@ order: 0
 	  <h5 style='text-align:left;'> 2022 </h5>
 	  <ul>
 	    <li>
-	      <b>[Talk]</b> Joseph J. Lim gives a talk at CoRL! (2022)
+              <b>[Talk]</b> Joseph J. Lim gives <a style='color: inherit;' href='https://youtu.be/aljMiB3ciHE'>a talk at <b>CoRL</b></a>!
 	    </li>
 	    <li>
 	      <b>[Paper]</b> Two papers are accepted to <b>CoRL</b>!
@@ -131,7 +131,7 @@ order: 0
 	      <b>[Paper]</b> One paper is accepted to <b>ICML</b>!
 	    </li>
 	    <li>
-	      <b>[Paper]</b> Our <a href='https://clvrai.com/furniture'>IKEA Furniture Assembly Environment</a> is accepted to <b>ICRA</b>!
+	      <b>[Paper]</b> Our <a href='https://clvrai.com/furniture' style='color: inherit;'>IKEA Furniture Assembly Environment</a> is accepted to <b>ICRA</b>!
 	    </li>
 	  </ul>
 
@@ -139,8 +139,7 @@ order: 0
 	  <h5 style='text-align:left;'> 2020 </h5>
 	  <ul>
 	    <li>
-	      <b>[Award]</b> <a href='https://clvrai.com/spirl'>SPiRL</a> is selected as a <span style="color:#ff0000">plenary talk</span> and won the <span style="color:#ff0000">best paper
-	      presentation award</span> at <b>CoRL</b>!
+	      <b>[Award]</b> <a href='https://clvrai.com/spirl' style='color: inherit;'>SPiRL</a> is selected as a plenary talk and won the best paper presentation award at <b>CoRL</b>!
 	    </li>
 	    <li>
 	      <b>[Paper]</b> Two papers are accepted to <b>CoRL</b>!
@@ -152,7 +151,7 @@ order: 0
 	      <b>[Paper]</b> Two papers are accepted to <b>ICLR</b>!
 	    </li>
 	    <li>
-	      <b>[Release]</b> We released <a href='https://clvrai.com/furniture'>IKEA Furniture Assembly Environment</a> for a complex robot manipulation benchmark.
+	      <b>[Release]</b> We released <a href='https://clvrai.com/furniture' style='color: inherit;'>IKEA Furniture Assembly Environment</a> for a complex robot manipulation benchmark.
 	    </li>
 	  </ul>
 
@@ -166,25 +165,25 @@ order: 0
 	      <b>[Paper]</b> Our paper on multimodal meta-learning is accepted to <b>NeurIPS</b>!
 	    </li>
 	    <li>
-	      <b>[Talk]</b> <a href='https://people.eecs.berkeley.edu/~pathak/' target='_blank'>Deepak Pathak</a> from UC Berkeley gave a talk as part of the CLVR Speaker Series.
+	      <b>[Talk]</b> <a style='color: inherit;' href='https://people.eecs.berkeley.edu/~pathak/' target='_blank'>Deepak Pathak</a> from UC Berkeley gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	    <li>
 	      <b>[Paper]</b> Paper on complex skill composition accepted to <b>ICLR 2019</b>!
 	    </li>
 	    <li>
-	      <b>[Talk]</b> <a href='https://ai.stanford.edu/~kuanfang/' target='_blank'>Kuan Fang</a> from the Stanford Vision Lab gave a talk as part of the CLVR Speaker Series.
+	      <b>[Talk]</b> <a style='color: inherit;' href='https://ai.stanford.edu/~kuanfang/' target='_blank'>Kuan Fang</a> from the Stanford Vision Lab gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	    <li>
-	      <b>[Talk]</b> <a href='https://www.tshu.io/' target='_blank'>Tianmin Shu</a> from UCLA gave a talk as part of the CLVR Speaker Series.
+	      <b>[Talk]</b> <a style='color: inherit;' href='https://www.tshu.io/' target='_blank'>Tianmin Shu</a> from UCLA gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	    <li>
-	      <b>[Talk]</b> <a href='https://web.stanford.edu/~yukez/' target='_blank'>Yuke Zhu</a> from the Stanford Vision Lab gave a talk as part of the CLVR Speaker Series.
+	      <b>[Talk]</b> <a style='color: inherit;' href='https://web.stanford.edu/~yukez/' target='_blank'>Yuke Zhu</a> from the Stanford Vision Lab gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	    <li>
-	      <b>[Talk]</b> <a href='http://andrewowens.com/' target='_blank'>Andrew Owens</a> from UC Berkeley gave a talk as part of the CLVR Speaker Series.
+	      <b>[Talk]</b> <a style='color: inherit;' href='http://andrewowens.com/' target='_blank'>Andrew Owens</a> from UC Berkeley gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	  </ul>
-	  
+
 	  <br>
 	  <h5 style='text-align: left;'> 2018 </h5>
 	  <ul>
@@ -195,22 +194,22 @@ order: 0
 	      <b>[Paper]</b> Paper on neural program synthesis accepted to <b>ICML</b>!
 	    </li>
 	    <li>
-	      <b>[Talk]</b> <a href='https://jiajunwu.com/' target='_blank'>Jiajun Wu</a> from MIT gave a talk as part of the CLVR Speaker Series.
+	      <b>[Talk]</b> <a style='color: inherit;' href='https://jiajunwu.com/' target='_blank'>Jiajun Wu</a> from MIT gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	    <li>
 	      <b>[Paper]</b> Paper on object affordance reasoning accepted to <b>CVPR</b>!
 	    </li>
 	    <li>
-	      <b>[Talk]</b> <a href='http://carlvondrick.com/' target='_blank'>Carl Vondrick</a> from Google gave a talk as part of the CLVR Speaker Series.
+	      <b>[Talk]</b> <a style='color: inherit;' href='http://carlvondrick.com/' target='_blank'>Carl Vondrick</a> from Google gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	    <li>
 	      <b>[Paper]</b> Paper on agents that disentangle environment and task accepted to <b>ICLR</b>!
 	    </li>
 	    <li>
-	      <b>[Talk]</b> <a href='https://jimmylba.github.io/' target='_blank'>Jimmy Ba</a> from UToronto gave a talk as part of the CLVR Speaker Series.
+	      <b>[Talk]</b> <a style='color: inherit;' href='https://jimmylba.github.io/' target='_blank'>Jimmy Ba</a> from UToronto gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	    <li>
-	      <b>[Talk]</b> <a href='https://people.eecs.berkeley.edu/~isola/' target='_blank'>Phillip Isola</a> from OpenAI gave a talk as part of the CLVR Speaker Series.
+	      <b>[Talk]</b> <a style='color: inherit;' href='https://people.eecs.berkeley.edu/~isola/' target='_blank'>Phillip Isola</a> from OpenAI gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	  </ul>
 
@@ -222,6 +221,5 @@ order: 0
 	    </li>
 	  </ul>
 	  <br>
-	  <br
   </div>
 </div>
