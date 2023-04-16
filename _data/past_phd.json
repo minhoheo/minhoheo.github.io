@@ -1,0 +1,29 @@
+[
+  {
+    "web": "http://youngwoon.github.io/",
+    "picture": "/assets/people/joshua_tree/youngwoon.jpg",
+    "name": "Youngwoon Lee",
+    "title": "PhD student at USC",
+    "email": "lee504 [at] usc [dot] edu",
+    "research": "Robot Learning",
+    "current": "next: Postdoc @ UC Berkeley with Prof. Pieter Abbeel; will become Assistant professor @ Yonsei University"
+  },
+    {
+    "web": "http://shaohua0116.github.io/",
+    "picture": "/assets/people/shao-hua.jpg",
+    "name": "Shao-Hua Sun",
+    "title": "PhD student at USC",
+    "email": "shaohuas [at] usc [dot] edu",
+    "research": "Meta learning",
+    "current": "next: Assistant professor @ National Taiwan University"
+  },
+  {
+    "web": "https://kpertsch.github.io/",
+    "picture": "/assets/people/joshua_tree/karl.jpg",
+    "name": "Karl Pertsch",
+    "title": "PhD student at USC",
+    "email": "pertsh [at] usc [dot] edu",
+    "research": "Predictive model",
+    "current": "next: Postdoc @ UC Berkeley with Prof. Sergey Levine"
+  }
+]
