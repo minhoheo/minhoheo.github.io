@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: people
 title: Getting Involved
 permalink: /getting_involved/
 order: 9
@@ -30,40 +30,40 @@ order: 9
 
         <br><br>
 
-        <h3 style="text-align: left;">&#9977; Desired Quality</h3>
+        <h3 style="text-align: left;">&#127759; Desired Quality</h3>
+	We want prospective students to be with:
         <ul>
             <li>
-            Having a strong vision to become a world-leading researcher.
+            <b>Ambition</b>: Having a strong vision to become a world-leading research.
             </li>
             <li>
-            Showing sincerity and dedication to producing high-quality work.
+            <b>Passion</b>: Showing sincerity and dedication to producing high-quality work.
             </li>
             <li>
-            Demonstrating a deep understanding of personal interests and curiosity for diverse topics.
+            <b>Expertise</b>: Demonstrating a deep understanding of personal interests and curiosity for diverse topics.
             </li>
             <li>
-            Committing to growing alongside other members with a sense of responsibility towards the community.
+            <b>Hard-working</b>: Committing to growing alongside other members with a sense of responsibility.
             </li>
         </ul>
 
 	<br><br>
 
-        <h3 style="text-align: left;">&#127759; Expectation</h3>
+        <h3 style="text-align: left;">&#127942; Expectation</h3>
+	What is expected by the time you graduate here.
+	<br>
         <ul>
             <li>
-            Mathematical backgrounds, including optimization, linear algebra, matrix calculus, and statistics.
+	   	Giving technical talks to other research groups. 
             </li>
             <li>
-            Programming experiences, such as the implementation of deep learning algorithms (python/PyTorch).
+		Publishing at least one top-tier conference paper (e.g., ICML, NeurIPS, CoRL, ICRL, etc.) per a year.
             </li>
             <li>
-            Proficiency in communication, presentation, and discussion skill (our lab members are international!).
+		Interacting with well-known researchers world-wide.
             </li>
             <li>
-            Ability to criticize research papers for developing better algorithms.
-            </li>
-            <li>
-            Strong brainstorming skill to bring interesting ideas and discuss with other peers.
+		(Undergrad Intern) Being capable of entering big-tech companies or top schools.
             </li>
         </ul>
 
