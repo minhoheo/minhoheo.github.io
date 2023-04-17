@@ -46,40 +46,46 @@ order: 0
         <div class="column" style='width:30%; margin:auto; text-align:center;'>
         <a><img src="assets/research/Agile_teaser_gif.gif" height="200px"></a>
             <div style='text-align: center;'>
-        <br><b>Domain/Action Generalization</b>
+        <br><b>Cognitive Model</b>
+	<br>(Domain/Action Generalization)
         </div>
         </div>
         <div class="column" style='width:30%; margin:auto;'>
-        <a><img src="assets/home/home-star.gif" height="200px"></a>
+        <a><img src="assets/home/home-demo2program.png" height="200px"></a>
             <div style='text-align: center;'>
-        <br><b>Skill-based Reinforcement Learning</b>
+        <br><b>Symbolic Manipulation</b>
+	<br>(Neural Program Synthesis)
         </div>
         </div>
         <div class="column" style='width:30%; margin:auto;'>
-        <a><img src="assets/home/home-furniture.gif" height="200px"></a>
+        <a><img src="assets/home/home-galileo.png" height="200px"></a>
             <div style='text-align: center;'>
-        <br><b>Environment / Benchmark</b>
+        <br><b>Logical Reasoning</b>
+	<br>(Physics Understanding)
         </div>
         </div>
     </div>
     <br><br>
     <div class='row'>
         <div class="column" style='width:30%; margin:auto;'>
-        <a><img src="assets/home/home-demo2program.png" height="200px"></a>
+        <a><img src="assets/home/home-furniture.gif" height="200px"></a>
             <div style='text-align: center;'>
-        <br><b>Neural Program Synthesis</b>
+        <br><b>Robot Learning</b>
+	<br>(Complex Long-Horizon Manipulation)
         </div>
         </div>
         <div class="column" style='width:30%; margin:auto;'>
         <a><img src="assets/home/home-demo2vec.gif" height="200px"></a>
             <div style='text-align: center;'>
-        <br><b>Learning from Video</b>
+        <br><b>Computer Vision</b>
+	<br>(Learning from Video)
         </div>
         </div>
         <div class="column" style='width:30%; margin:auto;'>
-        <a><img src="assets/home/home-galileo.png" height="200px"></a>
+        <a><img src="assets/home/home-star.gif" height="200px"></a>
             <div style='text-align: center;'>
-        <br><b>Physics Understanding</b>
+        <br><b>Reinforcement Learning</b>
+	<br>(Skill-based Reinforcement Learning)
         </div>
         </div>
     </div>
