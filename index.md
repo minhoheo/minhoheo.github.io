@@ -14,7 +14,7 @@ order: 0
 	 {% include news_carousel.html data=site.data.news_carousel %}
         </div>
 
-        <div class="column" style='width:59%; margin:auto;'>
+        <div class="column" style='width:59%; margin:auto; padding-left:30px;'>
         <h4 style='text-align: left;'>
         Welcome to CLVR group!
         </h4>
@@ -38,13 +38,14 @@ order: 0
         </div>
     </div>
 
-    <br><br><br>
+    <br>
         <h4 style='text-align: left;'>
-        Research Topics (<a href='/publications'>more</a>)
+        <b>Research Topics</b> (<a href='/publications'>more</a>)
         </h4>
-    <div class='row'>
+        <br>
+    <div class='row'  style="border-style: none;">
         <div class="column" style='width:30%; margin:auto; text-align:center;'>
-        <a><img src="assets/research/Agile_teaser_gif.gif" height="200px"></a>
+        <a><img src="assets/research/Agile_teaser_gif_cropped.gif" height="200px"></a>
             <div style='text-align: center;'>
         <br><b>Cognitive Model</b>
 	<br>(Domain/Action Generalization)
@@ -75,7 +76,7 @@ order: 0
         </div>
         </div>
         <div class="column" style='width:30%; margin:auto;'>
-        <a><img src="assets/home/home-demo2vec.gif" height="200px"></a>
+        <a><img src="assets/home/home-demo2vec-resized.gif" height="200px"></a>
             <div style='text-align: center;'>
         <br><b>Computer Vision</b>
 	<br>(Learning from Video)
@@ -90,10 +91,9 @@ order: 0
         </div>
     </div>
 
-  <br id='news'><br><br><br>
-  <div>
-    <h4 style='text-align:left;'> News </h4>
-	  <br>
+  <br id='news'>
+  <div class="news">
+    <h4 style='text-align:left;'><b> News </b></h4>
 	  <h5 style='text-align:left;'> 2023 </h5>
       <ul>
         <li>
@@ -101,7 +101,6 @@ order: 0
         </li>
       </ul>
 
-	  <br>
 	  <h5 style='text-align:left;'> 2022 </h5>
 	  <ul>
 	    <li>
@@ -121,7 +120,6 @@ order: 0
         </li>
 	  </ul>
 
-	  <br>
 	  <h5 style='text-align:left;'> 2021 </h5>
 	  <ul>
 	    <li>
@@ -141,7 +139,6 @@ order: 0
 	    </li>
 	  </ul>
 
-	  <br>
 	  <h5 style='text-align:left;'> 2020 </h5>
 	  <ul>
 	    <li>
@@ -161,7 +158,6 @@ order: 0
 	    </li>
 	  </ul>
 
-	  <br>
 	  <h5 style='text-align:left;'> 2019 </h5>
 	  <ul>
 	    <li>
@@ -190,7 +186,6 @@ order: 0
 	    </li>
 	  </ul>
 
-	  <br>
 	  <h5 style='text-align: left;'> 2018 </h5>
 	  <ul>
 	    <li>
@@ -219,7 +214,6 @@ order: 0
 	    </li>
 	  </ul>
 
-	  <br>
 	  <h5 style='text-align: left;'> 2017 </h5>
 	  <ul>
 	    <li>

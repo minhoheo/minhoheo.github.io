@@ -51,3 +51,27 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+
+.author {
+    font-weight: 200;
+    font-size: 0.9rem;
+}
+
+.margin-left {
+    margin-left: 35px;
+}
+
+.container .row {
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ddd;
+}
+
+h5 {
+    font-size: 1.1rem;
+}
+
+.news ul li {
+    font-size: 0.9rem;
+
+}

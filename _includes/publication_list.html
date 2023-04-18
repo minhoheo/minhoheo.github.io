@@ -9,11 +9,10 @@
       <img class="paper-image" src="{{ pub.paper_image }}">
     </div>
     <div class="col-lg-8 paper-description-container">
-      <b>{{ pub.title }}</b>
-      <br> {{ pub.authors }}
-      <br>
-      <div>
-        <b>{{ pub.publication }}</b>
+      <b style="font-weight: bold;">{{ pub.title }}</b>
+      <br> <div class="author">{{ pub.authors }}</div>
+      <div style="font-size: 0.9rem">
+        {{ pub.publication }}
         {% if pub.pdf %} <a target="_blank" href="{{ pub.pdf }}">[PDF]</a> {% else %} [PDF to come] {% endif %}
         {% if pub.arxiv %} <a target="_blank" href="{{ pub.arxiv }}">[arXiv]</a> {% endif %}
         {% if pub.web %} <a target="_blank" href="{{ pub.web }}">[Project]</a> {% endif %}
@@ -45,7 +44,7 @@
     <br> {{ pub.authors }}
     <br>
     <div>
-        <b>{{ pub.publication }}</b>
+        <b style="font-weight: bold important;">{{ pub.publication }}</b>
         {% if pub.pdf %} <a target="_blank" href="{{ pub.pdf }}">[PDF]</a> {% else %} [PDF to come] {% endif %}
         {% if pub.arxiv %} <a target="_blank" href="{{ pub.arxiv }}">[arXiv]</a> {% endif %}
         {% if pub.web %} <a target="_blank" href="{{ pub.web }}">[Project]</a> {% endif %}

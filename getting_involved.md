@@ -20,7 +20,7 @@ order: 9
         </p-->
 
         <h3 style="text-align: left;">&#128232; Contact</h3>
-        <p>
+        <p class="margin-left" style="text-align:justify;">
         We are actively looking for students at all levels, including undergrad, intern, MS, and Ph.D. students.
         If interested, feel free to fill out <a href="https://forms.gle/5Va6sHkon6Q2C9YE7">this form</a>.
         For official application, please apply to the Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology via the <a href="https://apply.kaist.ac.kr/GradApply/GradApply/Login">application website</a> and specifically mention Professor Joseph Lim in your application.
@@ -31,46 +31,49 @@ order: 9
         <br><br>
 
         <h3 style="text-align: left;">&#127759; Desired Quality</h3>
-	We want prospective students to be with:
-        <ul>
-            <li>
-            <b>Ambition</b>: Having a strong vision to become a world-leading research.
-            </li>
-            <li>
-            <b>Passion</b>: Showing sincerity and dedication to producing high-quality work.
-            </li>
-            <li>
-            <b>Expertise</b>: Demonstrating a deep understanding of personal interests and curiosity for diverse topics.
-            </li>
-            <li>
-            <b>Hard-working</b>: Committing to growing alongside other members with a sense of responsibility.
-            </li>
-        </ul>
+	<div class="margin-left">We want prospective students to be with:</div>
+        <div class="margin-left">
+            <ul>
+                <li>
+                <b>Ambition</b>: Having a strong vision to become a world-leading research.
+                </li>
+                <li>
+                <b>Passion</b>: Showing sincerity and dedication to producing high-quality work.
+                </li>
+                <li>
+                <b>Expertise</b>: Demonstrating a deep understanding of personal interests and curiosity for diverse topics.
+                </li>
+                <li>
+                <b>Hard-working</b>: Committing to growing alongside other members with a sense of responsibility.
+                </li>
+            </ul>
+        </div>
 
 	<br><br>
 
         <h3 style="text-align: left;">&#127942; Expectation</h3>
-	What is expected by the time you graduate here.
-	<br>
-        <ul>
-            <li>
-	   	Giving technical talks to other research groups. 
-            </li>
-            <li>
-		Publishing at least one top-tier conference paper (e.g., ICML, NeurIPS, CoRL, ICRL, etc.) per a year.
-            </li>
-            <li>
-		Interacting with well-known researchers world-wide.
-            </li>
-            <li>
-		(Undergrad Intern) Being capable of entering big-tech companies or top schools.
-            </li>
-        </ul>
+	<div class="margin-left">What is expected by the time you graduate here.</div>
+        <div class="margin-left">
+            <ul>
+                <li>
+            Giving technical talks to other research groups.
+                </li>
+                <li>
+            Publishing at least one top-tier conference paper (e.g., ICML, NeurIPS, CoRL, ICRL, etc.) per a year.
+                </li>
+                <li>
+            Interacting with well-known researchers world-wide.
+                </li>
+                <li>
+            (Undergrad Intern) Being capable of entering big-tech companies or top schools.
+                </li>
+            </ul>
+        </div>
 
 	<br><br>
 
         <h3 style="text-align: left;">&#128506; Location</h3>
-        <p>
+        <p class="margin-left">
         If you are wiling to meet in-person, feel free to e-mail us and visit! Our lab is located at: 9th building, 85 Hoegi-ro, Cheongnyangri-dong, Dongdaemun-gu, Seoul.
         </p>
 
