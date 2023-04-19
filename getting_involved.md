@@ -26,48 +26,56 @@ order: 9
         For official application, please apply to the Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology via the <a href="https://apply.kaist.ac.kr/GradApply/GradApply/Login">application website</a> and specifically mention Professor Joseph Lim in your application.
 	<br><br>
 	Even though you visit our group as intern, we welcome and encourage you to discuss and participate projects we are currently working on!
-        </p>
+    </p>
 
         <br><br>
 
-        <h3 style="text-align: left;">&#127759; Desired Quality</h3>
-	<div class="margin-left">We want prospective students to be with:</div>
-        <div class="margin-left">
-            <ul>
-                <li>
-                <b>Ambition</b>: Having a strong vision to become a world-leading research.
-                </li>
-                <li>
-                <b>Passion</b>: Showing sincerity and dedication to producing high-quality work.
-                </li>
-                <li>
-                <b>Expertise</b>: Demonstrating a deep understanding of personal interests and curiosity for diverse topics.
-                </li>
-                <li>
-                <b>Hard-working</b>: Committing to growing alongside other members with a sense of responsibility.
-                </li>
-            </ul>
-        </div>
+	<h3 style="text-align: left;">&#127942 About our Lab </h3>
+	<p>
+	Our goal is to foster independent researchers who are recognized worldwide upon graduation from our lab. 
+	In fact, our recent three Ph.D. graduates are now employed as a professor in the National Taiwan University Computer Science Department and as postdoctoral researchers at UC Berkeley. 
+	Our senior Ph.D. students have presented 5-10 papers at AI top-tier conferences (e.g., ICML, NeurIPS, ICLR) during their enrollment in our lab. 
+	Additionally, research interns and visiting scholars who gained research experience in our lab have mostly enrolled in top-tier U.S. universities such as MIT, CMU, and Stanford as Master's or Ph.D. students. 
+	During their Ph.D. studies, students can also intern at overseas companies like Google, Nvidia, and visit overseas universities as visiting scholars. 
+	</p>
+
+	<p>
+	We pursue a playful lab environment where members can actively discuss research both inside and outside of the lab, making research enjoyable and passionate. 
+	We also concurrently operate a lab at the University of Southern California. 
+	Thus, if you join our lab (as a Korean student), you can interact not only with KAIST members but also with students in USC, enabling you to grow quicker. 
+	Additionally, since our lab at KAIST has just begun, if you join, we can build closer relationship.
+	</p>
 
 	<br><br>
 
-        <h3 style="text-align: left;">&#127942; Expectation</h3>
-	<div class="margin-left">What is expected by the time you graduate here.</div>
-        <div class="margin-left">
-            <ul>
-                <li>
-            Giving technical talks to other research groups.
-                </li>
-                <li>
-            Publishing at least one top-tier conference paper (e.g., ICML, NeurIPS, CoRL, ICRL, etc.) per a year.
-                </li>
-                <li>
-            Interacting with well-known researchers world-wide.
-                </li>
-                <li>
-            (Undergrad Intern) Being capable of entering big-tech companies or top schools.
-                </li>
-            </ul>
+        <h3 style="text-align: left;">&#127759; Desired Quality</h3>
+	<p>
+	(Recommended)
+	<ul>
+		<li>
+		A strong interest and passion in research topics including robot learning, reinforcement learning, reasoning, and decision-making.
+		</li>
+		<li>
+		Who have completed an introductory course or a more advanced course in machine learning, reinforcement learning, or related fields.
+		</li>
+		<li>
+		Experience in machine learning program, such as PyTorch, TensorFlow, Jax, etc.
+		</li>
+		<li>
+		Proficiency in English communication and discussion.
+		</li>
+	</ul>
+	<p>
+	<ul>
+	(Preferred)
+		<li>
+		Research experience in machine learning, reinforcement learning, or robotics fields.
+		</li>
+		<li>
+		Expeirence in publishing  papers in conferences or journals, regardless of their field of study.
+		</li>
+	</ul>
+	</p>
         </div>
 
 	<br><br>

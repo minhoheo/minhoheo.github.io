@@ -450,15 +450,24 @@
  * General
  */
 
- .row .intro-picture {
+.row .intro-picture {
     width: 39%;
     margin: auto;
     @include media-query($on-palm) {
         width: 100%;
+        margin-top: 0px;
     }
- }
+}
 
- .row .intro-column {
+.carousel-image {
+    @include media-query($on-palm) {
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+        display: block;
+    }
+}
+
+.row .intro-column {
     width: 59%;
     margin: auto;
     padding-left: 30px;
@@ -467,6 +476,7 @@
         padding-left: 0px;
     }
  }
+
 
  .row .topic-column {
     width:30%;
@@ -477,7 +487,7 @@
         padding-left: 0px;
         margin-top: 20px;
     }
- }
+}
 
 .row .column {
     @include media-query($on-palm) {
@@ -495,5 +505,11 @@
 .mobile-padding {
     @include media-query($on-palm) {
         padding-bottom: 0px !important;
+    }
+}
+
+.lab-name {
+    @include media-query(695px) {
+        display: none;
     }
 }

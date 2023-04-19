@@ -15,26 +15,26 @@ order: 0
         </div>
 
         <div class="intro-column">
-        <h4 style='text-align: left;'>
-        Welcome to CLVR group!
-        </h4>
+            <h4 style='text-align: left;'>
+            Welcome to CLVR group!
+            </h4>
 
-        <p style='text-align: justify;'>
-        We are <b>Cognitive Learning for Vision and Robotics (CLVR, pronounced 'clever')</b> group at Korea Advanced Institute of Science and Technology (KAIST) led by Joseph J. Lim (임재환).
-        Our goal is to develop intelligent systems that are capable of perceiving, reasoning, and interacting with the world.
-        The research topics include cognitive model (incorporating generalizable problem-solving and relation decision-making), symbolic manipulation, visual perception, and robot learning.
-        </p>
+            <p style='text-align: justify;'>
+            We are <b>Cognitive Learning for Vision and Robotics (CLVR, pronounced 'clever')</b> group at Korea Advanced Institute of Science and Technology (KAIST) led by Joseph J. Lim (임재환).
+            Our goal is to develop intelligent systems that are capable of perceiving, reasoning, and interacting with the world.
+            The research topics include cognitive model (incorporating generalizable problem-solving and relation decision-making), symbolic manipulation, visual perception, and robot learning.
+            </p>
 
-        <br>
-        <h4 style='text-align: left;'>
-        <a href="#news" style='color: inherit;'>Recent News</a>
-        </h4>
-        <b>[Talk]</b> Joseph J. Lim gives <a style='color: inherit;' href='https://youtu.be/aljMiB3ciHE'>a talk at <b>CoRL</b></a>! (2022)
-	<br>
-        <b>[Paper]</b> Two papers are accepted to <b>CoRL</b>! (2022)
-        <br>
-        <b>[Paper]</b> Three papers are accepted to <b>ICLR</b>! (2022)
-        <br>
+            <br>
+            <h4 style='text-align: left;'>
+            <a href="#news" style='color: inherit;'>Recent News</a>
+            </h4>
+            <b>[Talk]</b> Joseph J. Lim gives <a style='color: inherit;' href='https://youtu.be/aljMiB3ciHE'>a talk at <b>CoRL</b></a>! (2022)
+            <br>
+            <b>[Paper]</b> Two papers are accepted to <b>CoRL</b>! (2022)
+            <br>
+            <b>[Paper]</b> Three papers are accepted to <b>ICLR</b>! (2022)
+            <br>
         </div>
     </div>
 
