@@ -28,70 +28,73 @@ order: 9
 	Even though you visit our group as intern, we welcome and encourage you to discuss and participate projects we are currently working on!
     </p>
 
-        <br><br>
+    <br><br>
 
-	<h3 style="text-align: left;">&#127942; About our Lab </h3>
-        <p class="margin-left" style="text-align:justify;">
-	Our goal is to foster independent researchers who are recognized worldwide upon graduation from our lab. 
-	<ul>
-	<li>
-	In fact, our recent three Ph.D. graduates are now employed as a professor in the National Taiwan University Computer Science Department and as postdoctoral researchers at UC Berkeley. 
-	</li>
-	<li>
-	Our senior Ph.D. students have presented 5-10 papers at AI top-tier conferences (e.g., ICML, NeurIPS, ICLR) during their enrollment in our lab. 
-	</li>
-	<li>
-	Additionally, research interns and visiting scholars who gained research experience in our lab have mostly enrolled in top-tier U.S. universities such as MIT, CMU, and Stanford as Master's or Ph.D. students. 
-	</li>
-	<li>
-	During their Ph.D. studies, students can also intern at overseas companies like Google, Nvidia, and visit overseas universities as visiting scholars. 
-	</li>
+	<h3 style="text-align: left;">&#127942; About Our Lab </h3>
+    <p class="margin-left" style="text-align:justify;">
+	Our goal is to foster independent researchers who are recognized worldwide upon graduation from our lab.
+    </p>
+	<ul class="margin-left-list" style="text-align:justify;">
+        <li>
+        Recent three Ph.D. alumni have obtained positions as a professor at National Taiwan University, a professor at Yonsei University, and as a postdoctoral researcher at UC Berkeley.
+        </li>
+        <li>
+        Senior Ph.D. students have presented 5-10 papers at AI top-tier conferences (e.g., ICML, NeurIPS, ICLR) during their enrollment in our lab.
+        </li>
+        <li>
+        Research interns and visiting scholars who gained research experience in our lab have mostly enrolled in top-tier U.S. universities such as MIT, CMU, and Stanford as Master's or Ph.D. students.
+        </li>
+        <li>
+        During their Ph.D. studies, students can also intern at overseas companies such as Google and Nvidia, as well as engage in visiting scholar program at universities as abroad.
+        </li>
 	</ul>
-	</p>
 
-        <p class="margin-left" style="text-align:justify;">
-	We pursue a playful lab environment where members can actively discuss research both inside and outside of the lab, making research enjoyable and passionate. 
-	<ul>
-	<li>
-	We also concurrently operate a lab at the University of Southern California. 
-	So, if you join our lab (as a Korean student), you can interact not only with KAIST members but also with students in USC, enabling you to grow quicker. 
-	</li>
-	<li>
-	Additionally, since our lab at KAIST has just begun, if you join, we can build closer relationship.
-	</li>
+
+    <p class="margin-left" style="text-align:justify;">
+	We pursue a playful lab environment where members can actively discuss research both inside and outside of the lab, making research enjoyable and passionate.
+    </p>
+	<ul class="margin-left-list" style="text-align:justify;">
+        <li>
+        We also concurrently operate a lab at University of Southern California.
+        So, if you join our lab (as a Korean student), you can interact not only with KAIST members but also with students at USC, enabling you to grow more quickly.
+        </li>
+        <li>
+        Additionally, as our laboratory at KAIST is in its early stages, joining us would provide an opportunity to develop a more intimate working relationship.
+        </li>
 	</ul>
 
 	<br><br>
 
-        <h3 style="text-align: left;">&#127759; Desired Quality</h3>
-        <p class="margin-left" style="text-align:justify;">
+    <h3 style="text-align: left;">&#127759; Desired Quality</h3>
+    <p class="margin-left" style="text-align:justify;">
 	<b>Expected:</b>
-	<ul>
+    </p>
+	<ul class="margin-left-list" style="text-align:justify;">
 		<li>
 		A strong interest and passion in research topics including robot learning, reinforcement learning, reasoning, and decision-making.
 		</li>
 		<li>
-		Who have completed an introductory course or a more advanced course in machine learning, reinforcement learning, or related fields.
+		Understanding of introductory course or a more advanced course in machine learning, reinforcement learning, or related fields.
 		</li>
 		<li>
-		Experience in machine learning program, such as PyTorch, TensorFlow, Jax, etc.
+		Experience in machine learning frameworks, such as PyTorch, TensorFlow, Jax, etc.
 		</li>
 		<li>
 		Proficiency in English communication and discussion.
 		</li>
 	</ul>
-	</p>
-        <p class="margin-left" style="text-align:justify;">
+
+    <p class="margin-left" style="text-align:justify;">
 	<b>Preferred:</b>
-	<ul>
+    </p>
+	<ul class="margin-left-list" style="text-align:justify;">
 		<li>
 		Research experience in machine learning, reinforcement learning, or robotics fields.
 		</li>
 		<li>
-		Expeirence in publishing  papers in conferences or journals, regardless of their field of study.
+		Experience in publishing  papers in conferences or journals, regardless of their field of study.
 		</li>
 	</ul>
-	</p>
 
 	<br><br>
 

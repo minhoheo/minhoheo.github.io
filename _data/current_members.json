@@ -137,12 +137,14 @@
   },
 
   {
-    "web": "https://kpertsch.github.io",
-    "picture": "/assets/people/joshua_tree/karl.jpg",
-    "name": "Karl Pertsch",
-    "title": "PhD student @ USC",
-    "email": "pertsch [at] usc [dot] edu",
-    "research": "Predictive model"
+    "_comment": {
+        "web": "https://kpertsch.github.io",
+        "picture": "/assets/people/joshua_tree/karl.jpg",
+        "name": "Karl Pertsch",
+        "title": "PhD student @ USC",
+        "email": "pertsch [at] usc [dot] edu",
+        "research": "Predictive model"
+    }
   },
 
   {
