@@ -30,11 +30,14 @@ order: 9
 
         <br><br>
 
-	<h3 style="text-align: left;">&#127942 About our Lab </h3>
+	<h3 style="text-align: left;">&#127942; About our Lab </h3>
 	<p>
 	Our goal is to foster independent researchers who are recognized worldwide upon graduation from our lab. 
 	In fact, our recent three Ph.D. graduates are now employed as a professor in the National Taiwan University Computer Science Department and as postdoctoral researchers at UC Berkeley. 
 	Our senior Ph.D. students have presented 5-10 papers at AI top-tier conferences (e.g., ICML, NeurIPS, ICLR) during their enrollment in our lab. 
+	</p>
+	
+	<p>
 	Additionally, research interns and visiting scholars who gained research experience in our lab have mostly enrolled in top-tier U.S. universities such as MIT, CMU, and Stanford as Master's or Ph.D. students. 
 	During their Ph.D. studies, students can also intern at overseas companies like Google, Nvidia, and visit overseas universities as visiting scholars. 
 	</p>
@@ -50,7 +53,7 @@ order: 9
 
         <h3 style="text-align: left;">&#127759; Desired Quality</h3>
 	<p>
-	(Recommended)
+	<b>Recommended:</b>
 	<ul>
 		<li>
 		A strong interest and passion in research topics including robot learning, reinforcement learning, reasoning, and decision-making.
@@ -66,8 +69,8 @@ order: 9
 		</li>
 	</ul>
 	<p>
+	<b>Preferred:</b>
 	<ul>
-	(Preferred)
 		<li>
 		Research experience in machine learning, reinforcement learning, or robotics fields.
 		</li>
@@ -76,7 +79,6 @@ order: 9
 		</li>
 	</ul>
 	</p>
-        </div>
 
 	<br><br>
 
