@@ -31,18 +31,18 @@ order: 9
         <br><br>
 
 	<h3 style="text-align: left;">&#127942; About our Lab </h3>
-	<p>
+        <p class="margin-left" style="text-align:justify;">
 	Our goal is to foster independent researchers who are recognized worldwide upon graduation from our lab. 
 	In fact, our recent three Ph.D. graduates are now employed as a professor in the National Taiwan University Computer Science Department and as postdoctoral researchers at UC Berkeley. 
 	Our senior Ph.D. students have presented 5-10 papers at AI top-tier conferences (e.g., ICML, NeurIPS, ICLR) during their enrollment in our lab. 
 	</p>
 	
-	<p>
+        <p class="margin-left" style="text-align:justify;">
 	Additionally, research interns and visiting scholars who gained research experience in our lab have mostly enrolled in top-tier U.S. universities such as MIT, CMU, and Stanford as Master's or Ph.D. students. 
 	During their Ph.D. studies, students can also intern at overseas companies like Google, Nvidia, and visit overseas universities as visiting scholars. 
 	</p>
 
-	<p>
+        <p class="margin-left" style="text-align:justify;">
 	We pursue a playful lab environment where members can actively discuss research both inside and outside of the lab, making research enjoyable and passionate. 
 	We also concurrently operate a lab at the University of Southern California. 
 	Thus, if you join our lab (as a Korean student), you can interact not only with KAIST members but also with students in USC, enabling you to grow quicker. 
@@ -52,7 +52,7 @@ order: 9
 	<br><br>
 
         <h3 style="text-align: left;">&#127759; Desired Quality</h3>
-	<p>
+        <p class="margin-left" style="text-align:justify;">
 	<b>Recommended:</b>
 	<ul>
 		<li>
@@ -68,7 +68,8 @@ order: 9
 		Proficiency in English communication and discussion.
 		</li>
 	</ul>
-	<p>
+	</p>
+        <p class="margin-left" style="text-align:justify;">
 	<b>Preferred:</b>
 	<ul>
 		<li>
