@@ -449,3 +449,51 @@
 /**
  * General
  */
+
+ .row .intro-picture {
+    width: 39%;
+    margin: auto;
+    @include media-query($on-palm) {
+        width: 100%;
+    }
+ }
+
+ .row .intro-column {
+    width: 59%;
+    margin: auto;
+    padding-left: 30px;
+    @include media-query($on-palm) {
+        width: 90%;
+        padding-left: 0px;
+    }
+ }
+
+ .row .topic-column {
+    width:30%;
+    margin:auto;
+    text-align:center;
+    @include media-query($on-palm) {
+        width: 90%;
+        padding-left: 0px;
+        margin-top: 20px;
+    }
+ }
+
+.row .column {
+    @include media-query($on-palm) {
+        width: 90%;
+    }
+    width: 39%;
+}
+
+.mobile-disable {
+    @include media-query($on-palm) {
+        display: none;
+    }
+}
+
+.mobile-padding {
+    @include media-query($on-palm) {
+        padding-bottom: 0px !important;
+    }
+}

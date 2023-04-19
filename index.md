@@ -10,11 +10,11 @@ order: 0
   <br>
 
   <div class='row'>
-        <div class="column" style='width:39%; margin:auto;'>
+        <div class="intro-picture">
 	 {% include news_carousel.html data=site.data.news_carousel %}
         </div>
 
-        <div class="column" style='width:59%; margin:auto; padding-left:30px;'>
+        <div class="intro-column">
         <h4 style='text-align: left;'>
         Welcome to CLVR group!
         </h4>
@@ -43,22 +43,22 @@ order: 0
         <b>Research Topics</b> (<a href='/publications'>more</a>)
         </h4>
         <br>
-    <div class='row'  style="border-style: none;">
-        <div class="column" style='width:30%; margin:auto; text-align:center;'>
+    <div class='row mobile-padding' style="border-style: none;">
+        <div class="topic-column" >
         <a><img src="assets/research/Agile_teaser_gif_cropped.gif" height="200px"></a>
             <div style='text-align: center;'>
         <br><b>Cognitive Model</b>
 	<br>(Domain/Action Generalization)
         </div>
         </div>
-        <div class="column" style='width:30%; margin:auto;'>
+        <div class="topic-column">
         <a><img src="assets/home/home-demo2program.png" height="200px"></a>
             <div style='text-align: center;'>
         <br><b>Symbolic Manipulation</b>
 	<br>(Neural Program Synthesis)
         </div>
         </div>
-        <div class="column" style='width:30%; margin:auto;'>
+        <div class="topic-column">
         <a><img src="assets/home/home-galileo.png" height="200px"></a>
             <div style='text-align: center;'>
         <br><b>Logical Reasoning</b>
@@ -66,23 +66,23 @@ order: 0
         </div>
         </div>
     </div>
-    <br><br>
+    <br class="mobile-disable"><br class="mobile-disable">
     <div class='row'>
-        <div class="column" style='width:30%; margin:auto;'>
+        <div class="topic-column">
         <a><img src="assets/home/home-furniture.gif" height="200px"></a>
             <div style='text-align: center;'>
         <br><b>Robot Learning</b>
 	<br>(Complex Long-Horizon Manipulation)
         </div>
         </div>
-        <div class="column" style='width:30%; margin:auto;'>
+        <div class="topic-column">
         <a><img src="assets/home/home-demo2vec-resized.gif" height="200px"></a>
             <div style='text-align: center;'>
         <br><b>Computer Vision</b>
 	<br>(Learning from Video)
         </div>
         </div>
-        <div class="column" style='width:30%; margin:auto;'>
+        <div class="topic-column">
         <a><img src="assets/home/home-star.gif" height="200px"></a>
             <div style='text-align: center;'>
         <br><b>Reinforcement Learning</b>
