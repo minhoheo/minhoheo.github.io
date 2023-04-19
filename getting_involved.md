@@ -65,7 +65,7 @@ order: 9
 
         <h3 style="text-align: left;">&#127759; Desired Quality</h3>
         <p class="margin-left" style="text-align:justify;">
-	<b>Recommended:</b>
+	<b>Expected:</b>
 	<ul>
 		<li>
 		A strong interest and passion in research topics including robot learning, reinforcement learning, reasoning, and decision-making.
