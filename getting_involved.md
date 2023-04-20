@@ -20,21 +20,21 @@ order: 9
         </p-->
 
         <h3 style="text-align: left;">&#128232; Contact</h3>
-        <p class="margin-left" style="text-align:justify;">
+        <p class="margin-left">
         We are actively looking for students at all levels, including undergrad, intern, MS, and Ph.D. students.
         If interested, feel free to fill out <a href="https://forms.gle/5Va6sHkon6Q2C9YE7">this form</a>.
         For official application, please apply to the Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology via the <a href="https://apply.kaist.ac.kr/GradApply/GradApply/Login">application website</a> and specifically mention Professor Joseph Lim in your application.
-	<br><br>
-	Even though you visit our group as intern, we welcome and encourage you to discuss and participate projects we are currently working on!
-    </p>
+        <br><br>
+        Even though you visit our group as intern, we welcome and encourage you to discuss and participate projects we are currently working on!
+        </p>
 
     <br><br>
 
 	<h3 style="text-align: left;">&#127942; About Our Lab </h3>
-    <p class="margin-left" style="text-align:justify;">
-	Our goal is to foster independent researchers who are recognized worldwide upon graduation from our lab.
+    <p class="margin-left">
+	1. Our goal is to foster independent researchers who are recognized worldwide upon graduation from our lab.
     </p>
-	<ul class="margin-left-list" style="text-align:justify;">
+	<ul class="margin-left-list">
         <li>
         Recent three Ph.D. alumni have obtained positions as a professor at National Taiwan University, a professor at Yonsei University, and as a postdoctoral researcher at UC Berkeley.
         </li>
@@ -50,10 +50,11 @@ order: 9
 	</ul>
 
 
-    <p class="margin-left" style="text-align:justify;">
-	We pursue a playful lab environment where members can actively discuss research both inside and outside of the lab, making research enjoyable and passionate.
+    <br>
+    <p class="margin-left">
+	2. We pursue a playful lab environment where members can actively discuss research both inside and outside of the lab, making research enjoyable and passionate.
     </p>
-	<ul class="margin-left-list" style="text-align:justify;">
+	<ul class="margin-left-list">
         <li>
         We also concurrently operate a lab at University of Southern California.
         So, if you join our lab (as a Korean student), you can interact not only with KAIST members but also with students at USC, enabling you to grow more quickly.
@@ -66,10 +67,10 @@ order: 9
 	<br><br>
 
     <h3 style="text-align: left;">&#127759; Desired Quality</h3>
-    <p class="margin-left" style="text-align:justify;">
+    <p class="margin-left">
 	<b>Expected:</b>
     </p>
-	<ul class="margin-left-list" style="text-align:justify;">
+	<ul class="margin-left-list">
 		<li>
 		A strong interest and passion in research topics including robot learning, reinforcement learning, reasoning, and decision-making.
 		</li>
@@ -83,11 +84,11 @@ order: 9
 		Proficiency in English communication and discussion.
 		</li>
 	</ul>
-
-    <p class="margin-left" style="text-align:justify;">
+    <br>
+    <p class="margin-left">
 	<b>Preferred:</b>
     </p>
-	<ul class="margin-left-list" style="text-align:justify;">
+	<ul class="margin-left-list">
 		<li>
 		Research experience in machine learning, reinforcement learning, or robotics fields.
 		</li>
@@ -105,7 +106,7 @@ order: 9
 
         <div class="map-container">
           <center>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1879.786379996411!2d127.04569656492208!3d37.59247900925209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357cbb644204398b%3A0xf00723351f96d8c8!2sKAIST%20College%20of%20Business!5e0!3m2!1sen!2skr!4v1678033798242!5m2!1sen!2skr" width="80%" height="400" style="border:0; left: 0; top: 0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1879.786379996411!2d127.04569656492208!3d37.59247900925209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357cbb644204398b%3A0xf00723351f96d8c8!2sKAIST%20College%20of%20Business!5e0!3m2!1sen!2skr!4v1678033798242!5m2!1sen!2skr" width="90%" height="400" style="border:0; left: 0; top: 0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </center>
         </div>
     </div>

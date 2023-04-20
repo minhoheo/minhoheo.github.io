@@ -60,10 +60,20 @@ $on-laptop:        800px !default;
 
 .margin-left {
     margin-left: 35px;
+    text-align: left;
+
+    @include media-query($on-palm) {
+        margin-left: 5px;
+    }
 }
 
 .margin-left-list {
-    margin-left: 55px;
+    margin-left: 75px;
+    text-align: left;
+
+    @include media-query($on-palm) {
+        margin-left: 20px;
+    }
 }
 
 .container .row {

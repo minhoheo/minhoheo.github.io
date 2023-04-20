@@ -513,3 +513,11 @@
         display: none;
     }
 }
+
+.intro-paragraph {
+    text-align: justify;
+
+    @include media-query($on-palm) {
+        text-align: justify;
+    }
+}
