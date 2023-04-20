@@ -45,21 +45,21 @@ order: 0
         <br>
     <div class='row mobile-padding' style="border-style: none;">
         <div class="topic-column" >
-        <a><img src="assets/research/Agile_teaser_gif_cropped.gif" height="200px"></a>
+        <a><img src="assets/research/Agile_teaser_gif_cropped.gif" class="topic-content"></a>
             <div style='text-align: center;'>
         <br><b>Cognitive Model</b>
 	<br>(Domain/Action Generalization)
         </div>
         </div>
         <div class="topic-column">
-        <a><img src="assets/home/home-demo2program.png" height="200px"></a>
+        <a><img src="assets/home/home-demo2program.png" class="topic-content"></a>
             <div style='text-align: center;'>
         <br><b>Symbolic Manipulation</b>
 	<br>(Neural Program Synthesis)
         </div>
         </div>
         <div class="topic-column">
-        <a><img src="assets/home/home-galileo.png" height="200px"></a>
+        <a><img src="assets/home/home-galileo.png" class="topic-content"></a>
             <div style='text-align: center;'>
         <br><b>Logical Reasoning</b>
 	<br>(Physics Understanding)
@@ -69,21 +69,21 @@ order: 0
     <br class="mobile-disable">
     <div class='row'>
         <div class="topic-column">
-        <a><img src="assets/home/home-furniture.gif" height="200px"></a>
+        <a><img src="assets/home/home-furniture.gif" class="topic-content"></a>
             <div style='text-align: center;'>
         <br><b>Robot Learning</b>
 	<br>(Complex Long-Horizon Manipulation)
         </div>
         </div>
         <div class="topic-column">
-        <a><img src="assets/home/home-demo2vec-resized.gif" height="200px"></a>
+        <a><img src="assets/home/home-demo2vec-resized.gif" class="topic-content"></a>
             <div style='text-align: center;'>
         <br><b>Computer Vision</b>
 	<br>(Learning from Video)
         </div>
         </div>
         <div class="topic-column">
-        <a><img src="assets/home/home-star.gif" height="200px"></a>
+        <a><img src="assets/home/home-star.gif" class="topic-content"></a>
             <div style='text-align: center;'>
         <br id='news'><b>Reinforcement Learning</b>
 	<br>(Skill-based Reinforcement Learning)

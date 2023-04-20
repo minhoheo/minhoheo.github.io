@@ -469,10 +469,21 @@
 .row .intro-picture {
     width: 39%;
     margin: auto;
+
+    @include media-query($on-laptop) {
+        width: 50%;
+    }
+
+    @include media-query($on-narrow) {
+        width: 100%;
+        margin-top: 0px;
+    }
+
     @include media-query($on-palm) {
         width: 100%;
         margin-top: 0px;
     }
+
 }
 
 .carousel-image {
@@ -480,13 +491,30 @@
         margin-top: 0px !important;
         margin-bottom: 0px !important;
         display: block;
+
     }
+
+    @include media-query($on-narrow) {
+        width: 90%;
+    }
+
+    max-height: 100%;
 }
 
 .row .intro-column {
     width: 59%;
     margin: auto;
     padding-left: 30px;
+
+    @include media-query($on-laptop) {
+        width: 50%;
+    }
+
+    @include media-query($on-narrow) {
+        width: 90%;
+        padding-left: 0px;
+    }
+
     @include media-query($on-palm) {
         width: 90%;
         padding-left: 0px;
@@ -498,10 +526,19 @@
     width:30%;
     margin:auto;
     text-align:center;
+
     @include media-query($on-palm) {
         width: 90%;
         padding-left: 0px;
         margin-top: 20px;
+    }
+
+    @include media-query($on-laptop) {
+        margin-top: 0px;
+    }
+
+    @include media-query($on-narrow) {
+        margin-top: 0px;
     }
 }
 
@@ -546,4 +583,12 @@ b {
 
 html {
     scroll-behavior: smooth;
+}
+
+.topic-content {
+    height: 200px;
+
+    @include media-query($on-narrow) {
+        height: 150px;
+    }
 }

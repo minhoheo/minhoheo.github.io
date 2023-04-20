@@ -26,7 +26,9 @@ $table-text-align: left !default;
 $content-width:    1150px !default;
 
 $on-palm:          620px !default;
-$on-laptop:        800px !default;
+$on-narrow:        768px !default;
+$on-laptop:        995px!default;
+
 
 // Use media queries like this:
 // @include media-query($on-palm) {

@@ -23,7 +23,7 @@ order: 9
         <p class="margin-left">
         We are actively looking for students at all levels, including undergrad, intern, MS, and Ph.D. students.
         If interested, feel free to fill out <a href="https://forms.gle/5Va6sHkon6Q2C9YE7">this form</a>.
-        For official application, please apply to the Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology via the <a href="https://apply.kaist.ac.kr/GradApply/GradApply/Login">application website</a> and specifically mention Professor Joseph Lim in your application.
+        For official application, please apply to the Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST) via the <a href="https://apply.kaist.ac.kr/GradApply/GradApply/Login">application website</a> and specifically mention Professor Joseph Lim in your application.
         <br><br>
         Even though you visit our group as intern, we welcome and encourage you to discuss and participate projects we are currently working on!
         </p>
