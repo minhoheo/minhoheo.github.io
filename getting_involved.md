@@ -19,7 +19,7 @@ order: 9
         We place a strong emphasis on excellence, and we strive to produce high-quality work that pushes the boundaries of what is possible.
         </p-->
 
-        <h3 style="text-align: left;">&#128232; Contact</h3>
+        <h3 style="text-align: left;">&#128232; <b>Contact</b></h3>
         <p class="margin-left">
         We are actively looking for students at all levels, including undergrad, intern, MS, and Ph.D. students.
         If interested, feel free to fill out <a href="https://forms.gle/5Va6sHkon6Q2C9YE7">this form</a>.
@@ -30,9 +30,9 @@ order: 9
 
     <br><br>
 
-	<h3 style="text-align: left;">&#127942; About Our Lab </h3>
+	<h3 style="text-align: left;">&#127942; <b>About Our Lab</b> </h3>
     <p class="margin-left">
-	1. Our goal is to foster independent researchers who are recognized worldwide upon graduation from our lab.
+	Our goal is to foster independent researchers who are recognized worldwide upon graduation from our lab.
     </p>
 	<ul class="margin-left-list">
         <li>
@@ -52,7 +52,7 @@ order: 9
 
     <br>
     <p class="margin-left">
-	2. We pursue a playful lab environment where members can actively discuss research both inside and outside of the lab, making research enjoyable and passionate.
+	We pursue a playful lab environment where members can actively discuss research both inside and outside of the lab, making research enjoyable and passionate.
     </p>
 	<ul class="margin-left-list">
         <li>
@@ -66,7 +66,7 @@ order: 9
 
 	<br><br>
 
-    <h3 style="text-align: left;">&#127759; Desired Quality</h3>
+    <h3 style="text-align: left;">&#127759; <b>Desired Quality</b></h3>
     <p class="margin-left">
 	<b>Expected:</b>
     </p>
@@ -99,7 +99,7 @@ order: 9
 
 	<br><br>
 
-        <h3 style="text-align: left;">&#128506; Location</h3>
+        <h3 style="text-align: left;">&#128506; <b>Location</b></h3>
         <p class="margin-left">
         If you are wiling to meet in-person, feel free to e-mail us and visit! Our lab is located at: 9th building, 85 Hoegi-ro, Cheongnyangri-dong, Dongdaemun-gu, Seoul.
         </p>

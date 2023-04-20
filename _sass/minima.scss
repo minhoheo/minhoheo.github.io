@@ -68,7 +68,7 @@ $on-laptop:        800px !default;
 }
 
 .margin-left-list {
-    margin-left: 75px;
+    margin-left: 60px;
     text-align: left;
 
     @include media-query($on-palm) {
