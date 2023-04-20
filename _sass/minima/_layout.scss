@@ -523,9 +523,11 @@
 }
 
 b {
-
     @include media-query($on-palm) {
         font-weight: bold;
     }
+}
 
+html {
+    scroll-behavior: smooth;
 }
