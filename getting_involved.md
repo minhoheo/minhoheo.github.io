@@ -30,27 +30,44 @@ order: 9
 
     <br><br>
 
-	<h3 style="text-align: left;">&#127942; <b>About Our Lab</b> </h3>
+	<h3 style="text-align: left;">&#127942; <b>Lab Goal</b> </h3>
     <p class="margin-left">
-	Our goal is to foster independent researchers who are recognized world-wide.
+	Our goal is to foster world-class students who can push the boundary of current research fields. To achieve this, we aim to select students with the highest potential and provide the best research environment for their growth.
     </p>
 	<ul class="margin-left-list">
         <li>
-        Recent three Ph.D. alumni have obtained positions as a professor at National Taiwan University, a professor at Yonsei University, and as a postdoctoral researcher at UC Berkeley & Stanford.
+        Recent Ph.D. alumni have obtained positions as a professor at National Taiwan University, a professor at Yonsei University, and a postdoctoral researcher at UC Berkeley & Stanford.
         </li>
         <li>
-        Senior Ph.D. students have presented 5-10 papers at AI top-tier conferences (e.g., ICML, NeurIPS, ICLR) during their enrollment in our lab.
+        Senior Ph.D. students have presented 5-10 papers at AI top-tier conferences (e.g., ICML, NeurIPS, ICLR) during their Ph.D.
         </li>
         <li>
-        Research interns and visiting scholars who gained research experience in our lab have mostly enrolled in top-tier U.S. universities such as MIT, CMU, and Stanford as Master's or Ph.D. students.
-        </li>
-        <li>
-        During their Ph.D. studies, students can also intern at overseas companies such as Google and Nvidia, as well as engage in visiting scholar program at universities as abroad.
+        Research interns and visiting scholars who gained research experience in our lab have mostly enrolled in top-tier U.S. universities (e.g., MIT, CMU, Stanford) as Master's or Ph.D. students.
         </li>
 	</ul>
 
+    <br><br>
 
-    <br>
+    <h3 style="text-align: left;">&#128640; <b>Lab Culture</b> </h3>
+    <p class="margin-left">
+	We pursue a playful lab environment where members can actively discuss research both inside and outside of the lab.
+    </p>
+	<ul class="margin-left-list">
+        <li>
+        Interactive: Active discussion between students.
+        </li>
+        <li>
+        Independent: Everyone can lead projects regardless of their position.
+        </li>
+        <li>
+        International: Jointly operating labs at KAIST and the University of Southern California.
+        </li>
+        <li>
+        Internship: Encourage internships at top research labs/companies.
+        </li>
+	</ul>
+
+    <!-- <br>
     <p class="margin-left">
 	We pursue a playful lab environment where members can actively discuss research both inside and outside of the lab.
     </p>
@@ -62,7 +79,7 @@ order: 9
         <li>
         Additionally, as our laboratory at KAIST is in its early stages, joining us would provide an opportunity to develop a more intimate working relationship.
         </li>
-	</ul>
+	</ul> -->
 
 	<br><br>
 
@@ -72,28 +89,25 @@ order: 9
     </p>
 	<ul class="margin-left-list">
 		<li>
-		A strong interest and passion in research topics including robot learning, reinforcement learning, logically-reasoning AI, and decision-making system.
+        Self-motivated: A strong interest and passion for research topics, including robot learning, reinforcement learning, symbolic AI, etc.
 		</li>
 		<li>
-		Understanding of introductory courses or more advanced courses in machine learning, reinforcement learning, or any other related fields.
+        Background knowledge: Understanding of introductory courses or more advanced courses in machine learning, reinforcement learning, etc.
 		</li>
 		<li>
-		Experience in machine learning frameworks, such as PyTorch, TensorFlow, Jax, etc.
-		</li>
-		<li>
-		Proficiency in English communication and discussion.
+        English: Proficiency in English communication and discussion.
 		</li>
 	</ul>
-    <br>
     <p class="margin-left">
-	<b>Preferred:</b>
+	<b>Preferred but not required:</b>
     </p>
 	<ul class="margin-left-list">
 		<li>
-		Research experience in machine learning, reinforcement learning, or robotics fields.
+		Research experience: Previous research experience in machine learning, reinforcement learning, robotics, or even any field.
+
 		</li>
 		<li>
-		Experience in publishing  papers in conferences or journals, regardless of their field of study.
+		Publication: Experience in publishing  papers in conferences or journals, regardless of the research area.
 		</li>
 	</ul>
 

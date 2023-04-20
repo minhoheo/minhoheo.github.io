@@ -57,6 +57,10 @@
     transition: width 0.2s, background-color 0.5s;
     margin: 0 auto;
     z-index: 150;
+
+    @include media-query($on-palm) {
+        height: 0px;
+    }
 }
 
 .active-link .underline {
@@ -72,6 +76,18 @@
 .top-page-link:active .underline {
 	transition: none;
 	background-color: rgba(255,255,255,0.76);
+}
+
+.top-page-link {
+
+    @include media-query($on-palm) {
+        margin: 0px 0px 0px 0px !important;
+
+        &:active {
+            background-color: #7EC8E3;
+            // text-decoration: overline;
+        }
+    }
 }
 
 .site-title {
