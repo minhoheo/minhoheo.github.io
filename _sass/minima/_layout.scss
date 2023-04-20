@@ -521,3 +521,11 @@
         text-align: justify;
     }
 }
+
+b {
+
+    @include media-query($on-palm) {
+        font-weight: bold;
+    }
+
+}
