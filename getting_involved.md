@@ -32,11 +32,11 @@ order: 9
 
 	<h3 style="text-align: left;">&#127942; <b>About Our Lab</b> </h3>
     <p class="margin-left">
-	Our goal is to foster independent researchers who are recognized worldwide upon graduation from our lab.
+	Our goal is to foster independent researchers who are recognized world-wide.
     </p>
 	<ul class="margin-left-list">
         <li>
-        Recent three Ph.D. alumni have obtained positions as a professor at National Taiwan University, a professor at Yonsei University, and as a postdoctoral researcher at UC Berkeley.
+        Recent three Ph.D. alumni have obtained positions as a professor at National Taiwan University, a professor at Yonsei University, and as a postdoctoral researcher at UC Berkeley & Stanford.
         </li>
         <li>
         Senior Ph.D. students have presented 5-10 papers at AI top-tier conferences (e.g., ICML, NeurIPS, ICLR) during their enrollment in our lab.
@@ -52,7 +52,7 @@ order: 9
 
     <br>
     <p class="margin-left">
-	We pursue a playful lab environment where members can actively discuss research both inside and outside of the lab, making research enjoyable and passionate.
+	We pursue a playful lab environment where members can actively discuss research both inside and outside of the lab.
     </p>
 	<ul class="margin-left-list">
         <li>
@@ -72,10 +72,10 @@ order: 9
     </p>
 	<ul class="margin-left-list">
 		<li>
-		A strong interest and passion in research topics including robot learning, reinforcement learning, reasoning, and decision-making.
+		A strong interest and passion in research topics including robot learning, reinforcement learning, logically-reasoning AI, and decision-making system.
 		</li>
 		<li>
-		Understanding of introductory course or a more advanced course in machine learning, reinforcement learning, or related fields.
+		Understanding of introductory courses or more advanced courses in machine learning, reinforcement learning, or any other related fields.
 		</li>
 		<li>
 		Experience in machine learning frameworks, such as PyTorch, TensorFlow, Jax, etc.
