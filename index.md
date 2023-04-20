@@ -27,7 +27,7 @@ order: 0
 
             <br>
             <h4 style='text-align: left;'>
-            <a href="#news" style='color: inherit;'>Recent News</a>
+            Recent News (<a href="#news" style='color: inherit;'>More</a>)
             </h4>
             <b>[Talk]</b> Joseph J. Lim gives <a style='color: inherit;' href='https://youtu.be/aljMiB3ciHE'>a talk at <b>CoRL</b></a>! (2022)
             <br>
@@ -85,13 +85,13 @@ order: 0
         <div class="topic-column">
         <a><img src="assets/home/home-star.gif" height="200px"></a>
             <div style='text-align: center;'>
-        <br><b>Reinforcement Learning</b>
+        <br id='news'><b>Reinforcement Learning</b>
 	<br>(Skill-based Reinforcement Learning)
         </div>
         </div>
     </div>
 
-  <br id='news'>
+  <br>
   <div class="news">
     <h4 style='text-align:left;'><b> News </b></h4>
 	  <h5 style='text-align:left;'> 2023 </h5>
