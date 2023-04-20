@@ -101,7 +101,7 @@ order: 9
 
         <h3 style="text-align: left;">&#128506; <b>Location</b></h3>
         <p class="margin-left">
-        If you are wiling to meet in-person, feel free to e-mail us and visit! Our lab is located at: 9th building, 85 Hoegi-ro, Cheongnyangri-dong, Dongdaemun-gu, Seoul.
+        If you are wiling to meet in-person, feel free to e-mail us and visit! Our lab is located at: <br>9th building, 85 Hoegi-ro, Cheongnyangri-dong, Dongdaemun-gu, Seoul.
         </p>
 
         <div class="map-container">
