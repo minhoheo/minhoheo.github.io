@@ -20,23 +20,43 @@ order: 7
 
 <h2> Environments </h2>
 <h3 class='title-line'>Robotics</h3>
+
 <div class="row pub-center">
-  <div class="col-lg-1"></div>
-  <div class="col-lg-3 paper-image-container">
-    <a href="https://clvrai.com/furniture">
-    <img class="environment-image" src="/assets/research/lee_furniture.gif">
-    </a>
-  </div>
-  <div class="col-lg-8 paper-description-container">
-    <b class="paper-title">IKEA Furniture Assembly Environment</b> <br>
-    The IKEA Furniture Assembly Environment is one of the first benchmarks for testing and accelerating the automation of complex manipulation tasks.
-    <br>
-    <a target="_blank" href="https://arxiv.org/abs/1911.07246">[PDF]</a>
-    <a target="_blank" href="https://clvrai.com/furniture">[Project]</a>
-    <a target="_blank" href="https://github.com/clvrai/furniture">[Code]</a>
-  </div>
+    <div class="col-lg-1"></div>
+    <div class="col-lg-3 paper-image-container">
+        <!-- <a href="https://clvrai.com/furniture-bench"> -->
+        <img class="environment-image" src="/assets/research/tba.png">
+        <!-- </a> -->
+    </div>
+    <div class="col-lg-8 paper-description-container">
+        <b class="paper-title">FurnitureBench: Reproducible Real-World Benchmark</b> <br>
+        FurnitureBench is the real-world furniture assembly benchmark, which aims at providing a reproducible and easy-to-use platform for long-horizon complex robotic manipulation.
+        <br>
+        <!-- <a target="_blank" href="https://arxiv.org/abs/1911.07246">[PDF]</a>
+        <a target="_blank" href="https://clvrai.com/furniture">[Project]</a>
+        <a target="_blank" href="https://github.com/clvrai/furniture">[Code]</a> -->
+
+        [PDF to come]
+    </div>
 </div>
 
+<div class="row pub-center">
+    <div class="col-lg-1"></div>
+    <div class="col-lg-3 paper-image-container">
+        <a href="https://clvrai.com/furniture">
+        <img class="environment-image" src="/assets/research/lee_furniture.gif">
+        </a>
+    </div>
+    <div class="col-lg-8 paper-description-container">
+        <b class="paper-title">IKEA Furniture Assembly Environment</b> <br>
+        The IKEA Furniture Assembly Environment is one of the first benchmarks for testing and accelerating the automation of complex manipulation tasks.
+        <br>
+        <a target="_blank" href="https://arxiv.org/abs/1911.07246">[PDF]</a>
+        <a target="_blank" href="https://clvrai.com/furniture">[Project]</a>
+        <a target="_blank" href="https://github.com/clvrai/furniture">[Code]</a>
+    </div>
+
+</div>
 
 <h3 class='title-line'>Generalization</h3>
 <div class="row pub-center">

@@ -1,8 +1,8 @@
 [
   {
-    "paper_image": "/assets/research/furniture_bench.gif",
+    "paper_image": "/assets/research/tba.png",
     "title": "FurnitureBench: Reproducible Real-World Benchmark for Long-Horizon Complex Manipulation",
-    "authors": "Minho Heo*, Youngwoon Lee*, Doohyun Lee, , Joseph J. Lim",
+    "authors": "Minho Heo*, Youngwoon Lee*, Doohyun Lee, Joseph J. Lim",
     "publication": "RSS 2023",
     // "web": "https://clvrai.github.io/pato",
     // "pdf": "https://drive.google.com/file/d/1pqgBTju0p7-mUUGl1IYoh4gQ1q_qbL7m/view?usp=sharing",
@@ -14,8 +14,8 @@
     "title": "Assisted Teleoperation for Scalable Robot Data Collection",
     "authors": "Shivin Dass*, Karl Pertsch*, Hejia Zhang, Youngwoon Lee, Joseph J. Lim, Stefanos Nikolaidis",
     "publication": "RSS 2023",
-    "web": "https://clvrai.github.io/pato",
-    "pdf": "https://drive.google.com/file/d/1pqgBTju0p7-mUUGl1IYoh4gQ1q_qbL7m/view?usp=sharing",
+    // "web": "https://clvrai.github.io/pato",
+    // "pdf": "https://drive.google.com/file/d/1pqgBTju0p7-mUUGl1IYoh4gQ1q_qbL7m/view?usp=sharing",
     "year": "2023",
     "topic": "Robot Learning"
   },
