@@ -51,7 +51,7 @@ order: 7
         <b class="paper-title">CLVR Jaco Play Dataset</b> <br>
         CLVR Jaco Play Dataset provides 1,085 teleoperated robotic episodes with accompanying language annotations.
         <br>
-        <a target="_blank" href="https://github.com/clvrai/clvr_jaco_play_dataset">[Code]</a>
+        <a target="_blank" href="https://github.com/clvrai/clvr_jaco_play_dataset">[Dataset]</a>
     </div>
 </div>
 
