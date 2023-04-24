@@ -53,15 +53,15 @@
         "research": ""
     }
     },
-        {
+    {
+    "_comment": {
 	"picture": "/assets/people/sunghyun.jpg",
 	"name": "Sunghyun Koo",
 	"title": "Intern @ KAIST (from SNU)",
 	"email": "",
 	"research": ""
+    }
     },
-
-
   {
     "picture": "/assets/people/doohyun.jpg",
     "name": "Doohyun Lee",

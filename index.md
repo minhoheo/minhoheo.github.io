@@ -29,6 +29,8 @@ order: 0
             <h4 style='text-align: left;'>
             <b>Recent News</b> (<a href="#news">more</a>)
             </h4>
+	    <b>[Paper]</b> Two papers are accepted to <b>RSS</b>! (2023)
+	    <br>
             <b>[Talk]</b> Joseph J. Lim gives <a style='color: inherit;' href='https://youtu.be/aljMiB3ciHE'>a talk at <b>CoRL</b></a>! (2022)
             <br>
             <b>[Paper]</b> Two papers are accepted to <b>CoRL</b>! (2022)
@@ -96,6 +98,9 @@ order: 0
     <h4 style='text-align:left;'><b> News </b></h4>
 	  <h5 style='text-align:left;'> 2023 </h5>
       <ul>
+	<li>
+	  <b>[Paper]</b> Two papers are accepted to <b>RSS</b>!
+	</li>
         <li>
           <b>[PhD Defense]</b> Karl Pertsch successfully defended his PhD thesis!
         </li>
