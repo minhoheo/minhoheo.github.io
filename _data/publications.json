@@ -20,6 +20,16 @@
     "topic": "Robot Learning"
   },
   {
+    "paper_image": "/assets/research/hnps.png",
+    "title": "Hierarchical Neural Program Synthesis",
+    "authors": "Linghan Zhong, Ryan Lindeborg, Jesse Zhang, Joseph J. Lim, Shao-Hua Sun",
+    "publication": "Preprint 2023",
+    "web": "https://thoughtp0lice.github.io/hnps_web/",
+    "pdf": "https://arxiv.org/abs/2303.06018",
+    "year": "2023",
+    "topic": "Robot Learning"
+  },
+  {
     "paper_image" :  "/assets/research/star.gif" ,
     "title": "Cross-Domain Transfer via Semantic Skill Imitation",
     "authors": "Karl Pertsch, Ruta Desai, Vikash Kumar, Franziska Meier, Joseph J. Lim, Dhruv Batra, Akshara Rai",
