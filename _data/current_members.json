@@ -124,17 +124,6 @@
     "email": "ziyiliu29 [at] gmail [dot] com",
     "research": ""
   },
-
-  {
-    "_comment": {
-      "picture": "/assets/people/joshua.png",
-      "name": "Joshua S. Lim",
-      "title": "A long-term intern",
-      "email": "no e-mail access",
-      "research": "?"
-    }
-  },
-
     {
 	"web": "https://rureadyo.github.io/",
     "picture": "/assets/people/sungjae.jpg",
@@ -212,6 +201,15 @@
         "research": ""
     }
   },
+
+  {
+    "picture": "/assets/people/joshua2.png",
+    "name": "Joshua S. Lim",
+    "title": "A long-term intern",
+    "email": "no e-mail access",
+    "research": "?"
+  },
+
 
   {
     "picture": "",
