@@ -10,13 +10,17 @@ order: 7
 <!-- Talk video -->
   <center>
   <div class="col-lg-1"></div>
-  <div class="col-lg-10" style='height:480px'>
+  <div class="col-lg-10" style='height:480px;'>
 	<div class="youtube-container">
 	<iframe class="youtube" src="https://www.youtube.com/embed/aljMiB3ciHE" title="Joseph CoRL2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen width="100%" height="100%" style="position: absolute; left: 0; top: 0;"></iframe>
 	</div>
   </div>
   </center>
-<br><br>
+
+<br><br><br>
+<div style='border-bottom: 1px solid #ddd; width:100%;'>
+</div>
+<br><br><br>
 
 <h2> Environments / Datasets </h2>
 <h3 class='title-line'>Robotics</h3>

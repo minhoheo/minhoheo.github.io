@@ -1,13 +1,13 @@
 [
-  {
-    "web": "https://dweeptrivedi.github.io/",
-    "picture": "/assets/people/dweep.jpg",
-    "name": "Dweep Trivedi",
-    "title": "MS student at USC",
-    "email": "dtrivedi [at] usc [dot] edu",
-    "research": "Computer vision",
-    "current": "next: PhD student @ UT Austin"
-  },
+   {
+     "web": "https://jullianyapeter.com",
+     "picture": "/assets/people/jullian.jpg",
+     "name": "Jullian Yapeter",
+     "title": "MS student @ USC",
+     "email": "yapeter [at] usc [dot] edu",
+     "research": "",
+     "current": "next: Software engineer @ signal1.ai"
+   },
   {
     "web": "https://lucys0.github.io",
     "picture": "/assets/people/lucy.jpg",
@@ -22,6 +22,15 @@
     "name": "Han Zhong",
     "title": "Undergraduate student @ USC",
     "email": "linghanz [at] usc [dot] edu",
+    "current": "next: PhD student @ UT Austin"
+  },
+  {
+    "web": "https://dweeptrivedi.github.io/",
+    "picture": "/assets/people/dweep.jpg",
+    "name": "Dweep Trivedi",
+    "title": "MS student at USC",
+    "email": "dtrivedi [at] usc [dot] edu",
+    "research": "Computer vision",
     "current": "next: PhD student @ UT Austin"
   },
   {

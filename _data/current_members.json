@@ -70,6 +70,15 @@
     "research": "Robot Learning"
   },
 
+  {
+    "web": "https://kpertsch.github.io/",
+    "picture": "/assets/people/joshua_tree/karl.jpg",
+    "name": "Karl Pertsch",
+    "title": "PhD student at USC (defended)",
+    "email": "pertsh [at] usc [dot] edu",
+    "research": "Predictive model"
+  },
+
     {
 	"web": "https://gimme1dollar.github.io/",
     "picture": "/assets/people/juyong.jpg",
@@ -78,7 +87,6 @@
     "email": "agi.is [at] kaist [dot] ac [dot] kr",
     "research": "AGI"
   },
-
     {
 	    "_comment": {
     "web": "http://youngwoon.github.io/",
@@ -157,16 +165,6 @@
         "research": ""
     }
   },
-
-  {
-    "web": "https://jullianyapeter.com",
-    "picture": "/assets/people/jullian.jpg",
-    "name": "Jullian Yapeter",
-    "title": "MS student @ USC",
-    "email": "yapeter [at] usc [dot] edu",
-    "research": ""
-  },
-
   {
     "picture": "/assets/people/junseo.jpg",
     "name": "Junseo Youn",
@@ -176,12 +174,14 @@
   },
 
   {
+   "_comment": {
     "web": "https://gracehzhang.github.io/",
     "picture": "/assets/people/grace.jpg",
     "name": "Grace Zhang",
     "title": "PhD student @ USC",
     "email": "gracez [at] usc [dot] edu",
     "research": ""
+   }
   },
 
   {
