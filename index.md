@@ -56,12 +56,12 @@ order: 0
         </div>
         </div>
         <div class="topic-column">
-        <a><img src="assets/home/home-furniture.gif" class="topic-content"></a>
+        <a><img src="assets/home/home-furniture-bench.gif" class="topic-content"></a>
             <div style='text-align: center;'>
         <br><b>Robot Learning</b>
 	<br>(e.g., Complex Long-Horizon Manipulation)
         </div>
-        </div>	
+        </div>
         <div class="topic-column">
         <a><img src="assets/home/home-star.gif" class="topic-content"></a>
             <div style='text-align: center;'>
@@ -78,7 +78,7 @@ order: 0
         <br><b>Logical Reasoning</b>
 	<br>(e.g., Physics Understanding)
         </div>
-        </div>    
+        </div>
         <div class="topic-column">
         <a><img src="assets/home/home-demo2program.png" class="topic-content"></a>
             <div style='text-align: center;'>
