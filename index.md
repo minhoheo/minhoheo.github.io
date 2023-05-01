@@ -50,22 +50,24 @@ order: 0
     <div class='row mobile-padding' style="border-style: none;">
         <div class="topic-column" >
         <a><img src="assets/research/Agile_teaser_gif_cropped.gif" class="topic-content"></a>
-            <div style='text-align: center;'>
-        <br><b>Cognitive Model</b>
+            <div style='text-align: center; padding-top:10px;'>
+        <br class='mobile-disable'>
+	<b>Cognitive Model</b>
 	<br>(e.g., Domain/Action Generalization)
         </div>
         </div>
         <div class="topic-column">
-        <a><img src="assets/home/home-furniture-bench.gif" class="topic-content"></a>
-            <div style='text-align: center;'>
-        <br><b>Robot Learning</b>
+        <a><img src="assets/home/home-furniture.gif" class="topic-content"></a>
+            <div style='text-align: center; padding-top:10px;'>
+        <br class="mobile-disable">
+        <b>Robot Learning</b>
 	<br>(e.g., Complex Long-Horizon Manipulation)
         </div>
         </div>
         <div class="topic-column">
         <a><img src="assets/home/home-star.gif" class="topic-content"></a>
-            <div style='text-align: center;'>
-        <br id='news'><b>Reinforcement Learning</b>
+            <div style='text-align: center; padding-top:10px;'>
+        <br class="mobile-disable"><b>Reinforcement Learning</b>
 	<br>(e.g., Skill-based Reinforcement Learning)
         </div>
         </div>
@@ -74,22 +76,22 @@ order: 0
     <div class='row'>
         <div class="topic-column">
         <a><img src="assets/home/home-galileo.png" class="topic-content"></a>
-            <div style='text-align: center;'>
-        <br><b>Logical Reasoning</b>
+            <div style='text-align: center; padding-top:10px;'>
+        <br class="mobile-disable"><b>Logical Reasoning</b>
 	<br>(e.g., Physics Understanding)
         </div>
         </div>
         <div class="topic-column">
         <a><img src="assets/home/home-demo2program.png" class="topic-content"></a>
-            <div style='text-align: center;'>
-        <br><b>Symbolic Manipulation</b>
+            <div style='text-align: center; padding-top:10px'>
+        <br class="mobile-disable"><b>Symbolic Manipulation</b>
 	<br>(e.g., Neural Program Synthesis)
         </div>
         </div>
         <div class="topic-column">
         <a><img src="assets/home/home-demo2vec-resized.gif" class="topic-content"></a>
-            <div style='text-align: center;'>
-        <br><b>Computer Vision</b>
+            <div style='text-align: center; padding-top:10px'>
+        <br class="mobile-disable" id='news'><b>Computer Vision</b>
 	<br>(e.g., Learning from Video)
         </div>
         </div>
