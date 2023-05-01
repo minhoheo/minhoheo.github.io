@@ -6,8 +6,10 @@ order: 9
 ---
 
 <style>
-	li { margin-bottom: 5px; }
-	</style>
+    li {
+        margin-bottom: 5px;
+    }
+</style>
 
 <div class='container'>
     <div class='row'>
@@ -15,29 +17,32 @@ order: 9
         <div class='col-lg-10'>
             <h3 style="text-align: left;">&#128232; <b>Contact</b></h3>
             <p class="margin-left">
-                We are actively looking for students at all levels, including undergraduate, intern, MS, and Ph.D. students.
+                We are actively looking for students at all levels, including undergraduate, intern, MS, and Ph.D.
+                students.
                 If interested, feel free to fill out <a href="https://forms.gle/5Va6sHkon6Q2C9YE7">this form</a>.
                 For official application, please apply to the Kim Jaechul Graduate School of AI at Korea Advanced
                 Institute of Science and Technology (KAIST) via the <a
                     href="https://apply.kaist.ac.kr/GradApply/GradApply/Login">application website</a> and specifically
                 mention Professor Joseph Lim in your application.
                 <br><br>
-		All students are trained with one same expectation - to develop high-impact research. We welcome and encourage you to discuss, develop, and participate in any research projects.
+                All students are trained with one same expectation - to develop high-impact research. We welcome and
+                encourage you to discuss, develop, and participate in any research projects.
             </p>
 
             <br><br>
 
             <h3 style="text-align: left;">&#127942; <b>Lab Goal</b> </h3>
-	    <p class="margin-left">
-                Our goal is to foster <i>world-class</i> students who can push the boundary of current research fields. To
+            <p class="margin-left">
+                Our goal is to foster <i>world-class</i> students who can push the boundary of current research fields.
+                To
                 achieve this, we select students with the highest potential and provide the best research
                 environment for their growth.
-		</p>
-	    <p class="margin-left">
-	    Student track record in summary:
-	    </p>
+            </p>
+            <p class="margin-left">
+                Student track record in summary:
+            </p>
             <ul class="margin-left-list">
-	    <!--
+                <!--
                 <li>
                     <i>Recent</i> Ph.D. alumni have obtained positions as a professor at National Taiwan University, a
                     professor at Yonsei University, and a postdoctoral researcher at UC Berkeley & Stanford.
@@ -50,45 +55,54 @@ order: 9
 		    <i>All</i> pre-Ph.D. students (including interns and visitors) secured admissions from top-tier universities (e.g., MIT, CMU, Stanford) or offers from top-tier companies (e.g., Google and OpenAI).
                 </li>
 		-->
-		
-		<li>
+
+                <li>
                     <i>Recent</i> Ph.D. alumni: a prof. at National Taiwan University, a
                     prof. at Yonsei University, and a postdoc at UC Berkeley & Stanford
                 </li>
-		<li>
+                <li>
                     <i>All</i> Ph.D. alumni: 10+ papers at top-tier AI conferences (e.g., ICML, NeurIPS,
                     ICLR) at the time of graduation
                 </li>
-		<li>
-		    <i>All</i> pre-Ph.D. students (including interns and visitors): admissions from top-tier universities (e.g., MIT, CMU, Stanford) or offers from top-tier companies (e.g., Google and OpenAI)
+                <li>
+                    <i>All</i> pre-Ph.D. students (including interns and visitors): admissions from top-tier
+                    universities (e.g., MIT, CMU, Stanford) or offers from top-tier companies (e.g., Google and OpenAI)
                 </li>
 
-</ul>
+            </ul>
             <br><br>
 
             <h3 style="text-align: left;">&#128640; <b>Lab Culture</b> </h3>
             <p class="margin-left">
-	    	    That said, research is about asking <i>good questions</i>, less about publishing many papers. Starting from day 1, we work on developing your research taste through structuring your research direction and forming a detailed plan. We especially focus on developing core skills such as discussing high-level research topics, posing impactful and interesting questions, and scrutinizing technical details. We aim to cultivate a strong philosophy for research. Everything else (e.g., # of publications) then follows naturally.
-		    <br><br>
-	       The goal of our lab culture is simple - <i>international impact and visibility</i>. We train students to seamlessly brainstorm, think, and work with anyone and anywhere in the world.
-		To this end, our lab puts a huge amount of emphasis on cultivating the collaborative culture of question and discussion, and passion and ambition. The cultural focus of our lab:
-		</p>
+                That said, research is about asking <i>good questions</i>, less about publishing many papers. Starting
+                from day 1, we work on developing your research taste through structuring your research direction and
+                forming a detailed plan. We especially focus on developing core skills such as discussing high-level
+                research topics, posing impactful and interesting questions, and scrutinizing technical details. We aim
+                to cultivate a strong philosophy for research. Everything else (e.g., # of publications) then follows
+                naturally.
+                <br><br>
+                The goal of our lab culture is simple - <i>international impact and visibility</i>. We train students to
+                seamlessly brainstorm, think, and work with anyone and anywhere in the world.
+                To this end, our lab puts a huge amount of emphasis on cultivating the collaborative culture of question
+                and discussion, and passion and ambition. The cultural focus of our lab:
+            </p>
             <ul class="margin-left-list">
                 <li>
                     International: Our communication in all forms is in English
                 </li>
-		<li>
-		    Flat: No hierarchy, especially between students, similar to the U.S. lab culture (e.g., we call Joseph as Joseph)
-		</li>		
-	    	<li>
-		    Ambition & Passion: All members have extremly strong desires of accomplishment
-		</li>
-		<li>
+                <li>
+                    Flat: No hierarchy, especially between students, similar to the U.S. lab culture (e.g., we call
+                    Joseph as Joseph)
+                </li>
+                <li>
+                    Ambition & Passion: All members have extremely strong desires of accomplishment
+                </li>
+                <li>
                     Interactive: Active discussion between all
                 </li>
-		<li>
-		    Curios: We drive everyone to be curios and to ask
-		</li>
+                <li>
+                    Curious: We drive everyone to be curious and to ask
+                </li>
                 <li>
                     Independent: Everyone is trained to be an independent researcher regardless of his/her position
                 </li>
@@ -105,11 +119,12 @@ order: 9
                     Self-motivated: A strong interest and passion for research
                 </li>
                 <li>
-                    Background knowledge: Understanding of introductory courses or more advanced courses in AI such as machine
+                    Background knowledge: Understanding of introductory courses or more advanced courses in AI such as
+                    machine
                     learning and reinforcement learning
                 </li>
             </ul>
-	    <br>
+            <br>
             <p class="margin-left">
                 <b>Preferred but not required:</b>
             </p>
@@ -122,9 +137,6 @@ order: 9
                 <li>
                     Publication: Experience in publishing papers in conferences or journals, regardless of the research
                     area
-                </li>
-                <li>
-                    English: Proficiency in English communication and discussion
                 </li>
             </ul>
 

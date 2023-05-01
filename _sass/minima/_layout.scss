@@ -527,6 +527,7 @@
     width:30%;
     margin:auto;
     text-align:center;
+    vertical-align: top;
 
     @include media-query($on-palm) {
         width: 90%;
