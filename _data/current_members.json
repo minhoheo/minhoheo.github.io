@@ -70,14 +70,6 @@
     "research": "Robot Learning"
   },
 
-  {
-    "web": "https://kpertsch.github.io/",
-    "picture": "/assets/people/joshua_tree/karl.jpg",
-    "name": "Karl Pertsch",
-    "title": "PhD student at USC (defended)",
-    "email": "pertsh [at] usc [dot] edu",
-    "research": "Predictive model"
-  },
 
     {
 	"web": "https://gimme1dollar.github.io/",
@@ -87,19 +79,7 @@
     "email": "agi.is [at] kaist [dot] ac [dot] kr",
     "research": "AGI"
   },
-    {
-	    "_comment": {
-    "web": "http://youngwoon.github.io/",
-    "picture": "/assets/people/joshua_tree/youngwoon.jpg",
-    "name": "Youngwoon Lee",
-    "title": "PhD student @ USC",
-    "email": "lee504 [at] usc [dot] edu",
-		"research": "Robot Learning"
-	    }
-  },
-
   {
-    "web": "https://clvrai.com/",
     "picture": "/assets/people/xinhu.jpg",
     "name": "Xinhu Li",
     "title": "MS student @ USC",
@@ -155,6 +135,14 @@
     }
   },
   {
+    "web": "https://kpertsch.github.io/",
+    "picture": "/assets/people/joshua_tree/karl.jpg",
+    "name": "Karl Pertsch",
+    "title": "PhD student at USC (defended)",
+    "email": "pertsh [at] usc [dot] edu",
+    "research": "Predictive model"
+  },    
+  {
     "picture": "/assets/people/junseo.jpg",
     "name": "Junseo Youn",
     "title": "Intern @ KAIST (from POSTECH)",
@@ -205,7 +193,7 @@
   {
     "picture": "/assets/people/joshua2.png",
     "name": "Joshua S. Lim",
-    "title": "A long-term intern",
+      "title": "A life-long trainee",
     "email": "no e-mail access",
     "research": "?"
   },

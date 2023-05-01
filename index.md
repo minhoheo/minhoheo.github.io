@@ -11,7 +11,7 @@ order: 0
 
   <div class='row'>
         <div class="intro-picture">
-	 {% include news_carousel.html data=site.data.news_carousel %}
+        {% include news_carousel.html data=site.data.news_carousel %}
         </div>
 
         <div class="intro-column">
@@ -21,8 +21,10 @@ order: 0
 
             <p class="intro-paragraph">
             We are <b>Cognitive Learning for Vision and Robotics (CLVR, pronounced as 'clever')</b> group at Korea Advanced Institute of Science and Technology (KAIST) led by Joseph J. Lim.
-            Our goal is to develop intelligent systems that are capable of perceiving, reasoning, and interacting with the world.
-            The research topics include cognitive model (such as generalizable decision-making system), symbolic manipulation, visual perception, and robot learning.
+            <!--Our goal is to develop intelligent systems that are capable of perceiving, reasoning, and interacting with the world.
+            The research topics include cognitive model (such as generalizable decision-making system), symbolic manipulation, visual perception, and robot learning.-->
+	    Our goal is to develop intelligent systems that make sequential decisions, in the world, throughout perception, action, and reasoning.
+            The research topics include reinforcement learning, robot learning, world model with representation learning, symbolic manipulation, and visual perception.
             </p>
 
 	   <br>
@@ -50,45 +52,45 @@ order: 0
         <a><img src="assets/research/Agile_teaser_gif_cropped.gif" class="topic-content"></a>
             <div style='text-align: center;'>
         <br><b>Cognitive Model</b>
-	<br>(Domain/Action Generalization)
+	<br>(e.g., Domain/Action Generalization)
         </div>
         </div>
         <div class="topic-column">
-        <a><img src="assets/home/home-demo2program.png" class="topic-content"></a>
+        <a><img src="assets/home/home-furniture.gif" class="topic-content"></a>
             <div style='text-align: center;'>
-        <br><b>Symbolic Manipulation</b>
-	<br>(Neural Program Synthesis)
+        <br><b>Robot Learning</b>
+	<br>(e.g., Complex Long-Horizon Manipulation)
         </div>
-        </div>
+        </div>	
         <div class="topic-column">
-        <a><img src="assets/home/home-galileo.png" class="topic-content"></a>
+        <a><img src="assets/home/home-star.gif" class="topic-content"></a>
             <div style='text-align: center;'>
-        <br><b>Logical Reasoning</b>
-	<br>(Physics Understanding)
+        <br id='news'><b>Reinforcement Learning</b>
+	<br>(e.g., Skill-based Reinforcement Learning)
         </div>
         </div>
     </div>
     <br class="mobile-disable">
     <div class='row'>
         <div class="topic-column">
-        <a><img src="assets/home/home-furniture.gif" class="topic-content"></a>
+        <a><img src="assets/home/home-galileo.png" class="topic-content"></a>
             <div style='text-align: center;'>
-        <br><b>Robot Learning</b>
-	<br>(Complex Long-Horizon Manipulation)
+        <br><b>Logical Reasoning</b>
+	<br>(e.g., Physics Understanding)
+        </div>
+        </div>    
+        <div class="topic-column">
+        <a><img src="assets/home/home-demo2program.png" class="topic-content"></a>
+            <div style='text-align: center;'>
+        <br><b>Symbolic Manipulation</b>
+	<br>(e.g., Neural Program Synthesis)
         </div>
         </div>
         <div class="topic-column">
         <a><img src="assets/home/home-demo2vec-resized.gif" class="topic-content"></a>
             <div style='text-align: center;'>
         <br><b>Computer Vision</b>
-	<br>(Learning from Video)
-        </div>
-        </div>
-        <div class="topic-column">
-        <a><img src="assets/home/home-star.gif" class="topic-content"></a>
-            <div style='text-align: center;'>
-        <br id='news'><b>Reinforcement Learning</b>
-	<br>(Skill-based Reinforcement Learning)
+	<br>(e.g., Learning from Video)
         </div>
         </div>
     </div>
