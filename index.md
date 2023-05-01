@@ -23,7 +23,7 @@ order: 0
             We are <b>Cognitive Learning for Vision and Robotics (CLVR, pronounced as 'clever')</b> group at Korea Advanced Institute of Science and Technology (KAIST) led by Joseph J. Lim.
             <!--Our goal is to develop intelligent systems that are capable of perceiving, reasoning, and interacting with the world.
             The research topics include cognitive model (such as generalizable decision-making system), symbolic manipulation, visual perception, and robot learning.-->
-	    Our goal is to develop intelligent systems that make sequential decisions, in the world, throughout perception, action, and reasoning.
+	    Our goal is to develop intelligent systems that make sequential decisions, in the world, via perception, action, and reasoning.
             The research topics include reinforcement learning, robot learning, world model with representation learning, symbolic manipulation, and visual perception.
             </p>
 
@@ -57,7 +57,7 @@ order: 0
         </div>
         </div>
         <div class="topic-column">
-        <a><img src="assets/home/home-furniture.gif" class="topic-content"></a>
+        <a><img src="assets/home/furniture-bench.gif" class="topic-content"></a>
             <div style='text-align: center; padding-top:10px;'>
         <br class="mobile-disable">
         <b>Robot Learning</b>
