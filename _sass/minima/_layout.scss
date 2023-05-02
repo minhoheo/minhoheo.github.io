@@ -672,12 +672,16 @@ html {
 .topic-content {
     height: 200px;
 
-    @include media-query($on-laptop) {
+    @include media-query($on-monitor) {
     	height: 150px;
     }
 
-    @include media-query($on-narrow) {
+    @include media-query($on-laptop) {
     	height: 120px;
+    }
+
+    @include media-query($on-narrow) {
+    	height: 100px;
     }
 
     @include media-query($on-palm) {
