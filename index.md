@@ -55,7 +55,7 @@ order: 0
         </div>
         </div>
         <div class="topic-column">
-        <a><img src="assets/home/furniture-bench.gif" class="topic-content"></a>
+        <a><img src="assets/home/home-furniture-bench.gif" class="topic-content"></a>
             <div style='text-align: center; padding-top:10px;'>
         <br class="mobile-disable">
         <b>Robot Learning</b>
