@@ -20,7 +20,7 @@ order: 0
             </h4>
 
             <p class="intro-paragraph">
-            We are <b>Cognitive Learning for Vision and Robotics (CLVR, pronounced as <i>clever</i>)</b> lab at Korea Advanced Institute of Science and Technology (KAIST), in Seoul, led by Joseph J. Lim.
+            We are the <b>Cognitive Learning for Vision and Robotics (CLVR, pronounced as <i>clever</i>)</b> lab at Korea Advanced Institute of Science and Technology (KAIST), in Seoul, led by Joseph J. Lim.
 	    Our goal is to develop intelligent systems that make sequential decisions, in the world, through perception, action, and reasoning.
             The research topics include reinforcement learning, robot learning, world model with representation learning, visual perception, and symbolic manipulation.
             </p>
