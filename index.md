@@ -174,7 +174,7 @@ order: 0
 	      <b>[Paper]</b> Our paper on multimodal meta-learning is accepted to <b>NeurIPS</b>!
 	    </li>
 	    <li>
-	      <b>[Talk]</b> <a style='color: inherit;' href='https://people.eecs.berkeley.edu/~pathak/' target='_blank'>Deepak Pathak</a> from UC Berkeley gave a talk as part of the CLVR Speaker Series.
+	      <b>[Talk]</b> <a style='color: inherit;' href='https://www.cs.cmu.edu/~dpathak/' target='_blank'>Deepak Pathak</a> from UC Berkeley gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	    <li>
 	      <b>[Paper]</b> Paper on complex skill composition accepted to <b>ICLR 2019</b>!
@@ -217,7 +217,7 @@ order: 0
 	      <b>[Talk]</b> <a style='color: inherit;' href='https://jimmylba.github.io/' target='_blank'>Jimmy Ba</a> from UToronto gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	    <li>
-	      <b>[Talk]</b> <a style='color: inherit;' href='https://people.eecs.berkeley.edu/~isola/' target='_blank'>Phillip Isola</a> from OpenAI gave a talk as part of the CLVR Speaker Series.
+	      <b>[Talk]</b> <a style='color: inherit;' href='http://web.mit.edu/phillipi/' target='_blank'>Phillip Isola</a> from OpenAI gave a talk as part of the CLVR Speaker Series.
 	    </li>
 	  </ul>
 
