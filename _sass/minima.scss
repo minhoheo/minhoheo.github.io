@@ -25,8 +25,13 @@ $table-text-align: left !default;
 // Width of the content area
 $content-width:    1150px !default;
 
+$on-fold:          280px !default;
+$on-SE:            375px !default; // iPhone SE
+$on-phone:         400px !default; // iPhone 12
+$on-galaxy:        480px !default;
+$on-duo:           550px !default;
 $on-palm:          620px !default;
-$on-narrow:        768px !default;
+$on-narrow:        768px !default; // iPad Air, iPad Mini
 $on-laptop:        995px!default;
 
 

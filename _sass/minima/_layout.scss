@@ -476,15 +476,60 @@
     }
 
     @include media-query($on-narrow) {
-        width: 100%;
-        margin-top: 0px;
+        width: 80%;
     }
 
     @include media-query($on-palm) {
         width: 100%;
-        margin-top: 0px;
     }
 
+    @include media-query($on-duo) {
+        width: 100%;
+    }
+
+    @include media-query($on-phone) {
+        width: 100%;
+    }
+
+    @include media-query($on-fold) {
+        width: 100%;
+    }
+}
+
+.picture-container {
+	height:320px;
+
+    @include media-query($on-laptop) {
+	    height: 320px;
+    }
+
+    @include media-query($on-narrow) {
+	    height: 320px;
+    }
+
+    @include media-query($on-palm) {
+	    height: 310px;
+    }
+
+    @include media-query($on-duo) {
+	    height: 280px;
+    }
+
+    @include media-query($on-galaxy) {
+	    height: 250px;
+    }
+
+    @include media-query($on-phone) {
+	    height: 230px;
+    }
+
+    @include media-query($on-SE) {
+	    height: 200px;
+    }
+
+    @include media-query($on-fold) {
+      height: 180px;
+    }
 }
 
 .carousel-image {
@@ -495,8 +540,32 @@
 
     }
 
+    @include media-query($on-laptop) {
+        width: 100%;
+    }
+
     @include media-query($on-narrow) {
-        width: 90%;
+        width: 80%;
+    }
+
+    @include media-query($on-palm) {
+      width: 70%;
+    }
+
+    @include media-query($on-duo) {
+        width: 70%;
+    }
+
+    @include media-query($on-galaxy) {
+      width: 70%;
+    }
+
+    @include media-query($on-phone) {
+	      width: 70%;
+    }
+
+    @include media-query($on-SE) {
+	      width: 70%;
     }
 
     max-height: 100%;
@@ -508,29 +577,26 @@
     padding-left: 30px;
 
     @include media-query($on-laptop) {
-        width: 50%;
+        width: 100%;
     }
 
     @include media-query($on-narrow) {
-        width: 90%;
         padding-left: 0px;
     }
 
     @include media-query($on-palm) {
-        width: 90%;
         padding-left: 0px;
     }
  }
 
 
- .row .topic-column {
+.row .topic-column {
     width:30%;
     margin:auto;
     text-align:center;
     vertical-align: top;
 
     @include media-query($on-palm) {
-        width: 90%;
         padding-left: 0px;
         margin-top: 20px;
 	margin-bottom: 35px;
@@ -542,6 +608,14 @@
 
     @include media-query($on-narrow) {
         margin-top: 0px;
+    }
+
+    @include media-query($on-galaxy) {
+      width: 100%;
+    }
+
+    @include media-query($on-fold) {
+      width: 100%;
     }
 }
 
@@ -591,7 +665,23 @@ html {
 .topic-content {
     height: 200px;
 
+    @include media-query($on-laptop) {
+    	height: 150px;
+    }
+
     @include media-query($on-narrow) {
-        height: 150px;
+    	height: 120px;
+    }
+
+    @include media-query($on-palm) {
+    	height: 90px;
+    }
+
+    @include media-query($on-galaxy) {
+      height: 150px;
+    }
+
+    @include media-query($on-fold) {
+      height: 100px;
     }
 }
