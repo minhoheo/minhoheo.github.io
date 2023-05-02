@@ -130,7 +130,7 @@ order: 9
             <ul class="margin-left-list">
                 <li>
                     Research experience: Previous research experience in machine learning, reinforcement learning,
-                    robotics, or even any other related field
+                    robotics, or any other related field
 
                 </li>
                 <li>
