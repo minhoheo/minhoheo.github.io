@@ -34,8 +34,7 @@ order: 9
             <h3 style="text-align: left;">&#127942; <b>Lab Goal</b> </h3>
             <p class="margin-left">
                 Our goal is to foster <i>world-class</i> students who can push the boundary of current research fields.
-                To
-                achieve this, we select students with the highest potential and provide the best research
+                We select students with the highest potential and provide the best research
                 environment for their growth.
             </p>
             <p class="margin-left">
