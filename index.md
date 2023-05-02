@@ -89,7 +89,7 @@ order: 0
         <div class="topic-column">
         <a><img src="assets/home/home-demo2vec-resized.gif" class="topic-content"></a>
             <div style='text-align: center; padding-top:10px'>
-        <br class="mobile-disable" id='news'><b>Computer Vision</b>
+        <br class="mobile-disable"><b id='news'>Computer Vision</b>
 	<br>(e.g., Learning from Videos)
         </div>
         </div>
