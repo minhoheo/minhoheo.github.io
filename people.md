@@ -14,7 +14,7 @@ order: 5
     </div>
   </a>
   <div>
-    Associate Professor @ KAIST
+Associate Professor @ KAIST
   </div>
 </div>
 

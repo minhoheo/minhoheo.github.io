@@ -36,11 +36,19 @@
   },
 
   {
+    "picture": "/assets/people/hyunjin.jpg",
+    "name": "Hyunjin Kim",
+    "title": "Intern @ KAIST (from<br> Yonsei University)",
+    "research": "",
+  },
+
+
+  {
     "picture": "/assets/people/doohyun.jpg",
     "name": "Doohyun Lee",
     "title": "MS student @ KAIST",
     "email": "dhleekr7 [at] gmail [dot] com",
-    "research": "Robot Learning"
+    "research": "Robot Learning",
   },
 
   {
@@ -48,7 +56,7 @@
     "name": "Haeone Lee",
     "title": "Intern @ KAIST",
     "email": "poiroth946 [at] gmail [dot] com",
-    "research": ""
+    "research": "",
   },
 
     {
@@ -86,8 +94,9 @@
     "email": "ziyiliu29 [at] gmail [dot] com",
     "research": ""
   },
-    {
-	"web": "https://rureadyo.github.io/",
+
+  {
+    "web": "https://rureadyo.github.io/",
     "picture": "/assets/people/sungjae.jpg",
     "name": "Sungjae Park",
     "title": "Intern @ KAIST (from SNU)",
@@ -99,10 +108,10 @@
     "web": "https://kpertsch.github.io/",
     "picture": "/assets/people/joshua_tree/karl.jpg",
     "name": "Karl Pertsch",
-    "title": "PhD student at USC (defended)",
+    "title": "PhD student @ USC (defended)",
     "email": "pertsh [at] usc [dot] edu",
     "research": "Predictive model"
-  },    
+  },
 
   {
     "picture": "/assets/people/junseo.jpg",
@@ -129,7 +138,6 @@
     "email": "jzhang96 [at] usc [dot] edu",
     "research": ""
   },
-
 
   {
     "picture": "/assets/people/joshua2.png",

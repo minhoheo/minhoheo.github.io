@@ -33,7 +33,7 @@ order: 9
 
             <h3 style="text-align: left;">&#127942; <b>Lab Goal</b> </h3>
             <p class="margin-left">
-                Our goal is to foster <i>world-class</i> students who can push the boundary of current research fields.
+                Our goal is to foster <b>world-class</b> students who can push the boundary of current research fields.
                 To
                 achieve this, we select students with the highest potential and provide the best research
                 environment for their growth.
@@ -44,28 +44,28 @@ order: 9
             <ul class="margin-left-list">
                 <!--
                 <li>
-                    <i>Recent</i> Ph.D. alumni have obtained positions as a professor at National Taiwan University, a
+                    <b>Recent</b> Ph.D. alumni have obtained positions as a professor at National Taiwan University, a
                     professor at Yonsei University, and a postdoctoral researcher at UC Berkeley & Stanford.
                 </li>
                 <li>
-                    <i>All</i> Ph.D. alumni, at the stage of graduation, published at least 10 papers at top-tier AI conferences (e.g., ICML, NeurIPS,
+                    <b>All</b> Ph.D. alumni, at the stage of graduation, published at least 10 papers at top-tier AI conferences (e.g., ICML, NeurIPS,
                     ICLR) during their Ph.D.
                 </li>
                 <li>
-		    <i>All</i> pre-Ph.D. students (including interns and visitors) secured admissions from top-tier universities (e.g., MIT, CMU, Stanford) or offers from top-tier companies (e.g., Google and OpenAI).
+		    <b>All</b> pre-Ph.D. students (including interns and visitors) secured admissions from top-tier universities (e.g., MIT, CMU, Stanford) or offers from top-tier companies (e.g., Google and OpenAI).
                 </li>
 		-->
 
                 <li>
-                    <i>Recent</i> Ph.D. alumni: a prof. at National Taiwan University, a
+                    <b>Recent</b> Ph.D. alumni: a prof. at National Taiwan University, a
                     prof. at Yonsei University, and a postdoc at UC Berkeley & Stanford
                 </li>
                 <li>
-                    <i>All</i> Ph.D. alumni: 10+ papers at top-tier AI conferences (e.g., ICML, NeurIPS,
+                    <b>All</b> Ph.D. alumni: 10+ papers at top-tier AI conferences (e.g., ICML, NeurIPS,
                     ICLR) at the time of graduation
                 </li>
                 <li>
-                    <i>All</i> pre-Ph.D. students (including interns and visitors): admissions from top-tier
+                    <b>All</b> pre-Ph.D. students (including interns and visitors): admissions from top-tier
                     universities (e.g., MIT, CMU, Stanford) or offers from top-tier companies (e.g., Google and OpenAI)
                 </li>
 
@@ -74,14 +74,14 @@ order: 9
 
             <h3 style="text-align: left;">&#128640; <b>Lab Culture</b> </h3>
             <p class="margin-left">
-                That said, research is about asking <i>good questions</i>, less about publishing many papers. Starting
+                That said, research is about asking <b>good questions</b>, less about publishing many papers. Starting
                 from day 1, we work on developing your research taste through structuring your research direction and
                 forming a detailed plan. We especially focus on developing core skills such as discussing high-level
                 research topics, posing impactful and interesting questions, and scrutinizing technical details. We aim
                 to cultivate a strong philosophy for research. Everything else (e.g., # of publications) then follows
                 naturally.
                 <br><br>
-                The goal of our lab culture is simple - <i>international impact and visibility</i>. We train students to
+                The goal of our lab culture is simple - <b>international impact and visibility</b>. We train students to
                 seamlessly brainstorm, think, and work with anyone and anywhere in the world.
                 To this end, our lab puts a huge amount of emphasis on cultivating the collaborative culture of question
                 and discussion, and passion and ambition. The cultural focus of our lab:
