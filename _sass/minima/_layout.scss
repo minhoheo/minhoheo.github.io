@@ -496,42 +496,6 @@
     }
 }
 
-.picture-container {
-	height:320px;
-
-    @include media-query($on-laptop) {
-	    height: 320px;
-    }
-
-    @include media-query($on-narrow) {
-	    height: 320px;
-    }
-
-    @include media-query($on-palm) {
-	    height: 310px;
-    }
-
-    @include media-query($on-duo) {
-	    height: 280px;
-    }
-
-    @include media-query($on-galaxy) {
-	    height: 250px;
-    }
-
-    @include media-query($on-phone) {
-	    height: 230px;
-    }
-
-    @include media-query($on-SE) {
-	    height: 200px;
-    }
-
-    @include media-query($on-fold) {
-      height: 180px;
-    }
-}
-
 .carousel-image {
     @include media-query($on-palm) {
         margin-top: 0px !important;
