@@ -642,7 +642,7 @@ html {
     }
 
     @include media-query($on-galaxy) {
-      height: 150px;
+      height: 120px;
     }
 
     @include media-query($on-fold) {
