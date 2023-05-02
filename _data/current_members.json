@@ -18,22 +18,13 @@
   },
 
   {
-    "_comment": {
-    "web": "https://anisha2102.github.io/",
-    "picture": "/assets/people/anisha.jpeg",
-    "name": "Anisha Gunjal",
-    "title": "Visitor @ USC",
-    "email": "anishagunjal7 [at] gmail [dot] com"
-    }
-  },
-
-  {
     "web": "https://minoring.github.io/",
     "picture": "/assets/people/minho.jpg",
     "name": "Minho Heo",
     "title": "MS student @ KAIST",
     "email": "minho.heo [at] kaist [dot] ac [dot] kr"
   },
+
 
   {
     "web": "http://www-scf.usc.edu/~ayushj/",
@@ -43,25 +34,7 @@
     "email": "ayushj [at] usc [dot] edu",
     "research": "Intrinsic reward"
   },
-    {
-    "_comment": {
-        "web": "http://yegonkim.github.io/",
-        "picture": "/assets/people/yegon.jpg",
-        "name": "Yegon Kim",
-        "title": "Intern @ KAIST (from KAIST)",
-        "email": "",
-        "research": ""
-    }
-    },
-    {
-    "_comment": {
-	"picture": "/assets/people/sunghyun.jpg",
-	"name": "Sunghyun Koo",
-	"title": "Intern @ KAIST (from SNU)",
-	"email": "",
-	"research": ""
-    }
-    },
+
   {
     "picture": "/assets/people/doohyun.jpg",
     "name": "Doohyun Lee",
@@ -70,6 +43,13 @@
     "research": "Robot Learning"
   },
 
+  {
+    "picture": "/assets/people/haeone.jpg",
+    "name": "Haeone Lee",
+    "title": "Intern @ KAIST",
+    "email": "poiroth946 [at] gmail [dot] com",
+    "research": ""
+  },
 
     {
 	"web": "https://gimme1dollar.github.io/",
@@ -79,6 +59,8 @@
     "email": "agi.is [at] kaist [dot] ac [dot] kr",
     "research": "AGI"
   },
+
+
   {
     "picture": "/assets/people/xinhu.jpg",
     "name": "Xinhu Li",
@@ -114,27 +96,6 @@
   },
 
   {
-    "_comment": {
-        "web": "https://kpertsch.github.io",
-        "picture": "/assets/people/joshua_tree/karl.jpg",
-        "name": "Karl Pertsch",
-        "title": "PhD student @ USC",
-        "email": "pertsch [at] usc [dot] edu",
-        "research": "Predictive model"
-    }
-  },
-
-  {
-    "_comment": {
-        "web": "https://lucys0.github.io",
-        "picture": "/assets/people/lucy.jpg",
-        "name": "Lucy Shi",
-        "title": "Undergraduate student @ USC",
-        "email": "lucys [at] usc [dot] edu",
-        "research": ""
-    }
-  },
-  {
     "web": "https://kpertsch.github.io/",
     "picture": "/assets/people/joshua_tree/karl.jpg",
     "name": "Karl Pertsch",
@@ -142,23 +103,13 @@
     "email": "pertsh [at] usc [dot] edu",
     "research": "Predictive model"
   },    
+
   {
     "picture": "/assets/people/junseo.jpg",
     "name": "Junseo Youn",
     "title": "Intern @ KAIST (from POSTECH)",
     "email": " [at] kaist [dot] ac [dot] kr",
     "research": ""
-  },
-
-  {
-   "_comment": {
-    "web": "https://gracehzhang.github.io/",
-    "picture": "/assets/people/grace.jpg",
-    "name": "Grace Zhang",
-    "title": "PhD student @ USC",
-    "email": "gracez [at] usc [dot] edu",
-    "research": ""
-   }
   },
 
   {
@@ -179,16 +130,6 @@
     "research": ""
   },
 
-  {
-    "_comment": {
-        "web": "https://thoughtp0lice.github.io/",
-        "picture": "/assets/people/han.jpg",
-        "name": "Han Zhong",
-        "title": "Undergraduate student @ USC",
-        "email": "linghanz [at] usc [dot] edu",
-        "research": ""
-    }
-  },
 
   {
     "picture": "/assets/people/joshua2.png",
