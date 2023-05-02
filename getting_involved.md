@@ -52,7 +52,7 @@ order: 9
                     ICLR) during their Ph.D.
                 </li>
                 <li>
-		    <b>All</b> pre-Ph.D. students (including interns and visitors) secured admissions from top-tier universities (e.g., MIT, CMU, Stanford) or offers from top-tier companies (e.g., Google and OpenAI).
+		    <b>All</b> pre-Ph.D. students (including interns and visitors) secured admissions from top-tier universities (e.g., MIT, CMU, Stanford) or offers from top-tier companies (e.g., Google, OpenAI).
                 </li>
 		-->
 
@@ -66,7 +66,7 @@ order: 9
                 </li>
                 <li>
                     <b>All</b> pre-Ph.D. students (including interns and visitors): admissions from top-tier
-                    universities (e.g., MIT, CMU, Stanford) or offers from top-tier companies (e.g., Google and OpenAI)
+                    universities (e.g., MIT, CMU, Stanford) or offers from top-tier companies (e.g., Google, OpenAI)
                 </li>
 
             </ul>
@@ -75,7 +75,7 @@ order: 9
             <h3 style="text-align: left;">&#128640; <b>Lab Culture</b> </h3>
             <p class="margin-left">
                 That said, research is about asking <i>good questions</i>, less about publishing many papers. Starting
-                from day 1, we work on developing your research taste through structuring your research direction and
+                from day 1, we work on developing your research taste by structuring your research direction and
                 forming a detailed plan. We especially focus on developing core skills such as discussing high-level
                 research topics, posing impactful and interesting questions, and scrutinizing technical details. We aim
                 to cultivate a strong philosophy for research. Everything else (e.g., # of publications) then follows
@@ -95,7 +95,7 @@ order: 9
                     Joseph as Joseph)
                 </li>
                 <li>
-                    Ambition & Passion: All members have extremely strong desires of accomplishment
+                    Ambition & Passion: All members have extremely strong desires for accomplishment
                 </li>
                 <li>
                     Interactive: Active discussion between all
@@ -144,7 +144,7 @@ order: 9
 
             <h3 style="text-align: left;">&#128506; <b>Location</b></h3>
             <p class="margin-left">
-                If you are wiling to meet in-person, feel free to e-mail us and visit! Our lab is located at: <br>9th
+                If you are willing to meet in person, feel free to e-mail us and visit! Our lab is located at: <br>9th
                 building, 85 Hoegi-ro, Cheongnyangri-dong, Dongdaemun-gu, Seoul.
             </p>
 
