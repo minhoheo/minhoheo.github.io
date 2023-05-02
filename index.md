@@ -173,6 +173,7 @@ order: 0
 	    <li>
 	      <b>[Paper]</b> Our paper on multimodal meta-learning is accepted to <b>NeurIPS</b>!
 	    </li>
+
 	    <li>
 	      <b>[Talk]</b> <a style='color: inherit;' href='https://www.cs.cmu.edu/~dpathak/' target='_blank'>Deepak Pathak</a> from UC Berkeley gave a talk as part of the CLVR Speaker Series.
 	    </li>
