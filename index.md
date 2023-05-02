@@ -7,7 +7,7 @@ order: 0
 ---
 
 <div class='container'>
-  <br>
+  <br class='laptop-disable'>
 
   <div class='row'>
         <div class="intro-picture">
