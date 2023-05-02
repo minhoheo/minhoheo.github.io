@@ -75,7 +75,7 @@ order: 9
             <h3 style="text-align: left;">&#128640; <b>Lab Culture</b> </h3>
             <p class="margin-left">
                 That said, research is about asking <i>good questions</i>, less about publishing many papers. Starting
-                from day 1, we work on developing your research taste by structuring your research direction and
+                from day 1, we work on developing your research taste through structuring your research direction and
                 forming a detailed plan. We especially focus on developing core skills such as discussing high-level
                 research topics, posing impactful and interesting questions, and scrutinizing technical details. We aim
                 to cultivate a strong philosophy for research. Everything else (e.g., # of publications) then follows
