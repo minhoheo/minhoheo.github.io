@@ -16,7 +16,7 @@ order: 0
 
         <div class="intro-column">
             <h4 style='text-align: left;'>
-            <b>Welcome to the CLVR lab website!</b>
+            <b>Welcome to the CLVR lab!</b>
             </h4>
 
             <p class="intro-paragraph">
